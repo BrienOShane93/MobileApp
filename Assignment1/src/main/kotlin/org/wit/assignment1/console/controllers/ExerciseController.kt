@@ -1,19 +1,20 @@
 package org.wit.assignment1.console.controllers
 
 import mu.KotlinLogging
-import org.wit.assignment1.console.models.ExerciseMemStore
+import org.wit.assignment1.console.models.ExerciseJSONStore
 import org.wit.assignment1.console.models.ExerciseModel
 import org.wit.assignment1.console.views.ExerciseView
+import java.nio.file.Files.delete
 
 class ExerciseController {
 
-    val exercises = ExerciseMemStore()
+    val exercises = ExerciseJSONStore()
     val exerciseView = ExerciseView()
     val logger = KotlinLogging.logger {}
 
     init {
         logger.info { "Launching Assignment 1 Console App" }
-        println("Assignment 1 Kotlin App Version 3.0")
+        println("Assignment 1 Kotlin App Version 4.0")
     }
 
     fun start() {
@@ -26,6 +27,7 @@ class ExerciseController {
                 2 -> update()
                 3 -> list()
                 4 -> search()
+                5 -> delete()
                 -99 -> dummyData()
                 -1 -> println("Exiting App")
                 else -> println("Invalid Option")
@@ -67,6 +69,20 @@ class ExerciseController {
         }
         else
             println("Exercise Not Updated...")
+    }
+
+    fun delete() {
+        exerciseView.listExercises(exercises)
+        var searchId = exerciseView.getId()
+        val anExercise = search(searchId)
+
+        if(anExercise != null) {
+            exercises.delete(anExercise)
+            println("Exercise Deleted...")
+            exerciseView.listExercises(exercises)
+        }
+        else
+            println("Exercise Not Deleted...")
     }
 
     fun search() {

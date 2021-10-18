@@ -1,7 +1,6 @@
 package org.wit.assignment1.console.views
 
-import org.wit.assignment1.console.main.exercises
-import org.wit.assignment1.console.models.ExerciseMemStore
+import org.wit.assignment1.console.models.ExerciseJSONStore
 import org.wit.assignment1.console.models.ExerciseModel
 
 class ExerciseView {
@@ -16,6 +15,7 @@ class ExerciseView {
         println(" 2. Update Exercise")
         println(" 3. List All Exercises")
         println(" 4. Search Exercises")
+        println(" 5. Delete Exercise")
         println("-1. Exit")
         println()
         print("Enter Option : ")
@@ -27,7 +27,7 @@ class ExerciseView {
         return option
     }
 
-    fun listExercises(exercises : ExerciseMemStore) {
+    fun listExercises(exercises: ExerciseJSONStore) {
         println("List All Exercises")
         println()
         exercises.logAll()
