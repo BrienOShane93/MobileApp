@@ -58,7 +58,7 @@ class ExerciseJSONStore : ExerciseStore {
     }
 
     internal fun logAll() {
-        exercises.forEach { logger.info("${it}") }
+        exercises.forEach { println("${it}") }
     }
 
     private fun serialize() {

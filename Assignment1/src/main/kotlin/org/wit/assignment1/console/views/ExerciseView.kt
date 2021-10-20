@@ -3,6 +3,13 @@ package org.wit.assignment1.console.views
 import org.wit.assignment1.console.models.ExerciseJSONStore
 import org.wit.assignment1.console.models.ExerciseModel
 
+const val TEXT_PURPLE = "\u001B[35m"
+const val TEXT_RED = "\u001B[31m"
+
+const val WHITE_BOLD = "\u001b[1;37m"
+
+const val RESET = "\u001b[0m"
+
 class ExerciseView {
 
     fun menu() : Int {
@@ -10,15 +17,16 @@ class ExerciseView {
         var option : Int
         var input: String?
 
-        println("MAIN MENU")
+        println(WHITE_BOLD + "MAIN MENU" + RESET)
         println(" 1. Add Exercise")
         println(" 2. Update Exercise")
         println(" 3. List All Exercises")
         println(" 4. Search Exercises")
         println(" 5. Delete Exercise")
+        println("-99. Dummy Data")
         println("-1. Exit")
         println()
-        print("Enter Option : ")
+        print(TEXT_PURPLE + "Enter Option : " + RESET)
         input = readLine()!!
         option = if (input.toIntOrNull() != null && !input.isEmpty())
             input.toInt()
@@ -38,15 +46,15 @@ class ExerciseView {
         if(exercise != null)
             println("Exercise Details [ $exercise ]")
         else
-            println("Exercise Not Found...")
+            println(TEXT_RED + "Exercise Not Found..." + RESET)
     }
 
     fun addExerciseData(exercise : ExerciseModel) : Boolean {
 
         println()
-        print("Enter a Name : ")
+        print(TEXT_PURPLE + "Enter a Name : " + RESET)
         exercise.name = readLine()!!
-        print("Enter a Set : ")
+        print(TEXT_PURPLE + "Enter a Set : " + RESET)
         exercise.set = readLine()!!
 
         return exercise.name.isNotEmpty() && exercise.set.isNotEmpty()
@@ -58,9 +66,9 @@ class ExerciseView {
         var tempSet: String?
 
         if (exercise != null) {
-            print("Enter a new Name for [ " + exercise.name + " ] : ")
+            print(TEXT_PURPLE + "Enter a new Name for [ " + exercise.name + " ] : " + RESET)
             tempName = readLine()!!
-            print("Enter a new Set for [ " + exercise.set + " ] : ")
+            print(TEXT_PURPLE + "Enter a new Set for [ " + exercise.set + " ] : " + RESET)
             tempSet = readLine()!!
 
             if (!tempName.isNullOrEmpty() && !tempSet.isNullOrEmpty()) {
@@ -75,7 +83,7 @@ class ExerciseView {
     fun getId() : Long {
         var strId : String? // String to hold user input
         var searchId : Long // Long to hold converted id
-        print("Enter id to Search/Update : ")
+        print(TEXT_PURPLE + "Enter id to Search/Update : " + RESET)
         strId = readLine()!!
         searchId = if (strId.toLongOrNull() != null && !strId.isEmpty())
             strId.toLong()

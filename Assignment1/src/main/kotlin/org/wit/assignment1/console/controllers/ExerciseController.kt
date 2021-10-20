@@ -4,7 +4,12 @@ import mu.KotlinLogging
 import org.wit.assignment1.console.models.ExerciseJSONStore
 import org.wit.assignment1.console.models.ExerciseModel
 import org.wit.assignment1.console.views.ExerciseView
-import java.nio.file.Files.delete
+
+const val TEXT_PURPLE = "\u001B[35m"
+const val TEXT_RED = "\u001B[31m"
+const val TEXT_GREEN = "\u001B[32m"
+
+const val RESET = "\u001b[0m"
 
 class ExerciseController {
 
@@ -13,8 +18,8 @@ class ExerciseController {
     val logger = KotlinLogging.logger {}
 
     init {
-        logger.info { "Launching Assignment 1 Console App" }
-        println("Assignment 1 Kotlin App Version 4.0")
+        logger.info {TEXT_PURPLE + "Launching Assignment 1 Console App" + RESET}
+        println(TEXT_GREEN + "Assignment 1 Kotlin App Version 4.1" + RESET)
     }
 
     fun start() {
@@ -29,12 +34,12 @@ class ExerciseController {
                 4 -> search()
                 5 -> delete()
                 -99 -> dummyData()
-                -1 -> println("Exiting App")
-                else -> println("Invalid Option")
+                -1 -> println(TEXT_RED + "Exiting App" + RESET)
+                else -> println(TEXT_RED + "Invalid Option" + RESET)
             }
             println()
         } while (input != -1)
-        logger.info { "Shutting Down Assignment 1 Console App" }
+        logger.info {TEXT_RED + "Shutting Down Assignment 1 Console App" + RESET}
     }
 
     fun menu() :Int { return exerciseView.menu() }
@@ -45,7 +50,7 @@ class ExerciseController {
         if (exerciseView.addExerciseData(anExercise))
             exercises.create(anExercise)
         else
-            logger.info("Exercise Not Added")
+            logger.info(TEXT_RED + "Exercise Not Added" + RESET)
     }
 
     fun list() {
@@ -62,13 +67,13 @@ class ExerciseController {
             if(exerciseView.updateExerciseData(anExercise)) {
                 exercises.update(anExercise)
                 exerciseView.showExercise(anExercise)
-                logger.info("Exercise Updated : [ $anExercise ]")
+                logger.info(TEXT_GREEN + "Exercise Updated :" + RESET + "[ $anExercise ]")
             }
             else
-                logger.info("Exercise Not Updated")
+                logger.info(TEXT_RED + "Exercise Not Updated" + RESET)
         }
         else
-            println("Exercise Not Updated...")
+            println(TEXT_RED + "Exercise Not Updated..." + RESET)
     }
 
     fun delete() {
@@ -78,11 +83,11 @@ class ExerciseController {
 
         if(anExercise != null) {
             exercises.delete(anExercise)
-            println("Exercise Deleted...")
+            println(TEXT_GREEN + "Exercise Deleted..." + RESET)
             exerciseView.listExercises(exercises)
         }
         else
-            println("Exercise Not Deleted...")
+            println(TEXT_RED + "Exercise Not Deleted..." + RESET)
     }
 
     fun search() {
@@ -97,8 +102,8 @@ class ExerciseController {
     }
 
     fun dummyData() {
-        exercises.create(ExerciseModel(name = "New York New York", set = "So Good They Named It Twice"))
-        exercises.create(ExerciseModel(name = "Ring of Kerry", set = "Some place in the Kingdom"))
-        exercises.create(ExerciseModel(name = "Waterford City", set = "You get great Blaas Here!!"))
+        exercises.create(ExerciseModel(name = "Freestyle", set = "100m"))
+        exercises.create(ExerciseModel(name = "Breast Stroke", set = "50m"))
+        exercises.create(ExerciseModel(name = "Individual Medley", set = "4x100m"))
     }
 }
