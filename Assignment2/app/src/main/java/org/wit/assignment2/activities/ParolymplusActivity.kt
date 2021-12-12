@@ -11,25 +11,26 @@ import timber.log.Timber.i
 class ParolymplusActivity : AppCompatActivity() {
     private lateinit var binding: ActivityParolymplusBinding
     var exercise = ExerciseModel()
+    val exercises = ArrayList<ExerciseModel>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         binding = ActivityParolymplusBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
         Timber.plant(Timber.DebugTree())
-
         i("Parolymplus Activity started...")
 
         binding.btnAdd.setOnClickListener() {
             exercise.title = binding.exerciseTitle.text.toString()
+            exercise.description = binding.description.text.toString()
             if (exercise.title.isNotEmpty()) {
-                i("add Button Pressed: $exercise.title")
+                exercises.add(exercise.copy())
+                i("add Button Pressed: ${exercise}")
+                for (i in exercises.indices)
+                { i("Exercise[$i]:${this.exercises[i]}") }
             }
             else {
-                Snackbar
-                    .make(it,"Please Enter a title", Snackbar.LENGTH_LONG)
+                Snackbar.make(it,"Please Enter a title", Snackbar.LENGTH_LONG)
                     .show()
             }
         }
