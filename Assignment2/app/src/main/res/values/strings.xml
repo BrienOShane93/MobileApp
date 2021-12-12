@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="button_addExercise">Add Exercise</string>
+    <string name="hint_Title">Exercise Title</string>
+</resources>
