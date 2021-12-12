@@ -13,5 +13,35 @@
     "id": 4311535087011287308,
     "name": "Individual Medley",
     "set": "4x100m"
+  },
+  {
+    "id": -7582860299259900811,
+    "name": "Freestyle",
+    "set": "100m"
+  },
+  {
+    "id": 1206070704835452927,
+    "name": "Breast Stroke",
+    "set": "50m"
+  },
+  {
+    "id": -129565905243386369,
+    "name": "Individual Medley",
+    "set": "4x100m"
+  },
+  {
+    "id": -1811439230993019661,
+    "name": "Freestyle",
+    "set": "100m"
+  },
+  {
+    "id": 411006633698083978,
+    "name": "Breast Stroke",
+    "set": "50m"
+  },
+  {
+    "id": -1134909016133218776,
+    "name": "Individual Medley",
+    "set": "4x100m"
   }
 ]
