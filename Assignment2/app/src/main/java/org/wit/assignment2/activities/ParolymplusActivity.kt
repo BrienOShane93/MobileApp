@@ -9,7 +9,6 @@ import timber.log.Timber
 import timber.log.Timber.i
 
 class ParolymplusActivity : AppCompatActivity() {
-
     private lateinit var binding: ActivityParolymplusBinding
     var exercise = ExerciseModel()
 

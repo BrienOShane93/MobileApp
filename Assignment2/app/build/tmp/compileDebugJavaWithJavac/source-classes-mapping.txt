@@ -1,2 +1,4 @@
 org/wit/assignment2/BuildConfig.java
  org.wit.assignment2.BuildConfig
+org/wit/assignment2/databinding/ActivityParolymplusBinding.java
+ org.wit.assignment2.databinding.ActivityParolymplusBinding
