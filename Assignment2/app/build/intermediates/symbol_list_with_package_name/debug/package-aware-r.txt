@@ -2278,7 +2278,10 @@ id title_template
 id toggle
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 id toolbar
@@ -2522,7 +2525,10 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 string hint_Description

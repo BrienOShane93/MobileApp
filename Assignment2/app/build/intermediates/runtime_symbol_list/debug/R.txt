@@ -2708,6 +2708,9 @@ int id x_left 0x7f0801de
 int id x_right 0x7f0801df
 int id zero_corner_chip 0x7f0801e0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -3060,6 +3063,9 @@ int string path_password_strike_through 0x7f0f006c
 int string search_menu_title 0x7f0f006d
 int string status_bar_notification_info_overflow 0x7f0f006e
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
