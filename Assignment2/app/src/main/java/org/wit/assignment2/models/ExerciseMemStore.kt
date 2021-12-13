@@ -27,6 +27,7 @@ class ExerciseMemStore : ExerciseStore {
         if (foundExercise != null) {
             foundExercise.title = exercise.title
             foundExercise.description = exercise.description
+            foundExercise.image = exercise.image
             logAll()
         }
     }

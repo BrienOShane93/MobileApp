@@ -3,6 +3,7 @@ package org.wit.assignment2.adapters
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.squareup.picasso.Picasso
 import org.wit.assignment2.databinding.CardExerciseBinding
 import org.wit.assignment2.models.ExerciseModel
 
@@ -34,6 +35,7 @@ class ExerciseAdapter constructor(private var exercises: List<ExerciseModel>,
         fun bind(exercise: ExerciseModel, listener: ExerciseListener) {
             binding.exerciseTitle.text = exercise.title
             binding.description.text = exercise.description
+            Picasso.get().load(exercise.image).resize(200,200).into(binding.imageIcon)
             binding.root.setOnClickListener { listener.onExerciseClick(exercise) }
         }
     }

@@ -1,17 +1,25 @@
 package org.wit.assignment2.activities
 
+import android.content.Intent
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import androidx.activity.result.ActivityResultLauncher
+import androidx.activity.result.contract.ActivityResultContracts
 import com.google.android.material.snackbar.Snackbar
+import com.squareup.picasso.Picasso
 import org.wit.assignment2.R
 import org.wit.assignment2.databinding.ActivityParolymplusBinding
+import org.wit.assignment2.helpers.showImagePicker
 import org.wit.assignment2.main.MainApp
 import org.wit.assignment2.models.ExerciseModel
+import timber.log.Timber.i
 
 class ParolymplusActivity : AppCompatActivity() {
     private lateinit var binding: ActivityParolymplusBinding
+    private lateinit var imageIntentLauncher : ActivityResultLauncher<Intent>
     var exercise = ExerciseModel()
     lateinit var app: MainApp
 
@@ -30,6 +38,12 @@ class ParolymplusActivity : AppCompatActivity() {
             binding.exerciseTitle.setText(exercise.title)
             binding.description.setText(exercise.description)
             binding.btnAdd.setText(R.string.save_exercise)
+            Picasso.get()
+                .load(exercise.image)
+                .into(binding.exerciseImage)
+            if (exercise.image != Uri.EMPTY) {
+                binding.chooseImage.setText(R.string.change_exercise_image)
+            }
         }
 
         binding.btnAdd.setOnClickListener() {
@@ -48,6 +62,10 @@ class ParolymplusActivity : AppCompatActivity() {
             setResult(RESULT_OK)
             finish()
         }
+
+        binding.chooseImage.setOnClickListener {
+            showImagePicker(imageIntentLauncher)
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
@@ -60,5 +78,25 @@ class ParolymplusActivity : AppCompatActivity() {
             R.id.item_cancel -> { finish() }
         }
         return super.onOptionsItemSelected(item)
+    }
+
+    private fun registerImagePickerCallback() {
+        imageIntentLauncher =
+            registerForActivityResult(ActivityResultContracts.StartActivityForResult())
+            { result ->
+                when(result.resultCode){
+                    RESULT_OK -> {
+                        if (result.data != null) {
+                            i("Got Result ${result.data!!.data}")
+                            exercise.image = result.data!!.data!!
+                            Picasso.get()
+                                .load(exercise.image)
+                                .into(binding.exerciseImage)
+                            binding.chooseImage.setText(R.string.change_exercise_image)
+                        } // end of if
+                    }
+                    RESULT_CANCELED -> { } else -> { }
+                }
+            }
     }
 }

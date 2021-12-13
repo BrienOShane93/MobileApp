@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import androidx.activity.result.ActivityResultLauncher
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.recyclerview.widget.LinearLayoutManager
 import org.wit.assignment2.R
 import org.wit.assignment2.adapters.ExerciseAdapter
@@ -16,6 +18,7 @@ import org.wit.assignment2.models.ExerciseModel
 class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
     lateinit var app: MainApp
     private lateinit var binding: ActivityParolymplusListBinding
+    private lateinit var refreshIntentLauncher : ActivityResultLauncher<Intent>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -40,7 +43,7 @@ class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
         when (item.itemId) {
             R.id.item_add -> {
                 val launcherIntent = Intent(this, ParolymplusActivity::class.java)
-                startActivityForResult(launcherIntent,0)
+                refreshIntentLauncher.launch(launcherIntent)
             }
         }
         return super.onOptionsItemSelected(item)
@@ -49,6 +52,12 @@ class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
     override fun onExerciseClick(exercise: ExerciseModel) {
         val launcherIntent = Intent(this, ParolymplusActivity::class.java)
         launcherIntent.putExtra("exercise_edit", exercise)
-        startActivityForResult(launcherIntent,0)
+        refreshIntentLauncher.launch(launcherIntent)
+    }
+
+    private fun registerRefreshCallback() {
+        refreshIntentLauncher =
+            registerForActivityResult(ActivityResultContracts.StartActivityForResult())
+            { binding.recyclerView.adapter?.notifyDataSetChanged() }
     }
 }

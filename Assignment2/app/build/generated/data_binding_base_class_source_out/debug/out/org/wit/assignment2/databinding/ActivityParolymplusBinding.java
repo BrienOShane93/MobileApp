@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;
@@ -29,7 +30,13 @@ public final class ActivityParolymplusBinding implements ViewBinding {
   public final Button btnAdd;
 
   @NonNull
+  public final Button chooseImage;
+
+  @NonNull
   public final EditText description;
+
+  @NonNull
+  public final ImageView exerciseImage;
 
   @NonNull
   public final EditText exerciseTitle;
@@ -38,12 +45,15 @@ public final class ActivityParolymplusBinding implements ViewBinding {
   public final Toolbar toolbarAdd;
 
   private ActivityParolymplusBinding(@NonNull ConstraintLayout rootView,
-      @NonNull AppBarLayout appBarLayout, @NonNull Button btnAdd, @NonNull EditText description,
+      @NonNull AppBarLayout appBarLayout, @NonNull Button btnAdd, @NonNull Button chooseImage,
+      @NonNull EditText description, @NonNull ImageView exerciseImage,
       @NonNull EditText exerciseTitle, @NonNull Toolbar toolbarAdd) {
     this.rootView = rootView;
     this.appBarLayout = appBarLayout;
     this.btnAdd = btnAdd;
+    this.chooseImage = chooseImage;
     this.description = description;
+    this.exerciseImage = exerciseImage;
     this.exerciseTitle = exerciseTitle;
     this.toolbarAdd = toolbarAdd;
   }
@@ -87,9 +97,21 @@ public final class ActivityParolymplusBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.chooseImage;
+      Button chooseImage = ViewBindings.findChildViewById(rootView, id);
+      if (chooseImage == null) {
+        break missingId;
+      }
+
       id = R.id.description;
       EditText description = ViewBindings.findChildViewById(rootView, id);
       if (description == null) {
+        break missingId;
+      }
+
+      id = R.id.exerciseImage;
+      ImageView exerciseImage = ViewBindings.findChildViewById(rootView, id);
+      if (exerciseImage == null) {
         break missingId;
       }
 
@@ -106,7 +128,7 @@ public final class ActivityParolymplusBinding implements ViewBinding {
       }
 
       return new ActivityParolymplusBinding((ConstraintLayout) rootView, appBarLayout, btnAdd,
-          description, exerciseTitle, toolbarAdd);
+          chooseImage, description, exerciseImage, exerciseTitle, toolbarAdd);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

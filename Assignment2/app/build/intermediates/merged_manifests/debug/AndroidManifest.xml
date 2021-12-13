@@ -32,6 +32,10 @@
         </activity>
 
         <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="org.wit.assignment2.com.squareup.picasso"
+            android:exported="false" />
+        <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="org.wit.assignment2.androidx-startup"
             android:exported="false" >
