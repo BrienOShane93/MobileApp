@@ -1,9 +1,17 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< Updated upstream
 ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
+=======
+ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/BrienOShane93/.gradle/caches/transforms-3/bdebbaec14c45c15f98b50940271f991/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:17:1-22:12
+>>>>>>> Stashed changes
 MERGED from [androidx.core:core-ktx:1.7.0] /Users/BrienOShane93/.gradle/caches/transforms-3/edeb02fb4cefd454699890f987ffc29f/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/18d14ff6081cdd4d7e524a53938b4251/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/BrienOShane93/.gradle/caches/transforms-3/408aa2c6bc6d127e4ffa32f46b3d735b/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
@@ -46,25 +54,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/084d9626b7e6e1bb6f4b7736011c1b83/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/BrienOShane93/.gradle/caches/transforms-3/c834ac66386d7ab1cc0524445ed4065d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.jakewharton.timber:timber:4.7.0] /Users/BrienOShane93/.gradle/caches/transforms-3/6a76ff56dd651dad7f0b24f9c89bc76d/transformed/jetified-timber-4.7.0/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:3:5-34
 		INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/18d14ff6081cdd4d7e524a53938b4251/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/18d14ff6081cdd4d7e524a53938b4251/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/BrienOShane93/.gradle/caches/transforms-3/408aa2c6bc6d127e4ffa32f46b3d735b/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
@@ -84,16 +92,17 @@ MERGED from [com.jakewharton.timber:timber:4.7.0] /Users/BrienOShane93/.gradle/c
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /Users/BrienOShane93/.gradle/caches/transforms-3/6006d603408a8c1ed0edf3e550c48eb5/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
+<<<<<<< Updated upstream
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:11:9-49
 activity#org.wit.assignment2.ParolymplusActivity
 ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-20:20
@@ -101,16 +110,31 @@ ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/m
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:14:13-36
 	android:name
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:13-48
+=======
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-49
+	android:name
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:6:9-37
+activity#org.wit.assignment2.activities.ParolymplusListActivity
+ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:exported
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:19-69
+>>>>>>> Stashed changes
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
 ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:17:27-74
+activity#org.wit.assignment2.activities.ParolymplusActivity
+ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:20:9-21:20
+	android:name
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:20:19-65
 uses-sdk
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml

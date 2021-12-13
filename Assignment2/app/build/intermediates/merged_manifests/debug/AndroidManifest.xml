@@ -9,6 +9,7 @@
         android:targetSdkVersion="31" />
 
     <application
+        android:name="org.wit.assignment2.main.MainApp"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -20,13 +21,19 @@
         android:testOnly="true"
         android:theme="@style/Theme.Assignment2" >
         <activity
+<<<<<<< Updated upstream
             android:name="org.wit.assignment2.ParolymplusActivity"
+=======
+            android:name="org.wit.assignment2.activities.ParolymplusListActivity"
+>>>>>>> Stashed changes
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="org.wit.assignment2.activities.ParolymplusActivity" >
         </activity>
 
         <provider

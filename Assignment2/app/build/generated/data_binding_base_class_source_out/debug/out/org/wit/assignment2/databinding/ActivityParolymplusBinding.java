@@ -29,17 +29,21 @@ public final class ActivityParolymplusBinding implements ViewBinding {
   public final Button btnAdd;
 
   @NonNull
+  public final EditText description;
+
+  @NonNull
   public final EditText exerciseTitle;
 
   @NonNull
   public final Toolbar toolbarAdd;
 
   private ActivityParolymplusBinding(@NonNull ConstraintLayout rootView,
-      @NonNull AppBarLayout appBarLayout, @NonNull Button btnAdd, @NonNull EditText exerciseTitle,
-      @NonNull Toolbar toolbarAdd) {
+      @NonNull AppBarLayout appBarLayout, @NonNull Button btnAdd, @NonNull EditText description,
+      @NonNull EditText exerciseTitle, @NonNull Toolbar toolbarAdd) {
     this.rootView = rootView;
     this.appBarLayout = appBarLayout;
     this.btnAdd = btnAdd;
+    this.description = description;
     this.exerciseTitle = exerciseTitle;
     this.toolbarAdd = toolbarAdd;
   }
@@ -83,6 +87,12 @@ public final class ActivityParolymplusBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.description;
+      EditText description = ViewBindings.findChildViewById(rootView, id);
+      if (description == null) {
+        break missingId;
+      }
+
       id = R.id.exerciseTitle;
       EditText exerciseTitle = ViewBindings.findChildViewById(rootView, id);
       if (exerciseTitle == null) {
@@ -96,7 +106,7 @@ public final class ActivityParolymplusBinding implements ViewBinding {
       }
 
       return new ActivityParolymplusBinding((ConstraintLayout) rootView, appBarLayout, btnAdd,
-          exerciseTitle, toolbarAdd);
+          description, exerciseTitle, toolbarAdd);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
