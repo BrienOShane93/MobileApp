@@ -191,6 +191,7 @@ org.wit.assignment2:style/Widget.AppCompat.CompoundButton.CheckBox = 0x7f100217
 org.wit.assignment2:style/Widget.AppCompat.Button.Small = 0x7f100214
 org.wit.assignment2:attr/behavior_fitToContents = 0x7f030056
 org.wit.assignment2:attr/deriveConstraintsFrom = 0x7f030126
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/showHome = 0x7f080171
 =======
@@ -208,6 +209,9 @@ org.wit.assignment2:id/showHome = 0x7f080175
 org.wit.assignment2:id/showHome = 0x7f080175
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/showHome = 0x7f080175
+>>>>>>> Stashed changes
 org.wit.assignment2:style/TextAppearance.Compat.Notification.Time = 0x7f100164
 org.wit.assignment2:style/Widget.AppCompat.Button.ButtonBar.AlertDialog = 0x7f100212
 org.wit.assignment2:style/Base.Animation.AppCompat.Tooltip = 0x7f10000c
@@ -271,6 +275,7 @@ org.wit.assignment2:style/Theme.MaterialComponents.Dialog.MinWidth = 0x7f1001bc
 org.wit.assignment2:style/Theme.MaterialComponents.DayNight.BottomSheetDialog = 0x7f1001a7
 org.wit.assignment2:attr/constraint_referenced_tags = 0x7f0300ea
 org.wit.assignment2:style/Theme.MaterialComponents.DayNight = 0x7f1001a6
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/up = 0x7f0801c9
 =======
@@ -288,6 +293,9 @@ org.wit.assignment2:id/up = 0x7f0801ce
 org.wit.assignment2:id/up = 0x7f0801ce
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/up = 0x7f0801ce
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Theme.MaterialComponents.CompactMenu = 0x7f1001a5
 org.wit.assignment2:attr/layout_constraintBottom_toTopOf = 0x7f0301f8
 org.wit.assignment2:style/Theme.MaterialComponents = 0x7f1001a2
@@ -318,6 +326,7 @@ org.wit.assignment2:style/TextAppearance.MaterialComponents.Caption = 0x7f100175
 org.wit.assignment2:styleable/Carousel = 0x7f11001b
 org.wit.assignment2:style/TextAppearance.Design.Hint = 0x7f10016b
 org.wit.assignment2:style/TextAppearance.Design.HelperText = 0x7f10016a
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/line3 = 0x7f0800ea
 org.wit.assignment2:style/TextAppearance.Design.Counter = 0x7f100167
@@ -350,6 +359,12 @@ org.wit.assignment2:attr/listPreferredItemPaddingRight = 0x7f030242
 org.wit.assignment2:id/easeIn = 0x7f0800a9
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/line3 = 0x7f0800ed
+org.wit.assignment2:style/TextAppearance.Design.Counter = 0x7f100167
+org.wit.assignment2:attr/listPreferredItemPaddingRight = 0x7f030242
+org.wit.assignment2:id/easeIn = 0x7f0800a9
+>>>>>>> Stashed changes
 org.wit.assignment2:style/TextAppearance.Design.CollapsingToolbar.Expanded = 0x7f100166
 org.wit.assignment2:attr/cardElevation = 0x7f030081
 org.wit.assignment2:attr/behavior_draggable = 0x7f030054
@@ -371,6 +386,7 @@ org.wit.assignment2:style/TextAppearance.AppCompat.Subhead = 0x7f100149
 org.wit.assignment2:attr/closeItemLayout = 0x7f0300c7
 org.wit.assignment2:style/TextAppearance.AppCompat.Small.Inverse = 0x7f100148
 org.wit.assignment2:style/TextAppearance.AppCompat.Small = 0x7f100147
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/inward = 0x7f0800db
 =======
@@ -388,6 +404,9 @@ org.wit.assignment2:id/inward = 0x7f0800dc
 org.wit.assignment2:id/inward = 0x7f0800dc
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/inward = 0x7f0800dc
+>>>>>>> Stashed changes
 org.wit.assignment2:style/TextAppearance.AppCompat.SearchResult.Title = 0x7f100146
 org.wit.assignment2:dimen/mtrl_progress_circular_track_thickness_small = 0x7f06015c
 org.wit.assignment2:style/TextAppearance.AppCompat.SearchResult.Subtitle = 0x7f100145
@@ -425,6 +444,7 @@ org.wit.assignment2:style/ShapeAppearance.MaterialComponents = 0x7f100111
 org.wit.assignment2:attr/fontProviderCerts = 0x7f030189
 org.wit.assignment2:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Query = 0x7f10010c
 org.wit.assignment2:drawable/abc_seekbar_tick_mark_material = 0x7f070042
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/material_timepicker_am = 0x7f0f003b
 =======
@@ -442,6 +462,9 @@ org.wit.assignment2:string/material_timepicker_am = 0x7f0f003c
 org.wit.assignment2:string/material_timepicker_am = 0x7f0f003c
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/material_timepicker_am = 0x7f0f003c
+>>>>>>> Stashed changes
 org.wit.assignment2:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2 = 0x7f10010b
 org.wit.assignment2:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1 = 0x7f10010a
 org.wit.assignment2:style/RtlOverlay.Widget.AppCompat.PopupMenuItem.Title = 0x7f100108
@@ -473,6 +496,7 @@ org.wit.assignment2:style/Base.TextAppearance.AppCompat.Widget.Switch = 0x7f1000
 org.wit.assignment2:style/EmptyTheme = 0x7f1000e7
 org.wit.assignment2:attr/submitBackground = 0x7f030330
 org.wit.assignment2:style/CardView.Dark = 0x7f1000e5
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/textinput_placeholder = 0x7f0801b2
 org.wit.assignment2:style/CardView = 0x7f1000e4
@@ -504,11 +528,18 @@ org.wit.assignment2:style/Theme.AppCompat.Light.DarkActionBar = 0x7f100194
 org.wit.assignment2:id/disableIntraAutoTransition = 0x7f08009c
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/textinput_placeholder = 0x7f0801b6
+org.wit.assignment2:style/CardView = 0x7f1000e4
+org.wit.assignment2:style/Theme.AppCompat.Light.DarkActionBar = 0x7f100194
+org.wit.assignment2:id/disableIntraAutoTransition = 0x7f08009c
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.Widget.MaterialComponents.TextInputLayout = 0x7f1000e2
 org.wit.assignment2:style/Base.Widget.AppCompat.Button.Borderless.Colored = 0x7f1000a9
 org.wit.assignment2:style/Base.Widget.MaterialComponents.Snackbar = 0x7f1000e0
 org.wit.assignment2:style/Base.Widget.MaterialComponents.PopupMenu.Overflow = 0x7f1000de
 org.wit.assignment2:attr/subtitleTextStyle = 0x7f030335
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/layout = 0x7f0800e5
 =======
@@ -517,11 +548,15 @@ org.wit.assignment2:id/layout = 0x7f0800e5
 <<<<<<< Updated upstream
 org.wit.assignment2:id/layout = 0x7f0800e2
 >>>>>>> wip
+=======
+org.wit.assignment2:id/layout = 0x7f0800e8
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.Widget.MaterialComponents.PopupMenu.ContextMenu = 0x7f1000dc
 org.wit.assignment2:style/TextAppearance.Design.Suffix = 0x7f10016f
-org.wit.assignment2:id/showTitle = 0x7f080172
+org.wit.assignment2:id/showTitle = 0x7f080176
 org.wit.assignment2:style/Base.Widget.MaterialComponents.PopupMenu = 0x7f1000db
 org.wit.assignment2:style/Base.Widget.MaterialComponents.MaterialCalendar.NavigationButton = 0x7f1000da
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/off = 0x7f080136
 =======
@@ -546,6 +581,9 @@ org.wit.assignment2:id/off = 0x7f080139
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/off = 0x7f080139
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.Widget.MaterialComponents.CheckedTextView = 0x7f1000d8
 org.wit.assignment2:style/Base.Widget.MaterialComponents.AutoCompleteTextView = 0x7f1000d7
 org.wit.assignment2:style/Base.Widget.AppCompat.Toolbar = 0x7f1000d4
@@ -568,6 +606,7 @@ org.wit.assignment2:style/Base.Widget.AppCompat.Button = 0x7f1000a7
 org.wit.assignment2:style/Base.Widget.AppCompat.ActionButton.CloseMode = 0x7f1000a2
 org.wit.assignment2:style/Base.Widget.AppCompat.ActionBar.TabBar = 0x7f10009e
 org.wit.assignment2:style/Base.V7.Widget.AppCompat.Toolbar = 0x7f10009b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/horizontal_only = 0x7f0800d0
 =======
@@ -585,6 +624,9 @@ org.wit.assignment2:id/horizontal_only = 0x7f0800d1
 org.wit.assignment2:id/horizontal_only = 0x7f0800d1
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/horizontal_only = 0x7f0800d1
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.V7.Widget.AppCompat.EditText = 0x7f10009a
 org.wit.assignment2:style/Widget.AppCompat.PopupMenu = 0x7f100239
 org.wit.assignment2:style/Base.V7.Widget.AppCompat.AutoCompleteTextView = 0x7f100099
@@ -607,6 +649,7 @@ org.wit.assignment2:style/Base.V21.Theme.MaterialComponents.Light = 0x7f100087
 org.wit.assignment2:integer/design_snackbar_text_max_lines = 0x7f090006
 org.wit.assignment2:style/Base.V21.Theme.AppCompat.Light = 0x7f100083
 org.wit.assignment2:style/Base.V14.ThemeOverlay.MaterialComponents.Dialog.Alert = 0x7f10007f
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/dragStart = 0x7f0800a5
 =======
@@ -624,6 +667,9 @@ org.wit.assignment2:id/dragStart = 0x7f0800a6
 org.wit.assignment2:id/dragStart = 0x7f0800a6
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/dragStart = 0x7f0800a6
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.V14.ThemeOverlay.MaterialComponents.Dialog = 0x7f10007e
 org.wit.assignment2:attr/layout_constraintWidth_max = 0x7f03021b
 org.wit.assignment2:style/TextAppearance.MaterialComponents.Overline = 0x7f10017d
@@ -677,6 +723,7 @@ org.wit.assignment2:style/Base.Theme.AppCompat.Light = 0x7f10004e
 org.wit.assignment2:style/Base.Theme.AppCompat.DialogWhenLarge = 0x7f10004d
 org.wit.assignment2:style/Base.Theme.AppCompat.Dialog.FixedSize = 0x7f10004b
 org.wit.assignment2:style/Base.Theme.AppCompat.Dialog.Alert = 0x7f10004a
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/tag_on_apply_window_listener = 0x7f080198
 =======
@@ -694,11 +741,15 @@ org.wit.assignment2:id/tag_on_apply_window_listener = 0x7f08019c
 org.wit.assignment2:id/tag_on_apply_window_listener = 0x7f08019c
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/tag_on_apply_window_listener = 0x7f08019c
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.Theme.AppCompat.CompactMenu = 0x7f100048
 org.wit.assignment2:style/Base.Theme.AppCompat = 0x7f100047
 org.wit.assignment2:attr/boxCornerRadiusBottomStart = 0x7f03006a
 org.wit.assignment2:style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title = 0x7f100046
 org.wit.assignment2:styleable/TextInputLayout = 0x7f110085
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/neverCompleteToEnd = 0x7f08012c
 org.wit.assignment2:id/tabMode = 0x7f080193
@@ -721,6 +772,10 @@ org.wit.assignment2:id/neverCompleteToEnd = 0x7f08012f
 org.wit.assignment2:id/tabMode = 0x7f080197
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/neverCompleteToEnd = 0x7f08012f
+org.wit.assignment2:id/tabMode = 0x7f080197
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item = 0x7f100044
 org.wit.assignment2:style/Base.TextAppearance.MaterialComponents.Subtitle2 = 0x7f100043
 org.wit.assignment2:style/Base.TextAppearance.MaterialComponents.Badge = 0x7f100040
@@ -736,6 +791,7 @@ org.wit.assignment2:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitl
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle = 0x7f100030
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Menu = 0x7f10002f
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Title.Inverse = 0x7f10002d
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/x_left = 0x7f0801d9
 =======
@@ -753,6 +809,9 @@ org.wit.assignment2:id/x_left = 0x7f0801de
 org.wit.assignment2:id/x_left = 0x7f0801de
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/x_left = 0x7f0801de
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Theme.AppCompat.DayNight.Dialog.MinWidth = 0x7f10018b
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Title = 0x7f10002c
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.SearchResult.Title = 0x7f100027
@@ -768,6 +827,7 @@ org.wit.assignment2:style/Theme.MaterialComponents.Light.BottomSheetDialog = 0x7
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Button = 0x7f100016
 org.wit.assignment2:anim/design_snackbar_out = 0x7f01001b
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Body2 = 0x7f100015
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/stretch = 0x7f08018f
 =======
@@ -785,6 +845,9 @@ org.wit.assignment2:id/stretch = 0x7f080193
 org.wit.assignment2:id/stretch = 0x7f080193
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/stretch = 0x7f080193
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Body1 = 0x7f100014
 org.wit.assignment2:style/Base.TextAppearance.AppCompat = 0x7f100013
 org.wit.assignment2:string/abc_action_mode_done = 0x7f0f0003
@@ -794,6 +857,7 @@ org.wit.assignment2:style/Base.Widget.AppCompat.ActivityChooserView = 0x7f1000a5
 org.wit.assignment2:drawable/ic_mtrl_chip_checked_black = 0x7f07006a
 org.wit.assignment2:style/Base.Animation.AppCompat.Dialog = 0x7f10000a
 org.wit.assignment2:style/Base.AlertDialog.AppCompat.Light = 0x7f100009
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/mtrl_picker_toggle_to_calendar_input_mode = 0x7f0f0061
 =======
@@ -811,6 +875,9 @@ org.wit.assignment2:string/mtrl_picker_toggle_to_calendar_input_mode = 0x7f0f006
 org.wit.assignment2:string/mtrl_picker_toggle_to_calendar_input_mode = 0x7f0f0064
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_toggle_to_calendar_input_mode = 0x7f0f0064
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.AlertDialog.AppCompat = 0x7f100008
 org.wit.assignment2:style/Animation.MaterialComponents.BottomSheetDialog = 0x7f100007
 org.wit.assignment2:style/Animation.AppCompat.Dialog = 0x7f100003
@@ -820,6 +887,7 @@ org.wit.assignment2:style/AndroidThemeColorAccentYellow = 0x7f100002
 org.wit.assignment2:style/Base.TextAppearance.MaterialComponents.Headline6 = 0x7f100042
 org.wit.assignment2:style/AlertDialog.AppCompat.Light = 0x7f100001
 org.wit.assignment2:style/Widget.MaterialComponents.TabLayout.Colored = 0x7f1002b6
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/search_menu_title = 0x7f0f006a
 =======
@@ -828,67 +896,71 @@ org.wit.assignment2:string/search_menu_title = 0x7f0f006a
 <<<<<<< Updated upstream
 org.wit.assignment2:string/search_menu_title = 0x7f0f0068
 >>>>>>> wip
+=======
+org.wit.assignment2:string/search_menu_title = 0x7f0f006d
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Title = 0x7f100032
-org.wit.assignment2:string/path_password_strike_through = 0x7f0f0069
+org.wit.assignment2:string/path_password_strike_through = 0x7f0f006c
 org.wit.assignment2:attr/colorSwitchThumbNormal = 0x7f0300e3
 org.wit.assignment2:attr/constraintSetStart = 0x7f0300e8
-org.wit.assignment2:string/path_password_eye = 0x7f0f0066
+org.wit.assignment2:string/path_password_eye = 0x7f0f0069
 org.wit.assignment2:attr/useMaterialThemeColors = 0x7f0303c9
-org.wit.assignment2:string/password_toggle_content_description = 0x7f0f0065
+org.wit.assignment2:string/password_toggle_content_description = 0x7f0f0068
 org.wit.assignment2:style/Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge = 0x7f1001ad
-org.wit.assignment2:string/mtrl_picker_toggle_to_year_selection = 0x7f0f0064
+org.wit.assignment2:string/mtrl_picker_toggle_to_year_selection = 0x7f0f0067
 org.wit.assignment2:style/Base.Widget.AppCompat.ButtonBar.AlertDialog = 0x7f1000ae
-org.wit.assignment2:string/mtrl_picker_toggle_to_day_selection = 0x7f0f0062
+org.wit.assignment2:string/mtrl_picker_toggle_to_day_selection = 0x7f0f0065
 org.wit.assignment2:attr/motion_triggerOnCollision = 0x7f030295
-org.wit.assignment2:string/mtrl_picker_text_input_month_abbr = 0x7f0f005f
-org.wit.assignment2:string/mtrl_picker_text_input_day_abbr = 0x7f0f005e
+org.wit.assignment2:string/mtrl_picker_text_input_month_abbr = 0x7f0f0062
+org.wit.assignment2:string/mtrl_picker_text_input_day_abbr = 0x7f0f0061
 org.wit.assignment2:style/Base.Widget.AppCompat.PopupMenu = 0x7f1000c4
-org.wit.assignment2:string/mtrl_picker_range_header_only_end_selected = 0x7f0f0055
-org.wit.assignment2:string/mtrl_picker_text_input_date_range_start_hint = 0x7f0f005d
+org.wit.assignment2:string/mtrl_picker_range_header_only_end_selected = 0x7f0f0058
+org.wit.assignment2:string/mtrl_picker_text_input_date_range_start_hint = 0x7f0f0060
 org.wit.assignment2:style/Widget.AppCompat.Spinner = 0x7f100245
-org.wit.assignment2:string/mtrl_picker_text_input_date_range_end_hint = 0x7f0f005c
-org.wit.assignment2:string/mtrl_picker_save = 0x7f0f005a
-org.wit.assignment2:string/mtrl_picker_range_header_unselected = 0x7f0f0059
+org.wit.assignment2:string/mtrl_picker_text_input_date_range_end_hint = 0x7f0f005f
+org.wit.assignment2:string/mtrl_picker_save = 0x7f0f005d
+org.wit.assignment2:string/mtrl_picker_range_header_unselected = 0x7f0f005c
 org.wit.assignment2:style/Theme.AppCompat.Light.DialogWhenLarge = 0x7f100198
 org.wit.assignment2:style/ThemeOverlay.AppCompat.Dialog.Alert = 0x7f1001da
-org.wit.assignment2:string/mtrl_picker_out_of_range = 0x7f0f0054
+org.wit.assignment2:string/mtrl_picker_out_of_range = 0x7f0f0057
 org.wit.assignment2:styleable/SwitchCompat = 0x7f11007e
-org.wit.assignment2:id/navigation_bar_item_icon_view = 0x7f080126
-org.wit.assignment2:string/mtrl_picker_invalid_format = 0x7f0f004f
-org.wit.assignment2:id/supportScrollUp = 0x7f080192
-org.wit.assignment2:string/mtrl_picker_date_header_unselected = 0x7f0f004d
-org.wit.assignment2:string/mtrl_picker_date_header_selected = 0x7f0f004b
+org.wit.assignment2:id/navigation_bar_item_icon_view = 0x7f080129
+org.wit.assignment2:string/mtrl_picker_invalid_format = 0x7f0f0052
+org.wit.assignment2:id/supportScrollUp = 0x7f080196
+org.wit.assignment2:string/mtrl_picker_date_header_unselected = 0x7f0f0050
+org.wit.assignment2:string/mtrl_picker_date_header_selected = 0x7f0f004e
 org.wit.assignment2:dimen/mtrl_extended_fab_start_padding = 0x7f06012c
-org.wit.assignment2:string/mtrl_picker_confirm = 0x7f0f004a
-org.wit.assignment2:string/mtrl_exceed_max_badge_number_suffix = 0x7f0f0045
-org.wit.assignment2:id/time = 0x7f0801b5
-org.wit.assignment2:string/mtrl_exceed_max_badge_number_content_description = 0x7f0f0044
-org.wit.assignment2:string/mtrl_chip_close_icon_content_description = 0x7f0f0043
+org.wit.assignment2:string/mtrl_picker_confirm = 0x7f0f004d
+org.wit.assignment2:string/mtrl_exceed_max_badge_number_suffix = 0x7f0f0048
+org.wit.assignment2:id/time = 0x7f0801b9
+org.wit.assignment2:string/mtrl_exceed_max_badge_number_content_description = 0x7f0f0047
+org.wit.assignment2:string/mtrl_chip_close_icon_content_description = 0x7f0f0046
 org.wit.assignment2:attr/region_widthMoreThan = 0x7f0302e7
-org.wit.assignment2:string/material_timepicker_text_input_mode_description = 0x7f0f0041
-org.wit.assignment2:string/material_timepicker_select_time = 0x7f0f0040
-org.wit.assignment2:string/material_slider_range_start = 0x7f0f003a
-org.wit.assignment2:string/material_slider_range_end = 0x7f0f0039
-org.wit.assignment2:string/material_motion_easing_linear = 0x7f0f0037
+org.wit.assignment2:string/material_timepicker_text_input_mode_description = 0x7f0f0042
+org.wit.assignment2:string/material_timepicker_select_time = 0x7f0f0041
+org.wit.assignment2:string/material_slider_range_start = 0x7f0f003b
+org.wit.assignment2:string/material_slider_range_end = 0x7f0f003a
+org.wit.assignment2:string/material_motion_easing_linear = 0x7f0f0038
 org.wit.assignment2:drawable/abc_list_selector_background_transition_holo_light = 0x7f070032
 org.wit.assignment2:style/Widget.AppCompat.PopupWindow = 0x7f10023b
 org.wit.assignment2:style/Widget.MaterialComponents.Button.OutlinedButton = 0x7f100270
 org.wit.assignment2:attr/itemShapeAppearanceOverlay = 0x7f0301d2
 org.wit.assignment2:style/Theme.MaterialComponents.DayNight.DarkActionBar.Bridge = 0x7f1001aa
-org.wit.assignment2:string/material_motion_easing_accelerated = 0x7f0f0034
-org.wit.assignment2:string/material_minute_suffix = 0x7f0f0033
-org.wit.assignment2:string/material_minute_selection = 0x7f0f0032
-org.wit.assignment2:id/rectangles = 0x7f08014e
-org.wit.assignment2:string/material_hour_selection = 0x7f0f0030
+org.wit.assignment2:string/material_motion_easing_accelerated = 0x7f0f0035
+org.wit.assignment2:string/material_minute_suffix = 0x7f0f0034
+org.wit.assignment2:string/material_minute_selection = 0x7f0f0033
+org.wit.assignment2:id/rectangles = 0x7f080151
+org.wit.assignment2:string/material_hour_selection = 0x7f0f0031
 org.wit.assignment2:color/checkbox_themeable_attribute_color = 0x7f05002e
-org.wit.assignment2:string/hint_Title = 0x7f0f002b
-org.wit.assignment2:id/disableScroll = 0x7f08009d
+org.wit.assignment2:string/hint_Title = 0x7f0f002c
+org.wit.assignment2:id/disableScroll = 0x7f08009e
 org.wit.assignment2:string/fab_transformation_sheet_behavior = 0x7f0f0029
 org.wit.assignment2:string/error_icon_content_description = 0x7f0f0026
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.SearchResult.Subtitle = 0x7f100026
 org.wit.assignment2:string/character_counter_pattern = 0x7f0f0023
 org.wit.assignment2:id/autoComplete = 0x7f080055
 org.wit.assignment2:string/character_counter_content_description = 0x7f0f0021
+<<<<<<< Updated upstream
 org.wit.assignment2:layout/design_layout_snackbar = 0x7f0b0020
 =======
 org.wit.assignment2:string/search_menu_title = 0x7f0f006d
@@ -1006,6 +1078,9 @@ org.wit.assignment2:layout/design_layout_snackbar = 0x7f0b0022
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+org.wit.assignment2:layout/design_layout_snackbar = 0x7f0b0022
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Widget.AppCompat.Light.ActionBar.Solid = 0x7f10021f
 org.wit.assignment2:string/bottomsheet_action_expand_halfway = 0x7f0f001f
 org.wit.assignment2:string/bottom_sheet_behavior = 0x7f0f001e
@@ -1040,6 +1115,7 @@ org.wit.assignment2:style/Widget.AppCompat.TextView = 0x7f100249
 org.wit.assignment2:attr/checkMarkCompat = 0x7f030092
 <<<<<<< HEAD
 org.wit.assignment2:color/mtrl_scrim_color = 0x7f0500ab
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -1059,6 +1135,9 @@ org.wit.assignment2:layout/notification_template_icon_group = 0x7f0b005d
 org.wit.assignment2:color/mtrl_scrim_color = 0x7f0500ab
 org.wit.assignment2:layout/notification_template_icon_group = 0x7f0b005d
 >>>>>>> Stashed changes
+=======
+org.wit.assignment2:layout/notification_template_icon_group = 0x7f0b005d
+>>>>>>> Stashed changes
 org.wit.assignment2:color/abc_primary_text_disable_only_material_dark = 0x7f050009
 org.wit.assignment2:style/TextAppearance.AppCompat.Title = 0x7f10014b
 org.wit.assignment2:style/Widget.MaterialComponents.TimePicker.Clock = 0x7f1002c7
@@ -1072,8 +1151,12 @@ org.wit.assignment2:attr/layout_constraintHorizontal_chainStyle = 0x7f030208
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 org.wit.assignment2:layout/mtrl_picker_actions = 0x7f0b004e
 <<<<<<< HEAD
+=======
+org.wit.assignment2:layout/mtrl_picker_actions = 0x7f0b0050
+>>>>>>> Stashed changes
 org.wit.assignment2:color/mtrl_navigation_item_text_color = 0x7f0500a5
 =======
 org.wit.assignment2:color/mtrl_navigation_item_text_color = 0x7f0500a2
@@ -1144,11 +1227,15 @@ org.wit.assignment2:layout/abc_alert_dialog_button_bar_material = 0x7f0b0008
 org.wit.assignment2:dimen/mtrl_navigation_elevation = 0x7f060142
 org.wit.assignment2:layout/abc_action_mode_close_item_material = 0x7f0b0005
 org.wit.assignment2:layout/abc_action_bar_up_container = 0x7f0b0001
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_value_index = 0x7f080103
+=======
+org.wit.assignment2:id/material_value_index = 0x7f080106
+>>>>>>> Stashed changes
 org.wit.assignment2:interpolator/mtrl_linear_out_slow_in = 0x7f0a000a
 org.wit.assignment2:attr/customColorValue = 0x7f030115
-org.wit.assignment2:id/navigation_bar_item_small_label_view = 0x7f080129
+org.wit.assignment2:id/navigation_bar_item_small_label_view = 0x7f08012c
 org.wit.assignment2:string/hide_bottom_view_on_scroll_behavior = 0x7f0f002a
 =======
 <<<<<<< Updated upstream
@@ -1174,6 +1261,7 @@ org.wit.assignment2:string/hide_bottom_view_on_scroll_behavior = 0x7f0f002a
 org.wit.assignment2:integer/material_motion_duration_long_1 = 0x7f090009
 org.wit.assignment2:layout/test_toolbar_custom_background = 0x7f0b006b
 org.wit.assignment2:style/Theme.AppCompat.DayNight = 0x7f100187
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/mtrl_picker_invalid_format_example = 0x7f0f0050
 org.wit.assignment2:dimen/hint_alpha_material_dark = 0x7f060096
@@ -1205,6 +1293,12 @@ org.wit.assignment2:id/save_non_transition_alpha = 0x7f08015a
 org.wit.assignment2:string/material_timepicker_pm = 0x7f0f0040
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_invalid_format_example = 0x7f0f0053
+org.wit.assignment2:dimen/hint_alpha_material_dark = 0x7f060096
+org.wit.assignment2:id/save_non_transition_alpha = 0x7f08015a
+org.wit.assignment2:string/material_timepicker_pm = 0x7f0f0040
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/textBackground = 0x7f030374
 org.wit.assignment2:interpolator/fast_out_slow_in = 0x7f0a0006
 org.wit.assignment2:interpolator/btn_radio_to_off_mtrl_animation_interpolator_0 = 0x7f0a0004
@@ -1220,6 +1314,7 @@ org.wit.assignment2:integer/material_motion_duration_short_2 = 0x7f09000e
 org.wit.assignment2:integer/hide_password_duration = 0x7f090008
 org.wit.assignment2:integer/config_tooltipAnimTime = 0x7f090005
 org.wit.assignment2:style/Widget.AppCompat.CompoundButton.Switch = 0x7f100219
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -1241,6 +1336,10 @@ org.wit.assignment2:layout/test_toolbar = 0x7f0b006a
 org.wit.assignment2:string/mtrl_picker_toggle_to_text_input_mode = 0x7f0f0066
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:layout/test_toolbar = 0x7f0b006a
+org.wit.assignment2:string/mtrl_picker_toggle_to_text_input_mode = 0x7f0f0066
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/voiceIcon = 0x7f0303d2
 org.wit.assignment2:integer/cancel_button_image_alpha = 0x7f090004
 org.wit.assignment2:style/TextAppearance.AppCompat.Widget.ActionBar.Title = 0x7f100151
@@ -1252,6 +1351,7 @@ org.wit.assignment2:style/Widget.Support.CoordinatorLayout = 0x7f1002d1
 org.wit.assignment2:drawable/abc_scrubber_primary_mtrl_alpha = 0x7f07003f
 org.wit.assignment2:style/Base.Theme.AppCompat.Light.Dialog.MinWidth = 0x7f100053
 org.wit.assignment2:style/MaterialAlertDialog.MaterialComponents.Title.Icon.CenterStacked = 0x7f1000ed
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/zero_corner_chip = 0x7f0801db
 org.wit.assignment2:id/wrap = 0x7f0801d6
@@ -1270,170 +1370,183 @@ org.wit.assignment2:id/visible = 0x7f0801cd
 >>>>>>> wip
 org.wit.assignment2:attr/itemIconPadding = 0x7f0301cb
 org.wit.assignment2:style/Widget.MaterialComponents.AppBarLayout.Surface = 0x7f100260
+=======
+org.wit.assignment2:id/zero_corner_chip = 0x7f0801e0
+org.wit.assignment2:id/wrap = 0x7f0801db
+org.wit.assignment2:id/visible_removing_fragment_view_tag = 0x7f0801d7
+org.wit.assignment2:color/ripple_material_dark = 0x7f0500c5
+org.wit.assignment2:id/visible = 0x7f0801d6
+>>>>>>> Stashed changes
 org.wit.assignment2:style/ThemeOverlay.MaterialComponents.AutoCompleteTextView = 0x7f1001e1
-org.wit.assignment2:id/view_tree_lifecycle_owner = 0x7f0801ce
+org.wit.assignment2:id/view_tree_lifecycle_owner = 0x7f0801d3
 org.wit.assignment2:interpolator/btn_radio_to_on_mtrl_animation_interpolator_0 = 0x7f0a0005
-org.wit.assignment2:string/material_clock_toggle_content_description = 0x7f0f002f
-org.wit.assignment2:id/view_transition = 0x7f0801cd
-org.wit.assignment2:id/view_offset_helper = 0x7f0801cc
-org.wit.assignment2:id/vertical_only = 0x7f0801cb
-org.wit.assignment2:id/triangle = 0x7f0801c5
+org.wit.assignment2:string/material_clock_toggle_content_description = 0x7f0f0030
+org.wit.assignment2:id/view_transition = 0x7f0801d2
+org.wit.assignment2:id/view_offset_helper = 0x7f0801d1
+org.wit.assignment2:id/vertical_only = 0x7f0801d0
+org.wit.assignment2:id/triangle = 0x7f0801ca
 org.wit.assignment2:style/TextAppearance.MaterialComponents.Subtitle2 = 0x7f10017f
 org.wit.assignment2:dimen/mtrl_calendar_header_divider_thickness = 0x7f0600fa
-org.wit.assignment2:id/transition_scene_layoutid_cache = 0x7f0801c3
-org.wit.assignment2:id/transition_position = 0x7f0801c2
+org.wit.assignment2:id/transition_scene_layoutid_cache = 0x7f0801c8
+org.wit.assignment2:id/transition_position = 0x7f0801c7
 org.wit.assignment2:anim/btn_checkbox_to_checked_icon_null_animation = 0x7f01000e
-org.wit.assignment2:id/transition_layout_save = 0x7f0801c1
+org.wit.assignment2:id/transition_layout_save = 0x7f0801c6
 org.wit.assignment2:color/bright_foreground_disabled_material_light = 0x7f050023
 org.wit.assignment2:style/Theme.AppCompat.CompactMenu = 0x7f100186
-org.wit.assignment2:id/transition_current_scene = 0x7f0801c0
-org.wit.assignment2:id/topPanel = 0x7f0801bc
-org.wit.assignment2:id/top = 0x7f0801bb
-org.wit.assignment2:id/toolbarAdd = 0x7f0801ba
-org.wit.assignment2:id/textinput_suffix_text = 0x7f0801b4
-org.wit.assignment2:id/textinput_helper_text = 0x7f0801b1
+org.wit.assignment2:id/transition_current_scene = 0x7f0801c5
+org.wit.assignment2:id/topPanel = 0x7f0801c1
+org.wit.assignment2:id/top = 0x7f0801c0
+org.wit.assignment2:id/toolbarAdd = 0x7f0801bf
+org.wit.assignment2:style/ThemeOverlay.AppCompat.Light = 0x7f1001db
+org.wit.assignment2:color/mtrl_navigation_bar_ripple_color = 0x7f0500a2
+org.wit.assignment2:drawable/abc_ab_share_pack_mtrl_alpha = 0x7f070007
+org.wit.assignment2:id/toolbar = 0x7f0801be
+org.wit.assignment2:id/textinput_suffix_text = 0x7f0801b8
+org.wit.assignment2:id/textinput_helper_text = 0x7f0801b5
 org.wit.assignment2:drawable/abc_btn_borderless_material = 0x7f070009
 org.wit.assignment2:color/switch_thumb_normal_material_dark = 0x7f0500cf
-org.wit.assignment2:id/textinput_error = 0x7f0801b0
+org.wit.assignment2:id/textinput_error = 0x7f0801b4
 org.wit.assignment2:color/design_fab_stroke_end_inner_color = 0x7f050052
-org.wit.assignment2:id/textTop = 0x7f0801ab
-org.wit.assignment2:id/textStart = 0x7f0801aa
-org.wit.assignment2:id/exitUntilCollapsed = 0x7f0800b3
-org.wit.assignment2:id/textEnd = 0x7f0801a7
+org.wit.assignment2:id/textTop = 0x7f0801af
+org.wit.assignment2:id/textStart = 0x7f0801ae
+org.wit.assignment2:id/exitUntilCollapsed = 0x7f0800b4
+org.wit.assignment2:id/textEnd = 0x7f0801ab
 org.wit.assignment2:attr/itemShapeInsetEnd = 0x7f0301d5
-org.wit.assignment2:id/text = 0x7f0801a5
-org.wit.assignment2:id/test_radiobutton_android_button_tint = 0x7f0801a3
-org.wit.assignment2:id/tag_unhandled_key_listeners = 0x7f08019f
-org.wit.assignment2:id/tag_transition_group = 0x7f08019d
-org.wit.assignment2:id/tag_state_description = 0x7f08019c
+org.wit.assignment2:id/text = 0x7f0801a9
+org.wit.assignment2:id/test_radiobutton_android_button_tint = 0x7f0801a7
+org.wit.assignment2:id/tag_unhandled_key_listeners = 0x7f0801a3
+org.wit.assignment2:id/tag_transition_group = 0x7f0801a1
+org.wit.assignment2:id/tag_state_description = 0x7f0801a0
 org.wit.assignment2:attr/titleMargin = 0x7f0303a1
-org.wit.assignment2:id/tag_on_receive_content_listener = 0x7f080199
+org.wit.assignment2:id/tag_on_receive_content_listener = 0x7f08019d
 org.wit.assignment2:color/design_default_color_error = 0x7f050042
-org.wit.assignment2:id/tag_accessibility_pane_title = 0x7f080197
+org.wit.assignment2:id/tag_accessibility_pane_title = 0x7f08019b
 org.wit.assignment2:attr/headerLayout = 0x7f03019a
-org.wit.assignment2:id/tag_accessibility_heading = 0x7f080196
+org.wit.assignment2:id/tag_accessibility_heading = 0x7f08019a
 org.wit.assignment2:attr/popupMenuBackground = 0x7f0302c9
-org.wit.assignment2:id/tag_accessibility_clickable_spans = 0x7f080195
+org.wit.assignment2:id/tag_accessibility_clickable_spans = 0x7f080199
 org.wit.assignment2:style/Base.Theme.AppCompat.Light.DarkActionBar = 0x7f10004f
-org.wit.assignment2:id/tag_accessibility_actions = 0x7f080194
+org.wit.assignment2:id/tag_accessibility_actions = 0x7f080198
 org.wit.assignment2:id/confirm_button = 0x7f08007d
-org.wit.assignment2:id/submit_area = 0x7f080191
-org.wit.assignment2:id/submenuarrow = 0x7f080190
+org.wit.assignment2:id/submit_area = 0x7f080195
+org.wit.assignment2:id/submenuarrow = 0x7f080194
 org.wit.assignment2:style/Base.V21.Theme.MaterialComponents.Dialog = 0x7f100086
-org.wit.assignment2:id/dragLeft = 0x7f0800a3
-org.wit.assignment2:id/enterAlwaysCollapsed = 0x7f0800b1
-org.wit.assignment2:id/stop = 0x7f08018e
-org.wit.assignment2:id/staticPostLayout = 0x7f08018d
-org.wit.assignment2:string/material_clock_display_divider = 0x7f0f002e
+org.wit.assignment2:id/dragLeft = 0x7f0800a4
+org.wit.assignment2:id/enterAlwaysCollapsed = 0x7f0800b2
+org.wit.assignment2:id/stop = 0x7f080192
+org.wit.assignment2:id/staticPostLayout = 0x7f080191
+org.wit.assignment2:string/material_clock_display_divider = 0x7f0f002f
 org.wit.assignment2:dimen/highlight_alpha_material_dark = 0x7f060094
-org.wit.assignment2:id/startVertical = 0x7f08018b
-org.wit.assignment2:id/start = 0x7f080188
+org.wit.assignment2:id/startVertical = 0x7f08018f
+org.wit.assignment2:id/start = 0x7f08018c
 org.wit.assignment2:attr/boxStrokeWidthFocused = 0x7f030070
 org.wit.assignment2:style/Base.Theme.MaterialComponents.Light.Dialog.MinWidth = 0x7f100066
-org.wit.assignment2:id/src_over = 0x7f080186
+org.wit.assignment2:id/src_over = 0x7f08018a
 org.wit.assignment2:layout/abc_expanded_menu_layout = 0x7f0b000d
-org.wit.assignment2:id/spring = 0x7f080182
-org.wit.assignment2:id/spread = 0x7f080180
+org.wit.assignment2:id/spring = 0x7f080186
+org.wit.assignment2:id/spread = 0x7f080184
 org.wit.assignment2:style/Base.Widget.AppCompat.DrawerArrowToggle = 0x7f1000b2
 org.wit.assignment2:dimen/abc_action_bar_overflow_padding_start_material = 0x7f060008
-org.wit.assignment2:id/elastic = 0x7f0800ad
-org.wit.assignment2:id/special_effects_controller_view_tag = 0x7f08017d
+org.wit.assignment2:id/elastic = 0x7f0800ae
+org.wit.assignment2:id/special_effects_controller_view_tag = 0x7f080181
 org.wit.assignment2:attr/ifTagSet = 0x7f0301b6
 org.wit.assignment2:style/RtlOverlay.DialogWindowTitle.AppCompat = 0x7f100100
 org.wit.assignment2:style/Base.Widget.AppCompat.ListView.Menu = 0x7f1000c3
-org.wit.assignment2:id/spacer = 0x7f08017c
-org.wit.assignment2:id/snap = 0x7f080179
+org.wit.assignment2:id/spacer = 0x7f080180
+org.wit.assignment2:id/snap = 0x7f08017d
 org.wit.assignment2:attr/actionMenuTextColor = 0x7f030011
-org.wit.assignment2:id/skipCollapsed = 0x7f080174
-org.wit.assignment2:id/sin = 0x7f080173
+org.wit.assignment2:id/skipCollapsed = 0x7f080178
+org.wit.assignment2:id/sin = 0x7f080177
 org.wit.assignment2:styleable/StateSet = 0x7f11007d
 org.wit.assignment2:style/Widget.AppCompat.SearchView = 0x7f100241
-org.wit.assignment2:id/sharedValueUnset = 0x7f08016e
+org.wit.assignment2:id/sharedValueUnset = 0x7f080172
 org.wit.assignment2:dimen/abc_list_item_height_small_material = 0x7f060032
-org.wit.assignment2:id/sharedValueSet = 0x7f08016d
-org.wit.assignment2:id/mtrl_calendar_main_pane = 0x7f080112
-org.wit.assignment2:id/search_plate = 0x7f080167
+org.wit.assignment2:id/sharedValueSet = 0x7f080171
+org.wit.assignment2:id/mtrl_calendar_main_pane = 0x7f080115
+org.wit.assignment2:id/search_plate = 0x7f08016b
 org.wit.assignment2:attr/contentPaddingBottom = 0x7f0300f5
-org.wit.assignment2:id/search_edit_frame = 0x7f080164
-org.wit.assignment2:id/search_close_btn = 0x7f080163
-org.wit.assignment2:id/search_badge = 0x7f080160
-org.wit.assignment2:id/sawtooth = 0x7f080158
+org.wit.assignment2:id/search_edit_frame = 0x7f080168
+org.wit.assignment2:id/search_close_btn = 0x7f080167
+org.wit.assignment2:id/search_badge = 0x7f080164
+org.wit.assignment2:id/sawtooth = 0x7f08015c
 org.wit.assignment2:style/Theme.MaterialComponents.NoActionBar = 0x7f1001d1
-org.wit.assignment2:id/save_overlay_view = 0x7f080157
-org.wit.assignment2:id/row_index_key = 0x7f080155
+org.wit.assignment2:id/save_overlay_view = 0x7f08015b
+org.wit.assignment2:id/row_index_key = 0x7f080159
 org.wit.assignment2:style/Theme.MaterialComponents.DayNight.NoActionBar.Bridge = 0x7f1001b5
-org.wit.assignment2:id/rounded = 0x7f080154
+org.wit.assignment2:id/rounded = 0x7f080158
 org.wit.assignment2:interpolator/mtrl_linear = 0x7f0a0009
 org.wit.assignment2:attr/layout_keyline = 0x7f030229
-org.wit.assignment2:id/right_side = 0x7f080153
+org.wit.assignment2:id/right_side = 0x7f080157
 org.wit.assignment2:style/Widget.AppCompat.ListPopupWindow = 0x7f100235
-org.wit.assignment2:id/right = 0x7f080150
-org.wit.assignment2:id/ratio = 0x7f08014d
+org.wit.assignment2:id/right = 0x7f080154
+org.wit.assignment2:id/recyclerView = 0x7f080152
+org.wit.assignment2:id/ratio = 0x7f080150
 org.wit.assignment2:style/TextAppearance.AppCompat.Light.SearchResult.Subtitle = 0x7f10013e
-org.wit.assignment2:id/radio = 0x7f08014c
-org.wit.assignment2:id/progress_circular = 0x7f08014a
+org.wit.assignment2:id/radio = 0x7f08014f
+org.wit.assignment2:id/progress_circular = 0x7f08014d
 org.wit.assignment2:attr/behavior_autoShrink = 0x7f030053
 org.wit.assignment2:interpolator/mtrl_fast_out_linear_in = 0x7f0a0007
-org.wit.assignment2:id/position = 0x7f080148
-org.wit.assignment2:id/pin = 0x7f080147
+org.wit.assignment2:id/position = 0x7f08014b
+org.wit.assignment2:id/pin = 0x7f08014a
 org.wit.assignment2:dimen/mtrl_badge_with_text_radius = 0x7f0600cc
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Widget.Button.Inverse = 0x7f100039
-org.wit.assignment2:id/material_clock_display = 0x7f0800f1
-org.wit.assignment2:id/pathRelative = 0x7f080144
+org.wit.assignment2:id/material_clock_display = 0x7f0800f4
+org.wit.assignment2:id/pathRelative = 0x7f080147
 org.wit.assignment2:string/abc_action_bar_home_description = 0x7f0f0000
 org.wit.assignment2:dimen/design_snackbar_padding_horizontal = 0x7f060085
-org.wit.assignment2:id/parent_matrix = 0x7f080141
+org.wit.assignment2:id/parent_matrix = 0x7f080144
 org.wit.assignment2:style/MaterialAlertDialog.MaterialComponents = 0x7f1000e8
 org.wit.assignment2:attr/forceApplySystemWindowInsetTop = 0x7f030192
 org.wit.assignment2:string/abc_menu_meta_shortcut_label = 0x7f0f000d
-org.wit.assignment2:id/parentRelative = 0x7f080140
+org.wit.assignment2:id/parentRelative = 0x7f080143
 org.wit.assignment2:styleable/TabLayout = 0x7f110081
 org.wit.assignment2:style/Theme.MaterialComponents.Light.NoActionBar = 0x7f1001cf
 org.wit.assignment2:style/Base.Widget.AppCompat.DropDownItem.Spinner = 0x7f1000b4
-org.wit.assignment2:id/parallax = 0x7f08013d
+org.wit.assignment2:id/parallax = 0x7f080140
 org.wit.assignment2:id/accessibility_custom_action_0 = 0x7f080010
-org.wit.assignment2:id/rightToLeft = 0x7f080151
-org.wit.assignment2:id/overshoot = 0x7f08013b
-org.wit.assignment2:layout/support_simple_spinner_dropdown_item = 0x7f0b0061
+org.wit.assignment2:id/rightToLeft = 0x7f080155
+org.wit.assignment2:id/overshoot = 0x7f08013e
+org.wit.assignment2:layout/support_simple_spinner_dropdown_item = 0x7f0b0063
 org.wit.assignment2:color/mtrl_chip_close_icon_tint = 0x7f050091
-org.wit.assignment2:id/outward = 0x7f08013a
-org.wit.assignment2:id/on = 0x7f080137
-org.wit.assignment2:id/notification_main_column_container = 0x7f080135
-org.wit.assignment2:id/startToEnd = 0x7f08018a
-org.wit.assignment2:id/notification_background = 0x7f080133
-org.wit.assignment2:id/normal = 0x7f080131
-org.wit.assignment2:id/neverCompleteToStart = 0x7f08012d
-org.wit.assignment2:id/navigation_header_container = 0x7f08012a
-org.wit.assignment2:id/navigation_bar_item_large_label_view = 0x7f080128
+org.wit.assignment2:id/outward = 0x7f08013d
+org.wit.assignment2:id/on = 0x7f08013a
+org.wit.assignment2:id/notification_main_column_container = 0x7f080138
+org.wit.assignment2:id/startToEnd = 0x7f08018e
+org.wit.assignment2:id/notification_background = 0x7f080136
+org.wit.assignment2:id/normal = 0x7f080134
+org.wit.assignment2:id/neverCompleteToStart = 0x7f080130
+org.wit.assignment2:id/navigation_header_container = 0x7f08012d
+org.wit.assignment2:id/navigation_bar_item_large_label_view = 0x7f08012b
 org.wit.assignment2:styleable/MaterialButtonToggleGroup = 0x7f11004f
-org.wit.assignment2:id/navigation_bar_item_labels_group = 0x7f080127
-org.wit.assignment2:id/hideable = 0x7f0800cc
+org.wit.assignment2:id/navigation_bar_item_labels_group = 0x7f08012a
+org.wit.assignment2:id/hideable = 0x7f0800cd
 org.wit.assignment2:style/Base.Widget.AppCompat.RatingBar = 0x7f1000c9
-org.wit.assignment2:id/mtrl_view_tag_bottom_padding = 0x7f080124
-org.wit.assignment2:string/mtrl_picker_text_input_date_hint = 0x7f0f005b
+org.wit.assignment2:id/mtrl_view_tag_bottom_padding = 0x7f080127
+org.wit.assignment2:string/mtrl_picker_text_input_date_hint = 0x7f0f005e
 org.wit.assignment2:dimen/mtrl_btn_corner_radius = 0x7f0600d3
-org.wit.assignment2:id/mtrl_picker_title_text = 0x7f080123
-org.wit.assignment2:id/mtrl_picker_text_input_range_end = 0x7f080121
-org.wit.assignment2:id/mtrl_picker_text_input_date = 0x7f080120
-org.wit.assignment2:string/material_motion_easing_emphasized = 0x7f0f0036
-org.wit.assignment2:id/mtrl_picker_header_toggle = 0x7f08011f
+org.wit.assignment2:id/mtrl_picker_title_text = 0x7f080126
+org.wit.assignment2:id/mtrl_picker_text_input_range_end = 0x7f080124
+org.wit.assignment2:id/mtrl_picker_text_input_date = 0x7f080123
+org.wit.assignment2:string/material_motion_easing_emphasized = 0x7f0f0037
+org.wit.assignment2:id/mtrl_picker_header_toggle = 0x7f080122
 org.wit.assignment2:style/Base.V14.ThemeOverlay.MaterialComponents.BottomSheetDialog = 0x7f10007d
-org.wit.assignment2:id/mtrl_picker_header_selection_text = 0x7f08011d
+org.wit.assignment2:id/mtrl_picker_header_selection_text = 0x7f080120
 org.wit.assignment2:drawable/abc_btn_switch_to_on_mtrl_00001 = 0x7f070014
 org.wit.assignment2:style/RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup = 0x7f100104
-org.wit.assignment2:id/mtrl_picker_fullscreen = 0x7f08011b
-org.wit.assignment2:id/wrap_content_constrained = 0x7f0801d8
+org.wit.assignment2:id/mtrl_picker_fullscreen = 0x7f08011e
+org.wit.assignment2:id/wrap_content_constrained = 0x7f0801dd
 org.wit.assignment2:attr/ratingBarStyleIndicator = 0x7f0302dd
 org.wit.assignment2:style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse = 0x7f100222
-org.wit.assignment2:id/mtrl_motion_snapshot_view = 0x7f08011a
-org.wit.assignment2:id/mtrl_child_content_container = 0x7f080118
+org.wit.assignment2:id/mtrl_motion_snapshot_view = 0x7f08011d
+org.wit.assignment2:id/mtrl_child_content_container = 0x7f08011b
 org.wit.assignment2:attr/chipBackgroundColor = 0x7f03009f
-org.wit.assignment2:id/mtrl_card_checked_layer_id = 0x7f080117
+org.wit.assignment2:id/mtrl_card_checked_layer_id = 0x7f08011a
 org.wit.assignment2:color/mtrl_navigation_bar_item_tint = 0x7f0500a1
-org.wit.assignment2:id/mtrl_calendar_year_selector_frame = 0x7f080116
-org.wit.assignment2:id/mtrl_calendar_text_input_frame = 0x7f080115
+org.wit.assignment2:id/mtrl_calendar_year_selector_frame = 0x7f080119
+org.wit.assignment2:id/mtrl_calendar_text_input_frame = 0x7f080118
 org.wit.assignment2:dimen/material_emphasis_medium = 0x7f0600ad
 org.wit.assignment2:style/Widget.Design.TabLayout = 0x7f100257
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/mtrl_calendar_selection_frame = 0x7f080114
 =======
@@ -1668,11 +1781,15 @@ org.wit.assignment2:id/mtrl_calendar_selection_frame = 0x7f080117
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/mtrl_calendar_selection_frame = 0x7f080117
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/percentWidth = 0x7f0302bf
 org.wit.assignment2:style/ThemeOverlay.AppCompat.ActionBar = 0x7f1001d4
 org.wit.assignment2:style/ShapeAppearanceOverlay.BottomRightCut = 0x7f100119
 org.wit.assignment2:style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu = 0x7f1002c3
 org.wit.assignment2:anim/abc_popup_enter = 0x7f010003
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/mtrl_calendar_frame = 0x7f080111
 =======
@@ -1681,18 +1798,22 @@ org.wit.assignment2:id/mtrl_calendar_frame = 0x7f080111
 <<<<<<< Updated upstream
 org.wit.assignment2:id/mtrl_calendar_frame = 0x7f08010e
 >>>>>>> wip
+=======
+org.wit.assignment2:id/mtrl_calendar_frame = 0x7f080114
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/preserveIconSpacing = 0x7f0302d0
-org.wit.assignment2:id/mtrl_calendar_days_of_week = 0x7f080110
+org.wit.assignment2:id/mtrl_calendar_days_of_week = 0x7f080113
 org.wit.assignment2:dimen/mtrl_navigation_rail_icon_margin = 0x7f06014c
-org.wit.assignment2:id/mtrl_calendar_day_selector_frame = 0x7f08010f
-org.wit.assignment2:id/motion_base = 0x7f08010d
-org.wit.assignment2:id/month_navigation_previous = 0x7f08010b
-org.wit.assignment2:id/parentPanel = 0x7f08013f
+org.wit.assignment2:id/mtrl_calendar_day_selector_frame = 0x7f080112
+org.wit.assignment2:id/motion_base = 0x7f080110
+org.wit.assignment2:id/month_navigation_previous = 0x7f08010e
+org.wit.assignment2:id/parentPanel = 0x7f080142
 org.wit.assignment2:style/Base.Theme.MaterialComponents.Light.Bridge = 0x7f10005f
 org.wit.assignment2:attr/iconEndPadding = 0x7f0301ad
-org.wit.assignment2:id/month_navigation_bar = 0x7f080108
-org.wit.assignment2:id/month_grid = 0x7f080107
+org.wit.assignment2:id/month_navigation_bar = 0x7f08010b
+org.wit.assignment2:id/month_grid = 0x7f08010a
 org.wit.assignment2:style/TextAppearance.MaterialComponents.Chip = 0x7f100176
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/mini = 0x7f080106
 org.wit.assignment2:id/middle = 0x7f080105
@@ -1727,10 +1848,15 @@ org.wit.assignment2:id/middle = 0x7f080108
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/mini = 0x7f080109
+org.wit.assignment2:id/middle = 0x7f080108
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_navigation_rail_text_size = 0x7f060150
 org.wit.assignment2:drawable/abc_tab_indicator_mtrl_alpha = 0x7f07004b
 org.wit.assignment2:string/fab_transformation_scrim_behavior = 0x7f0f0028
 org.wit.assignment2:attr/thickness = 0x7f03038b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/unlabeled = 0x7f0801c8
 org.wit.assignment2:id/message = 0x7f080104
@@ -1741,22 +1867,27 @@ org.wit.assignment2:id/message = 0x7f080104
 org.wit.assignment2:id/unlabeled = 0x7f0801c4
 org.wit.assignment2:id/message = 0x7f080101
 >>>>>>> wip
+=======
+org.wit.assignment2:id/unlabeled = 0x7f0801cd
+org.wit.assignment2:id/message = 0x7f080107
+>>>>>>> Stashed changes
 org.wit.assignment2:style/TextAppearance.AppCompat.Widget.Switch = 0x7f10015f
-org.wit.assignment2:id/material_timepicker_view = 0x7f080102
-org.wit.assignment2:id/material_timepicker_ok_button = 0x7f080101
-org.wit.assignment2:id/snackbar_text = 0x7f080178
-org.wit.assignment2:id/material_timepicker_edit_text = 0x7f0800ff
-org.wit.assignment2:id/material_textinput_timepicker = 0x7f0800fc
+org.wit.assignment2:id/material_timepicker_view = 0x7f080105
+org.wit.assignment2:id/material_timepicker_ok_button = 0x7f080104
+org.wit.assignment2:id/snackbar_text = 0x7f08017c
+org.wit.assignment2:id/material_timepicker_edit_text = 0x7f080102
+org.wit.assignment2:id/material_textinput_timepicker = 0x7f0800ff
 org.wit.assignment2:attr/cardPreventCornerOverlap = 0x7f030084
 org.wit.assignment2:attr/textureHeight = 0x7f030387
 org.wit.assignment2:id/accessibility_custom_action_31 = 0x7f080029
-org.wit.assignment2:id/src_atop = 0x7f080184
-org.wit.assignment2:id/material_minute_text_input = 0x7f0800fa
-org.wit.assignment2:layout/mtrl_calendar_days_of_week = 0x7f0b0043
-org.wit.assignment2:id/material_hour_tv = 0x7f0800f8
+org.wit.assignment2:id/src_atop = 0x7f080188
+org.wit.assignment2:id/material_minute_text_input = 0x7f0800fd
+org.wit.assignment2:layout/mtrl_calendar_days_of_week = 0x7f0b0045
+org.wit.assignment2:id/material_hour_tv = 0x7f0800fb
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.SearchResult = 0x7f100025
 org.wit.assignment2:styleable/AnimatedStateListDrawableCompat = 0x7f110007
 org.wit.assignment2:drawable/material_cursor_drawable = 0x7f07006d
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_clock_period_toggle = 0x7f0800f6
 org.wit.assignment2:id/material_clock_hand = 0x7f0800f3
@@ -1824,11 +1955,16 @@ org.wit.assignment2:id/material_clock_hand = 0x7f0800f6
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/material_clock_period_toggle = 0x7f0800f9
+org.wit.assignment2:id/material_clock_hand = 0x7f0800f6
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/suggestionRowLayout = 0x7f030339
 org.wit.assignment2:style/Widget.AppCompat.EditText = 0x7f10021c
 org.wit.assignment2:styleable/ListPopupWindow = 0x7f11004a
 org.wit.assignment2:style/Base.V21.Theme.AppCompat.Light.Dialog = 0x7f100084
 org.wit.assignment2:attr/hintAnimationEnabled = 0x7f0301a4
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/match_parent = 0x7f0800f0
 org.wit.assignment2:id/match_constraint = 0x7f0800ef
@@ -1841,79 +1977,90 @@ org.wit.assignment2:id/match_parent = 0x7f0800ed
 org.wit.assignment2:id/match_constraint = 0x7f0800ec
 org.wit.assignment2:id/peekHeight = 0x7f080142
 >>>>>>> wip
+=======
+org.wit.assignment2:id/match_parent = 0x7f0800f3
+org.wit.assignment2:id/match_constraint = 0x7f0800f2
+org.wit.assignment2:id/peekHeight = 0x7f080148
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/layout_goneMarginEnd = 0x7f030223
 org.wit.assignment2:attr/fastScrollVerticalThumbDrawable = 0x7f03016f
-org.wit.assignment2:id/linear = 0x7f0800eb
+org.wit.assignment2:id/linear = 0x7f0800ee
 org.wit.assignment2:attr/behavior_saveFlags = 0x7f03005b
-org.wit.assignment2:id/textSpacerNoTitle = 0x7f0801a9
-org.wit.assignment2:id/line1 = 0x7f0800e9
+org.wit.assignment2:id/textSpacerNoTitle = 0x7f0801ad
+org.wit.assignment2:id/line1 = 0x7f0800ec
 org.wit.assignment2:style/Widget.AppCompat.RatingBar.Small = 0x7f100240
 org.wit.assignment2:style/Theme.MaterialComponents.Light.BarSize = 0x7f1001c0
-org.wit.assignment2:id/packed = 0x7f08013c
+org.wit.assignment2:id/packed = 0x7f08013f
 org.wit.assignment2:style/Widget.AppCompat.Toolbar.Button.Navigation = 0x7f10024c
 org.wit.assignment2:style/ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox.Dense = 0x7f1001fe
 org.wit.assignment2:dimen/mtrl_fab_elevation = 0x7f060132
-org.wit.assignment2:string/mtrl_picker_range_header_title = 0x7f0f0058
-org.wit.assignment2:id/jumpToStart = 0x7f0800e3
+org.wit.assignment2:string/mtrl_picker_range_header_title = 0x7f0f005b
+org.wit.assignment2:id/jumpToStart = 0x7f0800e6
 org.wit.assignment2:style/TextAppearance.AppCompat.Tooltip = 0x7f10014d
-org.wit.assignment2:id/jumpToEnd = 0x7f0800e2
+org.wit.assignment2:id/jumpToEnd = 0x7f0800e5
 org.wit.assignment2:dimen/abc_list_item_height_material = 0x7f060031
-org.wit.assignment2:id/item_touch_helper_previous_elevation = 0x7f0800e1
-org.wit.assignment2:id/item4 = 0x7f0800e0
-org.wit.assignment2:id/item3 = 0x7f0800df
+org.wit.assignment2:id/item_touch_helper_previous_elevation = 0x7f0800e4
+org.wit.assignment2:style/TextAppearance.AppCompat.Large.Inverse = 0x7f10013d
+org.wit.assignment2:id/item_cancel = 0x7f0800e3
+org.wit.assignment2:styleable/ClockHandView = 0x7f110021
+org.wit.assignment2:style/TextAppearance.MaterialComponents.Body2 = 0x7f100173
+org.wit.assignment2:id/item_add = 0x7f0800e2
+org.wit.assignment2:id/item4 = 0x7f0800e1
+org.wit.assignment2:id/item3 = 0x7f0800e0
 org.wit.assignment2:style/Widget.Design.BottomNavigationView = 0x7f100250
-org.wit.assignment2:id/onInterceptTouchReturnSwipe = 0x7f080138
-org.wit.assignment2:id/design_menu_item_action_area_stub = 0x7f080094
-org.wit.assignment2:id/italic = 0x7f0800dc
-org.wit.assignment2:id/invisible = 0x7f0800da
-org.wit.assignment2:id/never = 0x7f08012b
-org.wit.assignment2:id/ignoreRequest = 0x7f0800d5
+org.wit.assignment2:id/onInterceptTouchReturnSwipe = 0x7f08013b
+org.wit.assignment2:id/design_menu_item_action_area_stub = 0x7f080095
+org.wit.assignment2:id/italic = 0x7f0800dd
+org.wit.assignment2:id/invisible = 0x7f0800db
+org.wit.assignment2:id/never = 0x7f08012e
+org.wit.assignment2:id/ignoreRequest = 0x7f0800d6
 org.wit.assignment2:style/ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Day = 0x7f100120
-org.wit.assignment2:id/ignore = 0x7f0800d4
+org.wit.assignment2:id/ignore = 0x7f0800d5
 org.wit.assignment2:styleable/CoordinatorLayout_Layout = 0x7f11002d
-org.wit.assignment2:id/ifRoom = 0x7f0800d3
+org.wit.assignment2:id/ifRoom = 0x7f0800d4
 org.wit.assignment2:attr/itemHorizontalPadding = 0x7f0301c9
 org.wit.assignment2:style/Base.Widget.AppCompat.CompoundButton.Switch = 0x7f1000b1
-org.wit.assignment2:id/homeAsUp = 0x7f0800ce
-org.wit.assignment2:id/home = 0x7f0800cd
-org.wit.assignment2:id/grouping = 0x7f0800c8
-org.wit.assignment2:id/graph_wrap = 0x7f0800c6
+org.wit.assignment2:id/homeAsUp = 0x7f0800cf
+org.wit.assignment2:id/home = 0x7f0800ce
+org.wit.assignment2:id/grouping = 0x7f0800c9
+org.wit.assignment2:id/graph_wrap = 0x7f0800c7
 org.wit.assignment2:attr/tabIconTint = 0x7f030341
-org.wit.assignment2:id/fragment_container_view_tag = 0x7f0800c0
+org.wit.assignment2:id/fragment_container_view_tag = 0x7f0800c1
 org.wit.assignment2:attr/subMenuArrow = 0x7f03032f
 org.wit.assignment2:style/Widget.AppCompat.Light.ListView.DropDown = 0x7f10022f
-org.wit.assignment2:id/fitToContents = 0x7f0800bb
-org.wit.assignment2:id/filled = 0x7f0800ba
+org.wit.assignment2:id/fitToContents = 0x7f0800bc
+org.wit.assignment2:id/filled = 0x7f0800bb
 org.wit.assignment2:style/Animation.AppCompat.Tooltip = 0x7f100005
-org.wit.assignment2:id/fill_horizontal = 0x7f0800b8
-org.wit.assignment2:id/fade = 0x7f0800b6
-org.wit.assignment2:id/expand_activities_button = 0x7f0800b4
-org.wit.assignment2:id/exerciseTitle = 0x7f0800b2
+org.wit.assignment2:id/fill_horizontal = 0x7f0800b9
+org.wit.assignment2:id/fade = 0x7f0800b7
+org.wit.assignment2:id/expand_activities_button = 0x7f0800b5
+org.wit.assignment2:id/exerciseTitle = 0x7f0800b3
 org.wit.assignment2:attr/flow_horizontalBias = 0x7f030178
 org.wit.assignment2:drawable/abc_btn_check_to_on_mtrl_015 = 0x7f07000d
-org.wit.assignment2:id/scrollIndicatorUp = 0x7f08015d
-org.wit.assignment2:id/titleDividerNoCustom = 0x7f0801b7
-org.wit.assignment2:id/endToStart = 0x7f0800af
+org.wit.assignment2:id/scrollIndicatorUp = 0x7f080161
+org.wit.assignment2:id/titleDividerNoCustom = 0x7f0801bb
+org.wit.assignment2:id/endToStart = 0x7f0800b0
 org.wit.assignment2:attr/pathMotionArc = 0x7f0302bc
-org.wit.assignment2:id/end = 0x7f0800ae
-org.wit.assignment2:id/east = 0x7f0800ab
-org.wit.assignment2:string/mtrl_picker_day_of_week_column_header = 0x7f0f004e
-org.wit.assignment2:id/easeInOut = 0x7f0800a9
-org.wit.assignment2:id/dragUp = 0x7f0800a6
-org.wit.assignment2:id/dragRight = 0x7f0800a4
-org.wit.assignment2:id/dragEnd = 0x7f0800a2
+org.wit.assignment2:id/end = 0x7f0800af
+org.wit.assignment2:id/east = 0x7f0800ac
+org.wit.assignment2:string/mtrl_picker_day_of_week_column_header = 0x7f0f0051
+org.wit.assignment2:id/easeInOut = 0x7f0800aa
+org.wit.assignment2:id/dragUp = 0x7f0800a7
+org.wit.assignment2:id/dragRight = 0x7f0800a5
+org.wit.assignment2:id/dragEnd = 0x7f0800a3
 org.wit.assignment2:string/character_counter_overflowed_content_description = 0x7f0f0022
-org.wit.assignment2:id/dragClockwise = 0x7f0800a0
-org.wit.assignment2:id/tag_screen_reader_focusable = 0x7f08019b
-org.wit.assignment2:id/disjoint = 0x7f08009e
-org.wit.assignment2:id/mtrl_calendar_months = 0x7f080113
-org.wit.assignment2:id/disablePostScroll = 0x7f08009c
+org.wit.assignment2:id/dragClockwise = 0x7f0800a1
+org.wit.assignment2:id/tag_screen_reader_focusable = 0x7f08019f
+org.wit.assignment2:id/disjoint = 0x7f08009f
+org.wit.assignment2:id/mtrl_calendar_months = 0x7f080116
+org.wit.assignment2:id/disablePostScroll = 0x7f08009d
 org.wit.assignment2:attr/cardViewStyle = 0x7f030086
 org.wit.assignment2:style/Base.Widget.AppCompat.Toolbar.Button.Navigation = 0x7f1000d5
-org.wit.assignment2:id/material_clock_face = 0x7f0800f2
-org.wit.assignment2:id/disableHome = 0x7f08009a
-org.wit.assignment2:id/direct = 0x7f080099
+org.wit.assignment2:id/material_clock_face = 0x7f0800f5
+org.wit.assignment2:id/disableHome = 0x7f08009b
+org.wit.assignment2:id/direct = 0x7f08009a
 org.wit.assignment2:style/Base.ThemeOverlay.AppCompat.Dialog = 0x7f10006c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/design_navigation_view = 0x7f080096
 org.wit.assignment2:id/design_bottom_sheet = 0x7f080092
@@ -2082,6 +2229,11 @@ org.wit.assignment2:id/description = 0x7f080092
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/design_navigation_view = 0x7f080097
+org.wit.assignment2:id/design_bottom_sheet = 0x7f080093
+org.wit.assignment2:id/description = 0x7f080092
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_dropdownitem_text_padding_left = 0x7f06002a
 org.wit.assignment2:dimen/cardview_default_radius = 0x7f060055
 org.wit.assignment2:id/dependency_ordering = 0x7f080091
@@ -2089,6 +2241,7 @@ org.wit.assignment2:integer/material_motion_path = 0x7f09000f
 org.wit.assignment2:id/default_activity_button = 0x7f08008f
 org.wit.assignment2:integer/mtrl_card_anim_duration_ms = 0x7f090017
 org.wit.assignment2:drawable/abc_btn_check_material_anim = 0x7f07000b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/guideline = 0x7f0800ca
 org.wit.assignment2:id/decor_content_parent = 0x7f08008e
@@ -2119,6 +2272,12 @@ org.wit.assignment2:string/mtrl_picker_invalid_format_use = 0x7f0f0054
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/guideline = 0x7f0800cb
+org.wit.assignment2:id/decor_content_parent = 0x7f08008e
+org.wit.assignment2:style/TextAppearance.AppCompat.Widget.DropDownItem = 0x7f10015b
+org.wit.assignment2:string/mtrl_picker_invalid_format_use = 0x7f0f0054
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Widget.MaterialComponents.CircularProgressIndicator.Medium = 0x7f100283
 org.wit.assignment2:id/decelerate = 0x7f08008c
 org.wit.assignment2:id/customPanel = 0x7f080089
@@ -2129,8 +2288,12 @@ org.wit.assignment2:style/Test.Widget.MaterialComponents.MaterialCalendar.Day.Se
 org.wit.assignment2:id/cos = 0x7f080085
 org.wit.assignment2:attr/tooltipForegroundColor = 0x7f0303ad
 org.wit.assignment2:style/Base.V28.Theme.AppCompat = 0x7f100092
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/material_timepicker_hour = 0x7f0f003d
+=======
+org.wit.assignment2:string/material_timepicker_hour = 0x7f0f003e
+>>>>>>> Stashed changes
 org.wit.assignment2:id/coordinator = 0x7f080084
 =======
 <<<<<<< Updated upstream
@@ -2155,7 +2318,7 @@ org.wit.assignment2:dimen/mtrl_slider_widget_height = 0x7f06016b
 org.wit.assignment2:style/Theme.AppCompat.NoActionBar = 0x7f10019a
 <<<<<<< HEAD
 org.wit.assignment2:id/clockwise = 0x7f08007a
-org.wit.assignment2:id/progress_horizontal = 0x7f08014b
+org.wit.assignment2:id/progress_horizontal = 0x7f08014e
 org.wit.assignment2:id/clip_horizontal = 0x7f080078
 org.wit.assignment2:id/clear_text = 0x7f080077
 =======
@@ -2176,8 +2339,12 @@ org.wit.assignment2:dimen/design_tab_scrollable_min_width = 0x7f06008a
 org.wit.assignment2:id/circle_center = 0x7f080076
 org.wit.assignment2:id/chip_group = 0x7f080074
 org.wit.assignment2:style/Test.ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Day = 0x7f100126
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/notification_main_column = 0x7f080134
+=======
+org.wit.assignment2:id/notification_main_column = 0x7f080137
+>>>>>>> Stashed changes
 org.wit.assignment2:id/chip3 = 0x7f080073
 =======
 <<<<<<< Updated upstream
@@ -2202,6 +2369,7 @@ org.wit.assignment2:id/chip = 0x7f080070
 org.wit.assignment2:attr/passwordToggleTintMode = 0x7f0302bb
 <<<<<<< HEAD
 org.wit.assignment2:color/material_grey_800 = 0x7f05006c
+<<<<<<< Updated upstream
 org.wit.assignment2:string/path_password_eye_mask_visible = 0x7f0f0068
 =======
 <<<<<<< Updated upstream
@@ -2218,6 +2386,9 @@ org.wit.assignment2:string/path_password_eye_mask_visible = 0x7f0f006b
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/path_password_eye_mask_visible = 0x7f0f006b
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/materialCalendarHeaderConfirmButton = 0x7f030251
 org.wit.assignment2:id/checkbox = 0x7f08006e
 org.wit.assignment2:id/chain = 0x7f08006c
@@ -2229,8 +2400,12 @@ org.wit.assignment2:style/Base.V21.Theme.AppCompat = 0x7f100081
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 org.wit.assignment2:layout/mtrl_calendar_vertical = 0x7f0b0049
 <<<<<<< HEAD
+=======
+org.wit.assignment2:layout/mtrl_calendar_vertical = 0x7f0b004b
+>>>>>>> Stashed changes
 org.wit.assignment2:id/buttonPanel = 0x7f080064
 =======
 org.wit.assignment2:id/buttonPanel = 0x7f080062
@@ -2256,7 +2431,7 @@ org.wit.assignment2:animator/design_fab_hide_motion_spec = 0x7f020001
 <<<<<<< HEAD
 org.wit.assignment2:id/beginning = 0x7f08005b
 org.wit.assignment2:id/beginOnFirstDraw = 0x7f08005a
-org.wit.assignment2:string/mtrl_picker_date_header_title = 0x7f0f004c
+org.wit.assignment2:string/mtrl_picker_date_header_title = 0x7f0f004f
 org.wit.assignment2:id/barrier = 0x7f080058
 =======
 <<<<<<< Updated upstream
@@ -2282,6 +2457,7 @@ org.wit.assignment2:id/animateToStart = 0x7f08004d
 org.wit.assignment2:attr/telltales_tailScale = 0x7f03035b
 org.wit.assignment2:id/all = 0x7f080049
 org.wit.assignment2:attr/titleMarginStart = 0x7f0303a4
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/standard = 0x7f080187
 =======
@@ -2299,11 +2475,15 @@ org.wit.assignment2:id/standard = 0x7f08018b
 org.wit.assignment2:id/standard = 0x7f08018b
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/standard = 0x7f08018b
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/notification_bg_normal = 0x7f070087
 org.wit.assignment2:id/add = 0x7f080046
 org.wit.assignment2:layout/material_time_chip = 0x7f0b0038
 org.wit.assignment2:id/action_text = 0x7f080043
 org.wit.assignment2:style/Base.Widget.AppCompat.ProgressBar = 0x7f1000c7
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/withText = 0x7f0801d4
 org.wit.assignment2:id/action_menu_presenter = 0x7f08003f
@@ -2334,6 +2514,12 @@ org.wit.assignment2:id/scrollIndicatorDown = 0x7f080160
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/withText = 0x7f0801d9
+org.wit.assignment2:id/action_menu_presenter = 0x7f08003f
+org.wit.assignment2:id/action_divider = 0x7f08003c
+org.wit.assignment2:id/scrollIndicatorDown = 0x7f080160
+>>>>>>> Stashed changes
 org.wit.assignment2:id/action_context_bar = 0x7f08003b
 org.wit.assignment2:id/action_container = 0x7f08003a
 org.wit.assignment2:id/action_bar_title = 0x7f080039
@@ -2343,6 +2529,7 @@ org.wit.assignment2:style/TextAppearance.AppCompat.Widget.Button.Inverse = 0x7f1
 org.wit.assignment2:id/accessibility_custom_action_8 = 0x7f08002e
 org.wit.assignment2:style/Platform.Widget.AppCompat.Spinner = 0x7f1000ff
 org.wit.assignment2:animator/design_fab_show_motion_spec = 0x7f020002
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_label = 0x7f0800f9
 =======
@@ -2360,11 +2547,15 @@ org.wit.assignment2:id/material_label = 0x7f0800fc
 org.wit.assignment2:id/material_label = 0x7f0800fc
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/material_label = 0x7f0800fc
+>>>>>>> Stashed changes
 org.wit.assignment2:id/accessibility_custom_action_6 = 0x7f08002c
 org.wit.assignment2:id/accessibility_custom_action_5 = 0x7f08002b
 org.wit.assignment2:style/Base.Widget.AppCompat.SeekBar.Discrete = 0x7f1000cf
 org.wit.assignment2:id/accessibility_custom_action_4 = 0x7f08002a
 org.wit.assignment2:attr/boxCornerRadiusTopStart = 0x7f03006c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_clock_period_am_button = 0x7f0800f4
 org.wit.assignment2:id/accessibility_custom_action_29 = 0x7f080026
@@ -2392,6 +2583,11 @@ org.wit.assignment2:id/accessibility_custom_action_29 = 0x7f080026
 org.wit.assignment2:id/dialog_button = 0x7f080098
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/material_clock_period_am_button = 0x7f0800f7
+org.wit.assignment2:id/accessibility_custom_action_29 = 0x7f080026
+org.wit.assignment2:id/dialog_button = 0x7f080098
+>>>>>>> Stashed changes
 org.wit.assignment2:id/accessibility_custom_action_28 = 0x7f080025
 org.wit.assignment2:attr/hideAnimationBehavior = 0x7f0301a0
 org.wit.assignment2:style/Theme.MaterialComponents.Dialog.FixedSize.Bridge = 0x7f1001bb
@@ -2403,6 +2599,7 @@ org.wit.assignment2:id/constraint = 0x7f08007e
 org.wit.assignment2:id/accessibility_custom_action_24 = 0x7f080021
 org.wit.assignment2:id/accessibility_custom_action_26 = 0x7f080023
 org.wit.assignment2:id/accessibility_custom_action_23 = 0x7f080020
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/gone = 0x7f0800c4
 =======
@@ -2420,6 +2617,9 @@ org.wit.assignment2:id/gone = 0x7f0800c5
 org.wit.assignment2:id/gone = 0x7f0800c5
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/gone = 0x7f0800c5
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/abc_ic_menu_overflow_material = 0x7f070023
 org.wit.assignment2:id/accessibility_custom_action_22 = 0x7f08001f
 org.wit.assignment2:style/Widget.AppCompat.Light.SearchView = 0x7f100232
@@ -2427,6 +2627,7 @@ org.wit.assignment2:id/accessibility_custom_action_21 = 0x7f08001e
 org.wit.assignment2:color/abc_tint_btn_checkable = 0x7f050013
 org.wit.assignment2:style/Theme.MaterialComponents.Light.Dialog.FixedSize.Bridge = 0x7f1001ca
 org.wit.assignment2:dimen/mtrl_extended_fab_bottom_padding = 0x7f060121
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/left = 0x7f0800e6
 =======
@@ -2444,12 +2645,16 @@ org.wit.assignment2:id/left = 0x7f0800e9
 org.wit.assignment2:id/left = 0x7f0800e9
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/left = 0x7f0800e9
+>>>>>>> Stashed changes
 org.wit.assignment2:id/accessibility_custom_action_19 = 0x7f08001b
 org.wit.assignment2:attr/bottomSheetStyle = 0x7f030065
 org.wit.assignment2:attr/saturation = 0x7f0302ed
 org.wit.assignment2:id/accessibility_custom_action_17 = 0x7f080019
 org.wit.assignment2:id/accessibility_custom_action_16 = 0x7f080018
 org.wit.assignment2:style/ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Window.Fullscreen = 0x7f100121
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/textSpacerNoButtons = 0x7f0801a8
 =======
@@ -2458,11 +2663,15 @@ org.wit.assignment2:id/textSpacerNoButtons = 0x7f0801a8
 <<<<<<< Updated upstream
 org.wit.assignment2:id/textSpacerNoButtons = 0x7f0801a5
 >>>>>>> wip
+=======
+org.wit.assignment2:id/textSpacerNoButtons = 0x7f0801ac
+>>>>>>> Stashed changes
 org.wit.assignment2:id/accessibility_custom_action_12 = 0x7f080014
 org.wit.assignment2:id/accessibility_custom_action_11 = 0x7f080013
-org.wit.assignment2:id/search_mag_icon = 0x7f080166
+org.wit.assignment2:id/search_mag_icon = 0x7f08016a
 org.wit.assignment2:id/accessibility_custom_action_10 = 0x7f080012
 org.wit.assignment2:style/TextAppearance.AppCompat.Widget.PopupMenu.Large = 0x7f10015d
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/flip = 0x7f0800bd
 =======
@@ -2491,6 +2700,9 @@ org.wit.assignment2:style/TextAppearance.AppCompat.Widget.PopupMenu.Large = 0x7f
 org.wit.assignment2:id/flip = 0x7f0800be
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/flip = 0x7f0800be
+>>>>>>> Stashed changes
 org.wit.assignment2:id/accessibility_custom_action_1 = 0x7f080011
 org.wit.assignment2:id/accessibility_action_clickable_span = 0x7f08000f
 org.wit.assignment2:style/Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox.Dense = 0x7f100264
@@ -2499,6 +2711,7 @@ org.wit.assignment2:id/TOP_START = 0x7f08000d
 org.wit.assignment2:id/TOP_END = 0x7f08000c
 org.wit.assignment2:id/SHOW_PROGRESS = 0x7f08000a
 org.wit.assignment2:style/Base.Widget.AppCompat.Light.ActionBar.TabView = 0x7f1000bc
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_clock_period_pm_button = 0x7f0800f5
 =======
@@ -2516,6 +2729,9 @@ org.wit.assignment2:id/material_clock_period_pm_button = 0x7f0800f8
 org.wit.assignment2:id/material_clock_period_pm_button = 0x7f0800f8
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/material_clock_period_pm_button = 0x7f0800f8
+>>>>>>> Stashed changes
 org.wit.assignment2:styleable/FontFamily = 0x7f110035
 org.wit.assignment2:id/SHOW_PATH = 0x7f080009
 org.wit.assignment2:drawable/$avd_show_password__2 = 0x7f070005
@@ -2542,6 +2758,7 @@ org.wit.assignment2:drawable/notification_bg = 0x7f070083
 org.wit.assignment2:drawable/navigation_empty_icon = 0x7f070081
 org.wit.assignment2:dimen/abc_text_size_title_material = 0x7f06004f
 org.wit.assignment2:drawable/mtrl_tabs_default_indicator = 0x7f070080
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/mtrl_picker_range_header_selected = 0x7f0f0057
 =======
@@ -2559,6 +2776,9 @@ org.wit.assignment2:string/mtrl_picker_range_header_selected = 0x7f0f005a
 org.wit.assignment2:string/mtrl_picker_range_header_selected = 0x7f0f005a
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_range_header_selected = 0x7f0f005a
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/mtrl_popupmenu_background_dark = 0x7f07007f
 org.wit.assignment2:dimen/mtrl_navigation_item_shape_horizontal_margin = 0x7f060146
 org.wit.assignment2:layout/mtrl_calendar_months = 0x7f0b004a
@@ -2580,6 +2800,7 @@ org.wit.assignment2:drawable/ic_mtrl_chip_checked_circle = 0x7f07006b
 org.wit.assignment2:style/MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked = 0x7f1000f1
 org.wit.assignment2:color/design_dark_default_color_surface = 0x7f050040
 org.wit.assignment2:style/Theme.MaterialComponents.Bridge = 0x7f1001a4
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/icon_group = 0x7f0800d2
 =======
@@ -2597,11 +2818,15 @@ org.wit.assignment2:id/icon_group = 0x7f0800d3
 org.wit.assignment2:id/icon_group = 0x7f0800d3
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/icon_group = 0x7f0800d3
+>>>>>>> Stashed changes
 org.wit.assignment2:style/ShapeAppearance.MaterialComponents.Tooltip = 0x7f100116
 org.wit.assignment2:drawable/ic_mtrl_checked_circle = 0x7f070069
 org.wit.assignment2:layout/abc_action_mode_bar = 0x7f0b0004
 org.wit.assignment2:drawable/ic_clock_black_24dp = 0x7f070065
 org.wit.assignment2:drawable/design_ic_visibility_off = 0x7f070062
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/dragDown = 0x7f0800a1
 =======
@@ -2610,11 +2835,15 @@ org.wit.assignment2:id/dragDown = 0x7f0800a1
 <<<<<<< Updated upstream
 org.wit.assignment2:id/dragDown = 0x7f08009f
 >>>>>>> wip
+=======
+org.wit.assignment2:id/dragDown = 0x7f0800a2
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/design_ic_visibility = 0x7f070061
 org.wit.assignment2:drawable/btn_radio_off_mtrl = 0x7f07005c
-org.wit.assignment2:id/unchecked = 0x7f0801c6
+org.wit.assignment2:id/unchecked = 0x7f0801cb
 org.wit.assignment2:drawable/btn_checkbox_checked_to_unchecked_mtrl_animation = 0x7f070059
 org.wit.assignment2:drawable/abc_textfield_search_default_mtrl_alpha = 0x7f070053
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/search_src_text = 0x7f080168
 org.wit.assignment2:id/postLayout = 0x7f080149
@@ -2652,6 +2881,10 @@ org.wit.assignment2:id/search_src_text = 0x7f08016c
 org.wit.assignment2:id/postLayout = 0x7f08014c
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/search_src_text = 0x7f08016c
+org.wit.assignment2:id/postLayout = 0x7f08014c
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/ic_launcher_foreground = 0x7f070068
 org.wit.assignment2:dimen/mtrl_btn_text_btn_padding_right = 0x7f0600e8
 org.wit.assignment2:drawable/abc_text_cursor_material = 0x7f07004c
@@ -2664,6 +2897,7 @@ org.wit.assignment2:drawable/abc_star_black_48dp = 0x7f070046
 org.wit.assignment2:attr/itemShapeAppearance = 0x7f0301d1
 org.wit.assignment2:drawable/abc_spinner_mtrl_am_alpha = 0x7f070044
 org.wit.assignment2:attr/navigationContentDescription = 0x7f030298
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/easeOut = 0x7f0800aa
 =======
@@ -2681,12 +2915,16 @@ org.wit.assignment2:id/easeOut = 0x7f0800ab
 org.wit.assignment2:id/easeOut = 0x7f0800ab
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/easeOut = 0x7f0800ab
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/abc_seekbar_track_material = 0x7f070043
 org.wit.assignment2:drawable/abc_seekbar_thumb_material = 0x7f070041
 org.wit.assignment2:drawable/abc_scrubber_track_mtrl_alpha = 0x7f070040
 org.wit.assignment2:style/Base.Widget.AppCompat.RatingBar.Small = 0x7f1000cb
 org.wit.assignment2:drawable/abc_scrubber_control_to_pressed_mtrl_005 = 0x7f07003e
 org.wit.assignment2:drawable/abc_scrubber_control_to_pressed_mtrl_000 = 0x7f07003d
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/toggle = 0x7f0801b9
 org.wit.assignment2:style/Animation.Design.BottomSheetDialog = 0x7f100006
@@ -2714,6 +2952,11 @@ org.wit.assignment2:style/Animation.Design.BottomSheetDialog = 0x7f100006
 org.wit.assignment2:id/dragAnticlockwise = 0x7f0800a0
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/toggle = 0x7f0801bd
+org.wit.assignment2:style/Animation.Design.BottomSheetDialog = 0x7f100006
+org.wit.assignment2:id/dragAnticlockwise = 0x7f0800a0
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/materialAlertDialogBodyTextStyle = 0x7f030246
 org.wit.assignment2:attr/thumbTintMode = 0x7f030393
 org.wit.assignment2:drawable/abc_scrubber_control_off_mtrl_alpha = 0x7f07003c
@@ -2723,6 +2966,7 @@ org.wit.assignment2:layout/abc_activity_chooser_view_list_item = 0x7f0b0007
 org.wit.assignment2:drawable/abc_vector_test = 0x7f070055
 org.wit.assignment2:style/Theme.MaterialComponents.Light.Dialog.MinWidth.Bridge = 0x7f1001cc
 org.wit.assignment2:dimen/mtrl_btn_text_btn_icon_padding = 0x7f0600e6
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/scroll = 0x7f08015b
 =======
@@ -2740,6 +2984,9 @@ org.wit.assignment2:id/scroll = 0x7f08015f
 org.wit.assignment2:id/scroll = 0x7f08015f
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/scroll = 0x7f08015f
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/abc_ratingbar_material = 0x7f07003a
 org.wit.assignment2:drawable/abc_popup_background_mtrl_mult = 0x7f070038
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Headline = 0x7f10001c
@@ -2753,11 +3000,15 @@ org.wit.assignment2:style/Base.Widget.MaterialComponents.Slider = 0x7f1000df
 org.wit.assignment2:drawable/abc_list_focused_holo = 0x7f07002d
 org.wit.assignment2:attr/layout_constraintHeight_max = 0x7f030204
 org.wit.assignment2:drawable/abc_item_background_holo_light = 0x7f07002a
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/x_right = 0x7f0801da
+=======
+org.wit.assignment2:id/x_right = 0x7f0801df
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/abc_ic_voice_search_api_material = 0x7f070028
 org.wit.assignment2:attr/paddingStart = 0x7f0302b1
-org.wit.assignment2:id/spline = 0x7f08017e
+org.wit.assignment2:id/spline = 0x7f080182
 org.wit.assignment2:id/cut = 0x7f08008a
 =======
 <<<<<<< Updated upstream
@@ -2809,6 +3060,7 @@ org.wit.assignment2:drawable/abc_btn_radio_to_on_mtrl_000 = 0x7f070012
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 org.wit.assignment2:layout/mtrl_calendar_day = 0x7f0b0041
 <<<<<<< HEAD
 org.wit.assignment2:id/outline = 0x7f080139
@@ -2827,11 +3079,16 @@ org.wit.assignment2:layout/mtrl_calendar_day = 0x7f0b0043
 org.wit.assignment2:id/outline = 0x7f08013c
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:layout/mtrl_calendar_day = 0x7f0b0043
+org.wit.assignment2:id/outline = 0x7f08013c
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/abc_btn_radio_material_anim = 0x7f070011
 org.wit.assignment2:drawable/abc_btn_radio_material = 0x7f070010
 org.wit.assignment2:drawable/abc_btn_default_mtrl_shape = 0x7f07000f
 org.wit.assignment2:drawable/abc_btn_colored_material = 0x7f07000e
 org.wit.assignment2:attr/viewTransitionOnPositiveCross = 0x7f0303d0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/mtrl_picker_invalid_range = 0x7f0f0052
 =======
@@ -2849,6 +3106,9 @@ org.wit.assignment2:string/mtrl_picker_invalid_range = 0x7f0f0055
 org.wit.assignment2:string/mtrl_picker_invalid_range = 0x7f0f0055
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_invalid_range = 0x7f0f0055
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/abc_btn_check_to_on_mtrl_000 = 0x7f07000c
 org.wit.assignment2:style/Theme.AppCompat.DayNight.DarkActionBar = 0x7f100188
 org.wit.assignment2:drawable/abc_btn_check_material = 0x7f07000a
@@ -2861,6 +3121,7 @@ org.wit.assignment2:drawable/$avd_hide_password__1 = 0x7f070001
 org.wit.assignment2:color/material_cursor_color = 0x7f050065
 org.wit.assignment2:dimen/tooltip_y_offset_non_touch = 0x7f0601a4
 org.wit.assignment2:style/Widget.MaterialComponents.ActionBar.Solid = 0x7f10025c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/header_title = 0x7f0800cb
 =======
@@ -2878,6 +3139,9 @@ org.wit.assignment2:id/header_title = 0x7f0800cc
 org.wit.assignment2:id/header_title = 0x7f0800cc
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/header_title = 0x7f0800cc
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/tooltip_precise_anchor_threshold = 0x7f0601a2
 org.wit.assignment2:dimen/tooltip_margin = 0x7f0601a0
 org.wit.assignment2:dimen/test_navigation_bar_text_size = 0x7f06019d
@@ -2893,6 +3157,7 @@ org.wit.assignment2:dimen/mtrl_calendar_bottom_padding = 0x7f0600ee
 org.wit.assignment2:dimen/test_navigation_bar_elevation = 0x7f060196
 org.wit.assignment2:style/Base.Widget.AppCompat.Light.ActionBar.TabText = 0x7f1000ba
 org.wit.assignment2:dimen/test_navigation_bar_active_text_size = 0x7f060195
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/test_checkbox_app_button_tint = 0x7f0801a2
 =======
@@ -2910,6 +3175,9 @@ org.wit.assignment2:id/test_checkbox_app_button_tint = 0x7f0801a6
 org.wit.assignment2:id/test_checkbox_app_button_tint = 0x7f0801a6
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/test_checkbox_app_button_tint = 0x7f0801a6
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/abc_list_selector_disabled_holo_light = 0x7f070034
 org.wit.assignment2:dimen/test_navigation_bar_active_item_min_width = 0x7f060194
 org.wit.assignment2:anim/abc_slide_in_top = 0x7f010007
@@ -2918,6 +3186,7 @@ org.wit.assignment2:dimen/notification_top_pad = 0x7f060190
 org.wit.assignment2:style/Widget.AppCompat.SeekBar = 0x7f100243
 org.wit.assignment2:attr/homeAsUpIndicator = 0x7f0301a8
 org.wit.assignment2:dimen/notification_small_icon_background_padding = 0x7f06018d
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -2939,6 +3208,10 @@ org.wit.assignment2:layout/material_timepicker_dialog = 0x7f0b003b
 org.wit.assignment2:id/useLogo = 0x7f0801cf
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:layout/material_timepicker_dialog = 0x7f0b003b
+org.wit.assignment2:id/useLogo = 0x7f0801cf
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/notification_right_icon_size = 0x7f06018b
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Display3 = 0x7f10001a
 org.wit.assignment2:dimen/notification_media_narrow_margin = 0x7f06018a
@@ -2954,6 +3227,7 @@ org.wit.assignment2:color/abc_btn_colored_text_material = 0x7f050003
 org.wit.assignment2:dimen/notification_big_circle_margin = 0x7f060185
 org.wit.assignment2:dimen/notification_action_text_size = 0x7f060184
 org.wit.assignment2:style/Base.Widget.MaterialComponents.TextView = 0x7f1000e3
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/included = 0x7f0800d8
 =======
@@ -2971,6 +3245,9 @@ org.wit.assignment2:id/included = 0x7f0800d9
 org.wit.assignment2:id/included = 0x7f0800d9
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/included = 0x7f0800d9
+>>>>>>> Stashed changes
 org.wit.assignment2:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date = 0x7f1001f3
 org.wit.assignment2:dimen/notification_action_icon_size = 0x7f060183
 org.wit.assignment2:dimen/mtrl_tooltip_padding = 0x7f060181
@@ -2993,6 +3270,7 @@ org.wit.assignment2:dimen/mtrl_textinput_box_stroke_width_focused = 0x7f060177
 org.wit.assignment2:string/abc_menu_space_shortcut_label = 0x7f0f000f
 org.wit.assignment2:dimen/mtrl_textinput_box_stroke_width_default = 0x7f060176
 org.wit.assignment2:style/Base.Widget.AppCompat.DrawerArrowToggle.Common = 0x7f1000b3
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/mtrl_badge_numberless_content_description = 0x7f0f0042
 org.wit.assignment2:id/icon = 0x7f0800d1
@@ -3015,6 +3293,10 @@ org.wit.assignment2:string/mtrl_badge_numberless_content_description = 0x7f0f004
 org.wit.assignment2:id/icon = 0x7f0800d2
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_badge_numberless_content_description = 0x7f0f0045
+org.wit.assignment2:id/icon = 0x7f0800d2
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_textinput_box_label_cutout_padding = 0x7f060175
 org.wit.assignment2:style/Widget.MaterialComponents.Snackbar.FullWidth = 0x7f1002b3
 org.wit.assignment2:dimen/mtrl_textinput_box_corner_radius_medium = 0x7f060173
@@ -3029,6 +3311,7 @@ org.wit.assignment2:dimen/mtrl_snackbar_margin = 0x7f06016f
 org.wit.assignment2:dimen/mtrl_snackbar_background_corner_radius = 0x7f06016d
 org.wit.assignment2:attr/haloRadius = 0x7f030199
 org.wit.assignment2:dimen/mtrl_snackbar_action_text_color_alpha = 0x7f06016c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_minute_tv = 0x7f0800fb
 =======
@@ -3046,6 +3329,9 @@ org.wit.assignment2:id/material_minute_tv = 0x7f0800fe
 org.wit.assignment2:id/material_minute_tv = 0x7f0800fe
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/material_minute_tv = 0x7f0800fe
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_slider_track_side_padding = 0x7f060169
 org.wit.assignment2:dimen/mtrl_slider_thumb_radius = 0x7f060167
 org.wit.assignment2:style/Base.Animation.AppCompat.DropDownUp = 0x7f10000b
@@ -3088,6 +3374,7 @@ org.wit.assignment2:style/Base.TextAppearance.AppCompat.Large.Inverse = 0x7f1000
 org.wit.assignment2:styleable/ScrimInsetsFrameLayout = 0x7f110071
 org.wit.assignment2:attr/itemStrokeColor = 0x7f0301d9
 org.wit.assignment2:dimen/mtrl_navigation_item_icon_padding = 0x7f060144
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/snackbar_action = 0x7f080177
 =======
@@ -3104,6 +3391,9 @@ org.wit.assignment2:dimen/mtrl_navigation_bar_item_default_margin = 0x7f060141
 >>>>>>> Stashed changes
 org.wit.assignment2:id/snackbar_action = 0x7f08017b
 >>>>>>> wip
+=======
+org.wit.assignment2:id/snackbar_action = 0x7f08017b
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Widget.MaterialComponents.MaterialCalendar.HeaderConfirmButton = 0x7f100297
 org.wit.assignment2:attr/keyboardIcon = 0x7f0301e0
 org.wit.assignment2:drawable/material_ic_keyboard_arrow_previous_black_24dp = 0x7f070073
@@ -3131,6 +3421,7 @@ org.wit.assignment2:styleable/ViewBackgroundHelper = 0x7f11008d
 org.wit.assignment2:attr/layout_constraintTag = 0x7f030212
 org.wit.assignment2:dimen/mtrl_extended_fab_end_padding_icon = 0x7f060127
 org.wit.assignment2:dimen/mtrl_extended_fab_elevation = 0x7f060125
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/shortcut = 0x7f08016f
 =======
@@ -3148,6 +3439,9 @@ org.wit.assignment2:id/shortcut = 0x7f080173
 org.wit.assignment2:id/shortcut = 0x7f080173
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/shortcut = 0x7f080173
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/tooltipFrameBackground = 0x7f0303ae
 org.wit.assignment2:dimen/mtrl_extended_fab_disabled_translation_z = 0x7f060124
 org.wit.assignment2:style/TestStyleWithLineHeightAppearance = 0x7f10012c
@@ -3158,6 +3452,7 @@ org.wit.assignment2:dimen/mtrl_card_checked_icon_size = 0x7f060116
 org.wit.assignment2:attr/hintTextAppearance = 0x7f0301a6
 org.wit.assignment2:attr/actionOverflowButtonStyle = 0x7f030021
 org.wit.assignment2:dimen/mtrl_calendar_year_vertical_padding = 0x7f060113
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/text_input_error_icon = 0x7f0801ad
 =======
@@ -3175,12 +3470,19 @@ org.wit.assignment2:id/text_input_error_icon = 0x7f0801b1
 org.wit.assignment2:id/text_input_error_icon = 0x7f0801b1
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/text_input_error_icon = 0x7f0801b1
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/chipIconTint = 0x7f0300a6
 org.wit.assignment2:dimen/tooltip_vertical_padding = 0x7f0601a3
 org.wit.assignment2:dimen/mtrl_calendar_year_height = 0x7f060111
 org.wit.assignment2:style/Base.Widget.AppCompat.ListView = 0x7f1000c1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/fill_vertical = 0x7f0800b9
+=======
+org.wit.assignment2:id/fill_vertical = 0x7f0800ba
+>>>>>>> Stashed changes
 org.wit.assignment2:color/mtrl_filled_stroke_color = 0x7f05009d
 =======
 <<<<<<< Updated upstream
@@ -3205,6 +3507,7 @@ org.wit.assignment2:drawable/ic_launcher_background = 0x7f070067
 org.wit.assignment2:dimen/mtrl_calendar_selection_text_baseline_to_top = 0x7f06010c
 org.wit.assignment2:anim/btn_radio_to_off_mtrl_dot_group_animation = 0x7f010012
 org.wit.assignment2:dimen/mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = 0x7f06010b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/withinBounds = 0x7f0801d5
 =======
@@ -3222,6 +3525,9 @@ org.wit.assignment2:id/withinBounds = 0x7f0801da
 org.wit.assignment2:id/withinBounds = 0x7f0801da
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/withinBounds = 0x7f0801da
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/motionDurationLong2 = 0x7f03027c
 org.wit.assignment2:dimen/mtrl_calendar_navigation_top_padding = 0x7f060107
 org.wit.assignment2:attr/gestureInsetBottomIgnored = 0x7f030196
@@ -3252,6 +3558,7 @@ org.wit.assignment2:color/androidx_core_secondary_text_default_material_light = 
 org.wit.assignment2:dimen/cardview_compat_inset_shadow = 0x7f060053
 org.wit.assignment2:dimen/mtrl_calendar_days_of_week_height = 0x7f0600f6
 org.wit.assignment2:dimen/mtrl_calendar_day_width = 0x7f0600f5
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_timepicker_mode_button = 0x7f080100
 =======
@@ -3269,6 +3576,9 @@ org.wit.assignment2:id/material_timepicker_mode_button = 0x7f080103
 org.wit.assignment2:id/material_timepicker_mode_button = 0x7f080103
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/material_timepicker_mode_button = 0x7f080103
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/material_clock_period_toggle_margin_left = 0x7f0600a5
 org.wit.assignment2:dimen/mtrl_calendar_day_vertical_padding = 0x7f0600f4
 org.wit.assignment2:color/radiobutton_themeable_attribute_color = 0x7f0500c4
@@ -3317,6 +3627,7 @@ org.wit.assignment2:dimen/mtrl_calendar_dialog_background_inset = 0x7f0600f7
 org.wit.assignment2:dimen/mtrl_badge_text_horizontal_edge_offset = 0x7f0600c8
 org.wit.assignment2:attr/clockNumberTextColor = 0x7f0300bf
 org.wit.assignment2:dimen/mtrl_calendar_year_corner = 0x7f060110
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/material_timepicker_minute = 0x7f0f003e
 org.wit.assignment2:string/abc_toolbar_collapse_description = 0x7f0f001a
@@ -3344,6 +3655,11 @@ org.wit.assignment2:string/abc_toolbar_collapse_description = 0x7f0f001a
 org.wit.assignment2:id/view_tree_saved_state_registry_owner = 0x7f0801d4
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/material_timepicker_minute = 0x7f0f003f
+org.wit.assignment2:string/abc_toolbar_collapse_description = 0x7f0f001a
+org.wit.assignment2:id/view_tree_saved_state_registry_owner = 0x7f0801d4
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_alert_dialog_background_inset_start = 0x7f0600c2
 org.wit.assignment2:string/abc_capital_on = 0x7f0f0007
 org.wit.assignment2:dimen/abc_star_medium = 0x7f06003c
@@ -3362,6 +3678,7 @@ org.wit.assignment2:attr/materialAlertDialogTitleTextStyle = 0x7f03024a
 org.wit.assignment2:styleable/Slider = 0x7f110076
 org.wit.assignment2:dimen/material_helper_text_font_1_3_padding_horizontal = 0x7f0600b5
 org.wit.assignment2:style/Widget.Compat.NotificationActionText = 0x7f10024e
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/listMode = 0x7f0800ec
 org.wit.assignment2:dimen/material_emphasis_high_type = 0x7f0600ac
@@ -3392,6 +3709,12 @@ org.wit.assignment2:id/scale = 0x7f08015d
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/listMode = 0x7f0800ef
+org.wit.assignment2:dimen/material_emphasis_high_type = 0x7f0600ac
+org.wit.assignment2:color/purple_200 = 0x7f0500c1
+org.wit.assignment2:id/scale = 0x7f08015d
+>>>>>>> Stashed changes
 org.wit.assignment2:animator/mtrl_fab_transformation_sheet_expand_spec = 0x7f020019
 org.wit.assignment2:dimen/material_cursor_inset_bottom = 0x7f0600a8
 org.wit.assignment2:dimen/material_clock_period_toggle_width = 0x7f0600a6
@@ -3399,6 +3722,7 @@ org.wit.assignment2:style/Widget.MaterialComponents.MaterialCalendar.YearNavigat
 org.wit.assignment2:dimen/material_clock_period_toggle_height = 0x7f0600a4
 org.wit.assignment2:style/Base.Theme.MaterialComponents = 0x7f100055
 org.wit.assignment2:dimen/material_clock_display_padding = 0x7f06009e
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/frost = 0x7f0800c1
 org.wit.assignment2:id/custom = 0x7f080088
@@ -3410,6 +3734,11 @@ org.wit.assignment2:id/frost = 0x7f0800be
 org.wit.assignment2:id/custom = 0x7f080086
 >>>>>>> wip
 org.wit.assignment2:layout/mtrl_calendar_month_navigation = 0x7f0b0047
+=======
+org.wit.assignment2:id/frost = 0x7f0800c2
+org.wit.assignment2:id/custom = 0x7f080088
+org.wit.assignment2:layout/mtrl_calendar_month_navigation = 0x7f0b0049
+>>>>>>> Stashed changes
 =======
 org.wit.assignment2:id/frost = 0x7f0800c2
 org.wit.assignment2:id/custom = 0x7f080088
@@ -3451,12 +3780,15 @@ org.wit.assignment2:attr/collapsedTitleTextAppearance = 0x7f0300cc
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 org.wit.assignment2:layout/material_time_input = 0x7f0b0037
 <<<<<<< HEAD
 org.wit.assignment2:color/mtrl_tabs_icon_color_selector = 0x7f0500ad
 =======
 org.wit.assignment2:color/mtrl_tabs_icon_color_selector = 0x7f0500aa
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3473,6 +3805,7 @@ org.wit.assignment2:color/design_fab_shadow_end_color = 0x7f05004f
 org.wit.assignment2:attr/constraint_referenced_ids = 0x7f0300e9
 org.wit.assignment2:dimen/design_snackbar_extra_spacing_horizontal = 0x7f060082
 org.wit.assignment2:dimen/design_snackbar_background_corner_radius = 0x7f060080
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/scrollable = 0x7f08015f
 =======
@@ -3490,6 +3823,9 @@ org.wit.assignment2:id/scrollable = 0x7f080163
 org.wit.assignment2:id/scrollable = 0x7f080163
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/scrollable = 0x7f080163
+>>>>>>> Stashed changes
 org.wit.assignment2:id/accessibility_custom_action_2 = 0x7f08001c
 org.wit.assignment2:dimen/design_navigation_padding_bottom = 0x7f06007c
 org.wit.assignment2:style/Base.Theme.MaterialComponents.Light.Dialog.Alert = 0x7f100063
@@ -3502,6 +3838,7 @@ org.wit.assignment2:attr/drawableTopCompat = 0x7f03013b
 org.wit.assignment2:style/Widget.AppCompat.ListView.Menu = 0x7f100238
 org.wit.assignment2:dimen/design_bottom_sheet_modal_elevation = 0x7f06006d
 org.wit.assignment2:dimen/design_bottom_sheet_elevation = 0x7f06006c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/text2 = 0x7f0801a6
 =======
@@ -3519,6 +3856,9 @@ org.wit.assignment2:id/text2 = 0x7f0801aa
 org.wit.assignment2:id/text2 = 0x7f0801aa
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/text2 = 0x7f0801aa
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_low_ripple_focused_alpha = 0x7f06013c
 org.wit.assignment2:color/mtrl_textinput_default_box_stroke_color = 0x7f0500b2
 org.wit.assignment2:dimen/design_bottom_navigation_icon_size = 0x7f060065
@@ -3536,6 +3876,7 @@ org.wit.assignment2:attr/carousel_previousState = 0x7f03008d
 org.wit.assignment2:color/design_default_color_on_secondary = 0x7f050046
 org.wit.assignment2:dimen/compat_button_padding_vertical_material = 0x7f06005a
 org.wit.assignment2:dimen/compat_button_inset_vertical_material = 0x7f060058
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/groups = 0x7f0800c9
 org.wit.assignment2:id/tag_on_receive_content_mime_types = 0x7f08019a
@@ -3566,6 +3907,12 @@ org.wit.assignment2:id/search_button = 0x7f080166
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/groups = 0x7f0800ca
+org.wit.assignment2:id/tag_on_receive_content_mime_types = 0x7f08019e
+org.wit.assignment2:drawable/design_fab_background = 0x7f070060
+org.wit.assignment2:id/search_button = 0x7f080166
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/compat_button_inset_horizontal_material = 0x7f060057
 org.wit.assignment2:dimen/abc_star_big = 0x7f06003b
 org.wit.assignment2:attr/itemShapeInsetBottom = 0x7f0301d4
@@ -3583,6 +3930,7 @@ org.wit.assignment2:attr/tabTextColor = 0x7f030357
 org.wit.assignment2:drawable/$avd_show_password__0 = 0x7f070003
 org.wit.assignment2:attr/textBackgroundPanX = 0x7f030375
 org.wit.assignment2:dimen/abc_text_size_title_material_toolbar = 0x7f060050
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/masked = 0x7f0800ee
 org.wit.assignment2:attr/targetId = 0x7f030359
@@ -3614,6 +3962,12 @@ org.wit.assignment2:dimen/material_input_text_to_prefix_suffix_padding = 0x7f060
 org.wit.assignment2:id/screen = 0x7f08015e
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/masked = 0x7f0800f1
+org.wit.assignment2:attr/targetId = 0x7f030359
+org.wit.assignment2:dimen/material_input_text_to_prefix_suffix_padding = 0x7f0600b7
+org.wit.assignment2:id/screen = 0x7f08015e
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_text_size_subtitle_material_toolbar = 0x7f06004e
 org.wit.assignment2:dimen/abc_text_size_subhead_material = 0x7f06004d
 org.wit.assignment2:dimen/material_clock_size = 0x7f0600a7
@@ -3627,6 +3981,7 @@ org.wit.assignment2:dimen/abc_text_size_button_material = 0x7f060041
 org.wit.assignment2:color/abc_primary_text_material_dark = 0x7f05000b
 org.wit.assignment2:dimen/abc_text_size_display_1_material = 0x7f060043
 org.wit.assignment2:style/Theme.MaterialComponents.Dialog.Alert = 0x7f1001b7
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/mtrl_internal_children_alpha_tag = 0x7f080119
 org.wit.assignment2:dimen/abc_text_size_caption_material = 0x7f060042
@@ -3654,6 +4009,11 @@ org.wit.assignment2:dimen/abc_text_size_caption_material = 0x7f060042
 org.wit.assignment2:id/group_divider = 0x7f0800c8
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/mtrl_internal_children_alpha_tag = 0x7f08011c
+org.wit.assignment2:dimen/abc_text_size_caption_material = 0x7f060042
+org.wit.assignment2:id/group_divider = 0x7f0800c8
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/highlight_alpha_material_light = 0x7f060095
 org.wit.assignment2:dimen/abc_text_size_body_1_material = 0x7f06003f
 org.wit.assignment2:dimen/mtrl_calendar_year_horizontal_padding = 0x7f060112
@@ -3661,6 +4021,7 @@ org.wit.assignment2:dimen/design_snackbar_min_width = 0x7f060084
 org.wit.assignment2:drawable/abc_edit_text_material = 0x7f07001b
 org.wit.assignment2:dimen/abc_switch_padding = 0x7f06003e
 org.wit.assignment2:style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle = 0x7f100153
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/fill = 0x7f0800b7
 =======
@@ -3678,10 +4039,14 @@ org.wit.assignment2:id/fill = 0x7f0800b8
 org.wit.assignment2:id/fill = 0x7f0800b8
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/fill = 0x7f0800b8
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_action_bar_icon_vertical_padding_material = 0x7f060006
 org.wit.assignment2:attr/content = 0x7f0300ec
 org.wit.assignment2:dimen/abc_seekbar_track_background_height_material = 0x7f060038
 org.wit.assignment2:color/bright_foreground_material_light = 0x7f050027
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/percent = 0x7f080146
 org.wit.assignment2:anim/btn_radio_to_on_mtrl_dot_group_animation = 0x7f010015
@@ -3715,6 +4080,13 @@ org.wit.assignment2:id/text_input_end_icon = 0x7f0801b0
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/percent = 0x7f080149
+org.wit.assignment2:anim/btn_radio_to_on_mtrl_dot_group_animation = 0x7f010015
+org.wit.assignment2:attr/layout_goneMarginLeft = 0x7f030224
+org.wit.assignment2:dimen/abc_edit_text_inset_top_material = 0x7f06002e
+org.wit.assignment2:id/text_input_end_icon = 0x7f0801b0
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_dropdownitem_text_padding_right = 0x7f06002b
 org.wit.assignment2:style/ShapeAppearance.MaterialComponents.Test = 0x7f100115
 org.wit.assignment2:dimen/material_clock_face_margin_top = 0x7f06009f
@@ -3725,6 +4097,7 @@ org.wit.assignment2:dimen/abc_disabled_alpha_material_dark = 0x7f060027
 org.wit.assignment2:dimen/abc_dialog_padding_material = 0x7f060024
 org.wit.assignment2:dimen/abc_dialog_min_width_major = 0x7f060022
 org.wit.assignment2:attr/circularflow_angles = 0x7f0300b5
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/snapMargins = 0x7f08017a
 =======
@@ -3742,6 +4115,9 @@ org.wit.assignment2:id/snapMargins = 0x7f08017e
 org.wit.assignment2:id/snapMargins = 0x7f08017e
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/snapMargins = 0x7f08017e
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_dialog_list_padding_top_no_title = 0x7f060021
 org.wit.assignment2:dimen/abc_dialog_fixed_width_minor = 0x7f06001f
 org.wit.assignment2:dimen/mtrl_progress_circular_inset_small = 0x7f060154
@@ -3755,9 +4131,15 @@ org.wit.assignment2:style/Widget.AppCompat.ActionButton.Overflow = 0x7f10020b
 org.wit.assignment2:dimen/abc_dialog_fixed_height_major = 0x7f06001c
 org.wit.assignment2:color/abc_tint_switch_track = 0x7f050018
 org.wit.assignment2:dimen/abc_dialog_corner_radius_material = 0x7f06001b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/design_menu_item_text = 0x7f080095
+=======
+org.wit.assignment2:id/design_menu_item_text = 0x7f080096
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Widget.Design.AppBarLayout = 0x7f10024f
+org.wit.assignment2:style/Widget.MaterialComponents.AutoCompleteTextView.FilledBox = 0x7f100261
+org.wit.assignment2:dimen/abc_control_corner_material = 0x7f060018
 org.wit.assignment2:color/purple_500 = 0x7f0500c2
 =======
 <<<<<<< Updated upstream
@@ -3786,6 +4168,7 @@ org.wit.assignment2:dimen/design_snackbar_action_text_color_alpha = 0x7f06007f
 org.wit.assignment2:dimen/abc_cascading_menus_min_smallest_width = 0x7f060016
 org.wit.assignment2:attr/actionModeShareDrawable = 0x7f03001c
 org.wit.assignment2:dimen/abc_button_padding_vertical_material = 0x7f060015
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/list_item = 0x7f0800ed
 =======
@@ -3803,12 +4186,16 @@ org.wit.assignment2:id/list_item = 0x7f0800f0
 org.wit.assignment2:id/list_item = 0x7f0800f0
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/list_item = 0x7f0800f0
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_button_padding_horizontal_material = 0x7f060014
 org.wit.assignment2:attr/materialCalendarFullscreenTheme = 0x7f03024f
 org.wit.assignment2:dimen/abc_button_inset_horizontal_material = 0x7f060012
 org.wit.assignment2:style/Widget.Design.TextInputEditText = 0x7f100258
 org.wit.assignment2:style/ThemeOverlay.Design.TextInputEditText = 0x7f1001dc
 org.wit.assignment2:dimen/abc_action_button_min_width_overflow_material = 0x7f06000f
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/info = 0x7f0800d9
 =======
@@ -3826,6 +4213,9 @@ org.wit.assignment2:id/info = 0x7f0800da
 org.wit.assignment2:id/info = 0x7f0800da
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/info = 0x7f0800da
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_action_button_min_height_material = 0x7f06000d
 org.wit.assignment2:style/Widget.MaterialComponents.Snackbar.TextView = 0x7f1002b4
 org.wit.assignment2:layout/mtrl_picker_dialog = 0x7f0b0051
@@ -3841,6 +4231,7 @@ org.wit.assignment2:dimen/item_touch_helper_swipe_escape_max_velocity = 0x7f0600
 org.wit.assignment2:style/Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge = 0x7f1001b0
 <<<<<<< HEAD
 org.wit.assignment2:color/test_mtrl_calendar_day_selected = 0x7f0500d4
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -3860,6 +4251,9 @@ org.wit.assignment2:layout/notification_action_tombstone = 0x7f0b005b
 >>>>>>> Stashed changes
 =======
 org.wit.assignment2:color/test_mtrl_calendar_day_selected = 0x7f0500d4
+org.wit.assignment2:layout/notification_action_tombstone = 0x7f0b005b
+>>>>>>> Stashed changes
+=======
 org.wit.assignment2:layout/notification_action_tombstone = 0x7f0b005b
 >>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_search_view_preferred_height = 0x7f060036
@@ -3889,12 +4283,17 @@ org.wit.assignment2:dimen/abc_action_bar_default_padding_end_material = 0x7f0600
 org.wit.assignment2:attr/layout_constraintCircle = 0x7f0301f9
 org.wit.assignment2:color/mtrl_tabs_ripple_color = 0x7f0500b0
 org.wit.assignment2:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Centered = 0x7f1001f2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/split_action_bar = 0x7f08017f
+=======
+org.wit.assignment2:id/split_action_bar = 0x7f080183
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/colorControlNormal = 0x7f0300d4
 org.wit.assignment2:attr/indeterminateAnimationType = 0x7f0301bc
 org.wit.assignment2:color/material_timepicker_modebutton_tint = 0x7f050083
 org.wit.assignment2:color/mtrl_tabs_legacy_text_color_selector = 0x7f0500af
+<<<<<<< Updated upstream
 org.wit.assignment2:string/material_motion_easing_standard = 0x7f0f0038
 =======
 <<<<<<< Updated upstream
@@ -3925,6 +4324,9 @@ org.wit.assignment2:string/material_motion_easing_standard = 0x7f0f0039
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/material_motion_easing_standard = 0x7f0f0039
+>>>>>>> Stashed changes
 org.wit.assignment2:string/abc_menu_shift_shortcut_label = 0x7f0f000e
 org.wit.assignment2:color/mtrl_popupmenu_overlay_color = 0x7f0500aa
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Small.Inverse = 0x7f100029
@@ -3961,8 +4363,12 @@ org.wit.assignment2:color/mtrl_calendar_item_stroke_color = 0x7f05008c
 org.wit.assignment2:color/material_timepicker_clock_text_color = 0x7f050081
 org.wit.assignment2:dimen/mtrl_alert_dialog_background_inset_top = 0x7f0600c3
 org.wit.assignment2:styleable/MotionLabel = 0x7f110061
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/parent = 0x7f08013e
+=======
+org.wit.assignment2:id/parent = 0x7f080141
+>>>>>>> Stashed changes
 org.wit.assignment2:color/mtrl_btn_text_color_disabled = 0x7f050089
 =======
 <<<<<<< Updated upstream
@@ -3992,6 +4398,7 @@ org.wit.assignment2:attr/yearStyle = 0x7f0303e5
 org.wit.assignment2:attr/listPopupWindowStyle = 0x7f03023c
 org.wit.assignment2:color/material_slider_thumb_color = 0x7f05007e
 org.wit.assignment2:dimen/abc_panel_menu_list_width = 0x7f060034
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/square = 0x7f080183
 =======
@@ -4009,6 +4416,9 @@ org.wit.assignment2:id/square = 0x7f080187
 org.wit.assignment2:id/square = 0x7f080187
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/square = 0x7f080187
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/flow_firstVerticalStyle = 0x7f030176
 org.wit.assignment2:color/material_slider_active_tick_marks_color = 0x7f050079
 org.wit.assignment2:attr/fastScrollEnabled = 0x7f03016c
@@ -4034,6 +4444,7 @@ org.wit.assignment2:style/Widget.AppCompat.ActionMode = 0x7f10020c
 <<<<<<< HEAD
 org.wit.assignment2:color/material_grey_100 = 0x7f050068
 org.wit.assignment2:color/material_deep_teal_200 = 0x7f050066
+<<<<<<< Updated upstream
 org.wit.assignment2:id/material_timepicker_cancel_button = 0x7f0800fd
 =======
 <<<<<<< Updated upstream
@@ -4052,6 +4463,9 @@ org.wit.assignment2:id/material_timepicker_cancel_button = 0x7f080100
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/material_timepicker_cancel_button = 0x7f080100
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/tabUnboundedRipple = 0x7f030358
 org.wit.assignment2:attr/contentInsetRight = 0x7f0300f1
 org.wit.assignment2:color/material_blue_grey_950 = 0x7f050064
@@ -4081,7 +4495,7 @@ org.wit.assignment2:attr/backgroundColor = 0x7f030041
 <<<<<<< HEAD
 org.wit.assignment2:color/design_snackbar_background_color = 0x7f050057
 org.wit.assignment2:color/design_icon_tint = 0x7f050056
-org.wit.assignment2:string/mtrl_picker_cancel = 0x7f0f0049
+org.wit.assignment2:string/mtrl_picker_cancel = 0x7f0f004c
 org.wit.assignment2:color/design_fab_stroke_top_outer_color = 0x7f050055
 =======
 <<<<<<< Updated upstream
@@ -4106,10 +4520,11 @@ org.wit.assignment2:dimen/abc_action_bar_content_inset_with_nav = 0x7f060001
 <<<<<<< HEAD
 org.wit.assignment2:color/design_fab_shadow_mid_color = 0x7f050050
 org.wit.assignment2:color/design_default_color_secondary = 0x7f05004b
-org.wit.assignment2:layout/test_toolbar_surface = 0x7f0b006b
+org.wit.assignment2:layout/test_toolbar_surface = 0x7f0b006d
 org.wit.assignment2:color/design_default_color_primary = 0x7f050048
-org.wit.assignment2:id/textinput_counter = 0x7f0801af
+org.wit.assignment2:id/textinput_counter = 0x7f0801b3
 org.wit.assignment2:color/design_default_color_on_error = 0x7f050044
+<<<<<<< Updated upstream
 org.wit.assignment2:string/mtrl_picker_a11y_next_month = 0x7f0f0046
 =======
 <<<<<<< Updated upstream
@@ -4136,18 +4551,21 @@ org.wit.assignment2:string/mtrl_picker_a11y_next_month = 0x7f0f0049
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_a11y_next_month = 0x7f0f0049
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_btn_padding_bottom = 0x7f0600df
 org.wit.assignment2:attr/flow_wrapMode = 0x7f030185
 org.wit.assignment2:attr/listPreferredItemPaddingEnd = 0x7f030240
 org.wit.assignment2:attr/layout_constraintWidth_default = 0x7f03021a
 <<<<<<< HEAD
 org.wit.assignment2:color/design_dark_default_color_secondary = 0x7f05003e
-org.wit.assignment2:id/ghost_view = 0x7f0800c2
+org.wit.assignment2:id/ghost_view = 0x7f0800c3
 org.wit.assignment2:drawable/abc_ratingbar_indicator_material = 0x7f070039
 org.wit.assignment2:layout/abc_dialog_title_material = 0x7f0b000c
 org.wit.assignment2:color/primary_text_disabled_material_dark = 0x7f0500bf
 org.wit.assignment2:color/design_dark_default_color_primary = 0x7f05003b
-org.wit.assignment2:id/expanded_menu = 0x7f0800b5
+org.wit.assignment2:id/expanded_menu = 0x7f0800b6
 org.wit.assignment2:color/design_dark_default_color_on_error = 0x7f050037
 =======
 <<<<<<< Updated upstream
@@ -4176,7 +4594,7 @@ org.wit.assignment2:attr/daySelectedStyle = 0x7f03011e
 org.wit.assignment2:style/Base.Widget.AppCompat.Light.ActionBar.Solid = 0x7f1000b8
 <<<<<<< HEAD
 org.wit.assignment2:color/design_dark_default_color_background = 0x7f050034
-org.wit.assignment2:id/leftToRight = 0x7f0800e7
+org.wit.assignment2:id/leftToRight = 0x7f0800ea
 org.wit.assignment2:color/design_box_stroke_color = 0x7f050033
 =======
 <<<<<<< Updated upstream
@@ -4199,6 +4617,7 @@ org.wit.assignment2:color/cardview_shadow_start_color = 0x7f05002d
 org.wit.assignment2:color/cardview_light_background = 0x7f05002b
 org.wit.assignment2:color/black = 0x7f050021
 org.wit.assignment2:color/background_floating_material_light = 0x7f05001e
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/select_dialog_listview = 0x7f08016a
 =======
@@ -4216,12 +4635,16 @@ org.wit.assignment2:id/select_dialog_listview = 0x7f08016e
 org.wit.assignment2:id/select_dialog_listview = 0x7f08016e
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/select_dialog_listview = 0x7f08016e
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/reactiveGuide_applyToAllConstraintSets = 0x7f0302e0
 org.wit.assignment2:color/accent_material_light = 0x7f05001a
 org.wit.assignment2:attr/clockIcon = 0x7f0300be
 org.wit.assignment2:attr/subtitleTextAppearance = 0x7f030333
 org.wit.assignment2:color/accent_material_dark = 0x7f050019
 org.wit.assignment2:attr/flow_horizontalAlign = 0x7f030177
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/icon_content_description = 0x7f0f002c
 =======
@@ -4239,6 +4662,9 @@ org.wit.assignment2:string/icon_content_description = 0x7f0f002d
 org.wit.assignment2:string/icon_content_description = 0x7f0f002d
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/icon_content_description = 0x7f0f002d
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_high_ripple_default_alpha = 0x7f060136
 org.wit.assignment2:color/abc_tint_edittext = 0x7f050015
 org.wit.assignment2:color/abc_secondary_text_material_light = 0x7f050012
@@ -4266,6 +4692,7 @@ org.wit.assignment2:dimen/material_clock_hand_center_dot_radius = 0x7f0600a0
 org.wit.assignment2:color/design_default_color_on_surface = 0x7f050047
 org.wit.assignment2:color/abc_hint_foreground_material_dark = 0x7f050007
 org.wit.assignment2:style/TextAppearance.MaterialComponents.Headline6 = 0x7f10017c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/mtrl_anchor_parent = 0x7f08010e
 =======
@@ -4283,6 +4710,9 @@ org.wit.assignment2:id/mtrl_anchor_parent = 0x7f080111
 org.wit.assignment2:id/mtrl_anchor_parent = 0x7f080111
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/mtrl_anchor_parent = 0x7f080111
+>>>>>>> Stashed changes
 org.wit.assignment2:color/abc_decor_view_status_guard = 0x7f050005
 org.wit.assignment2:color/abc_color_highlight_material = 0x7f050004
 org.wit.assignment2:layout/notification_template_custom_big = 0x7f0b005c
@@ -4304,6 +4734,7 @@ org.wit.assignment2:color/material_grey_300 = 0x7f050069
 org.wit.assignment2:style/Widget.MaterialComponents.TextInputLayout.FilledBox = 0x7f1002bc
 org.wit.assignment2:attr/fabCustomSize = 0x7f03016a
 org.wit.assignment2:attr/windowFixedWidthMinor = 0x7f0303e0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/floating = 0x7f0800be
 org.wit.assignment2:id/west = 0x7f0801d3
@@ -4326,6 +4757,10 @@ org.wit.assignment2:id/floating = 0x7f0800bf
 org.wit.assignment2:id/west = 0x7f0801d8
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/floating = 0x7f0800bf
+org.wit.assignment2:id/west = 0x7f0801d8
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/constraintRotate = 0x7f0300e5
 org.wit.assignment2:attr/contentInsetLeft = 0x7f0300f0
 org.wit.assignment2:attr/windowFixedWidthMajor = 0x7f0303df
@@ -4344,6 +4779,7 @@ org.wit.assignment2:color/mtrl_chip_text_color = 0x7f050093
 org.wit.assignment2:attr/waveDecay = 0x7f0303d4
 org.wit.assignment2:attr/viewTransitionOnCross = 0x7f0303ce
 org.wit.assignment2:style/TextAppearance.AppCompat.Widget.Button.Colored = 0x7f100159
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/startHorizontal = 0x7f080189
 =======
@@ -4361,10 +4797,14 @@ org.wit.assignment2:id/startHorizontal = 0x7f08018d
 org.wit.assignment2:id/startHorizontal = 0x7f08018d
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/startHorizontal = 0x7f08018d
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/ttcIndex = 0x7f0303c6
 org.wit.assignment2:attr/triggerSlack = 0x7f0303c5
 org.wit.assignment2:style/MaterialAlertDialog.MaterialComponents.Title.Panel = 0x7f1000ee
 org.wit.assignment2:attr/triggerReceiver = 0x7f0303c4
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4386,6 +4826,10 @@ org.wit.assignment2:layout/test_navigation_bar_item_layout = 0x7f0b0068
 org.wit.assignment2:id/reverseSawtooth = 0x7f080153
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:layout/test_navigation_bar_item_layout = 0x7f0b0068
+org.wit.assignment2:id/reverseSawtooth = 0x7f080153
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/triggerId = 0x7f0303c3
 org.wit.assignment2:style/Widget.Design.ScrimInsetsFrameLayout = 0x7f100255
 org.wit.assignment2:attr/transitionFlags = 0x7f0303c0
@@ -4420,6 +4864,7 @@ org.wit.assignment2:dimen/mtrl_btn_icon_padding = 0x7f0600db
 org.wit.assignment2:dimen/abc_action_bar_subtitle_bottom_margin_material = 0x7f06000b
 org.wit.assignment2:id/action_bar_container = 0x7f080035
 org.wit.assignment2:attr/toolbarStyle = 0x7f0303ac
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/month_title = 0x7f08010c
 =======
@@ -4437,12 +4882,16 @@ org.wit.assignment2:id/month_title = 0x7f08010f
 org.wit.assignment2:id/month_title = 0x7f08010f
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/month_title = 0x7f08010f
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_extended_fab_min_height = 0x7f06012a
 org.wit.assignment2:attr/titleTextStyle = 0x7f0303a9
 org.wit.assignment2:attr/titleMarginTop = 0x7f0303a5
 org.wit.assignment2:style/ThemeOverlay.AppCompat.DayNight = 0x7f1001d7
 org.wit.assignment2:string/abc_searchview_description_submit = 0x7f0f0016
 org.wit.assignment2:layout/abc_alert_dialog_title_material = 0x7f0b000a
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/month_navigation_next = 0x7f08010a
 =======
@@ -4460,12 +4909,16 @@ org.wit.assignment2:id/month_navigation_next = 0x7f08010d
 org.wit.assignment2:id/month_navigation_next = 0x7f08010d
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/month_navigation_next = 0x7f08010d
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/backgroundTintMode = 0x7f03004a
 org.wit.assignment2:style/ThemeOverlay.MaterialComponents.MaterialCalendar = 0x7f1001f8
 org.wit.assignment2:attr/wavePeriod = 0x7f0303d6
 org.wit.assignment2:attr/titleEnabled = 0x7f0303a0
 org.wit.assignment2:attr/titleCentered = 0x7f03039e
 org.wit.assignment2:attr/expandedTitleMargin = 0x7f03015c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/enterAlways = 0x7f0800b0
 =======
@@ -4483,6 +4936,9 @@ org.wit.assignment2:id/enterAlways = 0x7f0800b1
 org.wit.assignment2:id/enterAlways = 0x7f0800b1
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/enterAlways = 0x7f0800b1
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/title = 0x7f03039d
 org.wit.assignment2:styleable/ExtendedFloatingActionButton_Behavior_Layout = 0x7f110031
 org.wit.assignment2:string/abc_activity_chooser_view_see_all = 0x7f0f0004
@@ -4520,6 +4976,7 @@ org.wit.assignment2:attr/textureWidth = 0x7f030388
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 org.wit.assignment2:style/ThemeOverlay.AppCompat.Light = 0x7f1001db
 org.wit.assignment2:color/mtrl_navigation_bar_ripple_color = 0x7f0500a2
 org.wit.assignment2:drawable/abc_ab_share_pack_mtrl_alpha = 0x7f070007
@@ -4537,6 +4994,9 @@ org.wit.assignment2:id/search_go_btn = 0x7f080169
 org.wit.assignment2:id/search_go_btn = 0x7f080169
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/search_go_btn = 0x7f080169
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/textureBlurFactor = 0x7f030385
 org.wit.assignment2:animator/mtrl_fab_transformation_sheet_collapse_spec = 0x7f020018
 org.wit.assignment2:color/mtrl_filled_background_color = 0x7f05009b
@@ -4553,6 +5013,7 @@ org.wit.assignment2:styleable/AnimatedStateListDrawableItem = 0x7f110008
 org.wit.assignment2:style/Base.V14.Theme.MaterialComponents.Light.Dialog.Bridge = 0x7f10007c
 org.wit.assignment2:attr/chipMinTouchTargetSize = 0x7f0300a9
 org.wit.assignment2:attr/textBackgroundZoom = 0x7f030378
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/forever = 0x7f0800bf
 org.wit.assignment2:drawable/abc_ic_commit_search_api_mtrl_alpha = 0x7f07001f
@@ -4592,6 +5053,14 @@ org.wit.assignment2:id/password_toggle = 0x7f080145
 org.wit.assignment2:id/immediateStop = 0x7f0800d8
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/forever = 0x7f0800c0
+org.wit.assignment2:drawable/abc_ic_commit_search_api_mtrl_alpha = 0x7f07001f
+org.wit.assignment2:attr/textBackgroundRotate = 0x7f030377
+org.wit.assignment2:attr/textBackgroundPanY = 0x7f030376
+org.wit.assignment2:id/password_toggle = 0x7f080145
+org.wit.assignment2:id/immediateStop = 0x7f0800d8
+>>>>>>> Stashed changes
 org.wit.assignment2:styleable/StateListDrawableItem = 0x7f11007c
 org.wit.assignment2:attr/maxActionInlineWidth = 0x7f030263
 org.wit.assignment2:attr/textAppearanceOverline = 0x7f03036d
@@ -4637,6 +5106,7 @@ org.wit.assignment2:attr/tabPaddingBottom = 0x7f03034f
 org.wit.assignment2:attr/tabMode = 0x7f03034d
 <<<<<<< HEAD
 org.wit.assignment2:id/btnAdd = 0x7f080063
+<<<<<<< Updated upstream
 org.wit.assignment2:id/honorRequest = 0x7f0800cf
 =======
 <<<<<<< Updated upstream
@@ -4652,6 +5122,9 @@ org.wit.assignment2:id/honorRequest = 0x7f0800d0
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/honorRequest = 0x7f0800d0
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/tabInlineLabel = 0x7f03034a
 org.wit.assignment2:attr/counterTextColor = 0x7f03010f
 org.wit.assignment2:attr/cornerFamilyBottomRight = 0x7f030101
@@ -4660,6 +5133,7 @@ org.wit.assignment2:attr/tabIndicatorColor = 0x7f030346
 org.wit.assignment2:color/material_on_surface_emphasis_high_type = 0x7f050076
 org.wit.assignment2:attr/tabIndicatorAnimationDuration = 0x7f030344
 org.wit.assignment2:style/Base.ThemeOverlay.MaterialComponents.Dialog = 0x7f10006f
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/transitionToEnd = 0x7f0801be
 =======
@@ -4677,6 +5151,9 @@ org.wit.assignment2:id/transitionToEnd = 0x7f0801c3
 org.wit.assignment2:id/transitionToEnd = 0x7f0801c3
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/transitionToEnd = 0x7f0801c3
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/tabIndicator = 0x7f030343
 org.wit.assignment2:dimen/design_bottom_sheet_peek_height_min = 0x7f06006e
 org.wit.assignment2:attr/tabGravity = 0x7f030340
@@ -4703,9 +5180,10 @@ org.wit.assignment2:attr/textColorSearchUrl = 0x7f03037a
 org.wit.assignment2:attr/subtitleTextColor = 0x7f030334
 <<<<<<< HEAD
 org.wit.assignment2:color/primary_dark_material_dark = 0x7f0500b9
-org.wit.assignment2:id/touch_outside = 0x7f0801bd
+org.wit.assignment2:id/touch_outside = 0x7f0801c2
 org.wit.assignment2:attr/statusBarBackground = 0x7f03032a
 org.wit.assignment2:interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1 = 0x7f0a0003
+<<<<<<< Updated upstream
 org.wit.assignment2:id/edit_query = 0x7f0800ac
 =======
 <<<<<<< Updated upstream
@@ -4728,6 +5206,9 @@ org.wit.assignment2:id/edit_query = 0x7f0800ad
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/edit_query = 0x7f0800ad
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/design_snackbar_padding_vertical_2lines = 0x7f060087
 org.wit.assignment2:attr/state_lifted = 0x7f030329
 org.wit.assignment2:dimen/mtrl_extended_fab_corner_radius = 0x7f060122
@@ -4750,6 +5231,7 @@ org.wit.assignment2:attr/waveShape = 0x7f0303d8
 org.wit.assignment2:attr/state_collapsible = 0x7f030326
 org.wit.assignment2:style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Header = 0x7f10003b
 org.wit.assignment2:dimen/abc_star_small = 0x7f06003d
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/search_bar = 0x7f080161
 =======
@@ -4767,6 +5249,9 @@ org.wit.assignment2:id/search_bar = 0x7f080165
 org.wit.assignment2:id/search_bar = 0x7f080165
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/search_bar = 0x7f080165
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/state_above_anchor = 0x7f030324
 org.wit.assignment2:layout/material_radial_view_group = 0x7f0b0036
 org.wit.assignment2:attr/staggered = 0x7f03031e
@@ -4826,6 +5311,7 @@ org.wit.assignment2:attr/rangeFillColor = 0x7f0302db
 org.wit.assignment2:attr/selectableItemBackgroundBorderless = 0x7f0302f7
 org.wit.assignment2:style/Widget.AppCompat.ActionButton = 0x7f100209
 org.wit.assignment2:attr/errorTextAppearance = 0x7f030156
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/transitionToStart = 0x7f0801bf
 =======
@@ -4843,6 +5329,9 @@ org.wit.assignment2:id/transitionToStart = 0x7f0801c4
 org.wit.assignment2:id/transitionToStart = 0x7f0801c4
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/transitionToStart = 0x7f0801c4
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_action_bar_content_inset_material = 0x7f060000
 org.wit.assignment2:attr/searchViewStyle = 0x7f0302f4
 org.wit.assignment2:style/ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework = 0x7f1001f0
@@ -4857,6 +5346,7 @@ org.wit.assignment2:attr/drawableBottomCompat = 0x7f030133
 org.wit.assignment2:attr/scaleFromTextSize = 0x7f0302ee
 org.wit.assignment2:string/abc_menu_alt_shortcut_label = 0x7f0f0008
 org.wit.assignment2:dimen/material_emphasis_disabled = 0x7f0600ab
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/test_radiobutton_app_button_tint = 0x7f0801a4
 =======
@@ -4874,6 +5364,9 @@ org.wit.assignment2:id/test_radiobutton_app_button_tint = 0x7f0801a8
 org.wit.assignment2:id/test_radiobutton_app_button_tint = 0x7f0801a8
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/test_radiobutton_app_button_tint = 0x7f0801a8
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/overlay = 0x7f0302ab
 org.wit.assignment2:dimen/design_snackbar_text_size = 0x7f060088
 org.wit.assignment2:drawable/material_ic_clear_black_24dp = 0x7f07006f
@@ -4897,6 +5390,7 @@ org.wit.assignment2:attr/quantizeMotionInterpolator = 0x7f0302d4
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 org.wit.assignment2:attr/prefixTextColor = 0x7f0302cf
 <<<<<<< HEAD
 org.wit.assignment2:id/transition_transform = 0x7f0801c4
@@ -4912,6 +5406,9 @@ org.wit.assignment2:id/transition_transform = 0x7f0801c9
 org.wit.assignment2:id/transition_transform = 0x7f0801c9
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/transition_transform = 0x7f0801c9
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/tooltip_horizontal_padding = 0x7f06019f
 org.wit.assignment2:attr/keylines = 0x7f0301e1
 org.wit.assignment2:attr/iconStartPadding = 0x7f0301b1
@@ -4934,6 +5431,7 @@ org.wit.assignment2:attr/placeholderTextColor = 0x7f0302c6
 org.wit.assignment2:attr/pivotAnchor = 0x7f0302c3
 org.wit.assignment2:dimen/design_bottom_navigation_active_item_min_width = 0x7f060061
 org.wit.assignment2:attr/textAppearanceCaption = 0x7f030361
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/path_password_eye_mask_strike_through = 0x7f0f0067
 =======
@@ -4951,6 +5449,9 @@ org.wit.assignment2:string/path_password_eye_mask_strike_through = 0x7f0f006a
 org.wit.assignment2:string/path_password_eye_mask_strike_through = 0x7f0f006a
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/path_password_eye_mask_strike_through = 0x7f0f006a
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Widget.MaterialComponents.ShapeableImageView = 0x7f1002b0
 org.wit.assignment2:id/center_vertical = 0x7f08006b
 org.wit.assignment2:color/design_dark_default_color_on_primary = 0x7f050038
@@ -4963,6 +5464,7 @@ org.wit.assignment2:attr/passwordToggleEnabled = 0x7f0302b9
 org.wit.assignment2:attr/indicatorColor = 0x7f0301be
 org.wit.assignment2:drawable/$avd_show_password__1 = 0x7f070004
 org.wit.assignment2:dimen/design_navigation_icon_padding = 0x7f060077
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/path = 0x7f080143
 =======
@@ -4980,6 +5482,9 @@ org.wit.assignment2:id/path = 0x7f080146
 org.wit.assignment2:id/path = 0x7f080146
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/path = 0x7f080146
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/panelMenuListWidth = 0x7f0302b6
 org.wit.assignment2:attr/cornerSizeBottomRight = 0x7f030107
 org.wit.assignment2:attr/panelMenuListTheme = 0x7f0302b5
@@ -5003,6 +5508,7 @@ org.wit.assignment2:attr/onCross = 0x7f0302a3
 org.wit.assignment2:color/switch_thumb_normal_material_light = 0x7f0500d0
 org.wit.assignment2:bool/abc_config_actionMenuItemAllCaps = 0x7f040001
 org.wit.assignment2:attr/navigationMode = 0x7f03029b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/design_menu_item_action_area = 0x7f080093
 =======
@@ -5020,6 +5526,9 @@ org.wit.assignment2:id/design_menu_item_action_area = 0x7f080094
 org.wit.assignment2:id/design_menu_item_action_area = 0x7f080094
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/design_menu_item_action_area = 0x7f080094
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/fontProviderAuthority = 0x7f030188
 org.wit.assignment2:attr/navigationIconTint = 0x7f03029a
 org.wit.assignment2:attr/navigationIcon = 0x7f030299
@@ -5049,6 +5558,7 @@ org.wit.assignment2:attr/actionLayout = 0x7f03000f
 org.wit.assignment2:attr/elevationOverlayColor = 0x7f030144
 org.wit.assignment2:attr/materialCalendarHeaderCancelButton = 0x7f030250
 org.wit.assignment2:attr/fabAlignmentMode = 0x7f030165
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/view_tree_view_model_store_owner = 0x7f0801d0
 =======
@@ -5066,6 +5576,9 @@ org.wit.assignment2:id/view_tree_view_model_store_owner = 0x7f0801d5
 org.wit.assignment2:id/view_tree_view_model_store_owner = 0x7f0801d5
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/view_tree_view_model_store_owner = 0x7f0801d5
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/tooltip_y_offset_touch = 0x7f0601a5
 org.wit.assignment2:attr/curveFit = 0x7f030112
 org.wit.assignment2:id/actionDownUp = 0x7f080031
@@ -5095,6 +5608,7 @@ org.wit.assignment2:attr/materialClockStyle = 0x7f03025e
 org.wit.assignment2:attr/materialCalendarTheme = 0x7f03025a
 org.wit.assignment2:dimen/material_filled_edittext_font_1_3_padding_top = 0x7f0600af
 org.wit.assignment2:style/ThemeOverlay.AppCompat = 0x7f1001d3
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/mtrl_picker_text_input_range_start = 0x7f080122
 =======
@@ -5112,6 +5626,9 @@ org.wit.assignment2:id/mtrl_picker_text_input_range_start = 0x7f080125
 org.wit.assignment2:id/mtrl_picker_text_input_range_start = 0x7f080125
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/mtrl_picker_text_input_range_start = 0x7f080125
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/actionMenuTextAppearance = 0x7f030010
 org.wit.assignment2:style/Theme.AppCompat.Light.Dialog.Alert = 0x7f100196
 org.wit.assignment2:style/Base.Theme.MaterialComponents.Light.DialogWhenLarge = 0x7f100067
@@ -5122,9 +5639,14 @@ org.wit.assignment2:style/RtlOverlay.Widget.AppCompat.PopupMenuItem.Text = 0x7f1
 org.wit.assignment2:attr/materialCalendarHeaderSelection = 0x7f030254
 org.wit.assignment2:attr/materialCalendarHeaderLayout = 0x7f030253
 org.wit.assignment2:dimen/abc_dialog_title_divider_material = 0x7f060026
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/status_bar_notification_info_overflow = 0x7f0f006b
 org.wit.assignment2:id/src_in = 0x7f080185
+=======
+org.wit.assignment2:string/status_bar_notification_info_overflow = 0x7f0f006e
+org.wit.assignment2:id/src_in = 0x7f080189
+>>>>>>> Stashed changes
 org.wit.assignment2:color/tooltip_background_light = 0x7f0500d6
 =======
 <<<<<<< Updated upstream
@@ -5149,6 +5671,7 @@ org.wit.assignment2:style/Base.V14.ThemeOverlay.MaterialComponents.MaterialAlert
 org.wit.assignment2:string/button_addExercise = 0x7f0f0020
 org.wit.assignment2:attr/materialButtonStyle = 0x7f03024c
 org.wit.assignment2:attr/materialButtonOutlinedStyle = 0x7f03024b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/noState = 0x7f08012f
 =======
@@ -5166,6 +5689,9 @@ org.wit.assignment2:id/noState = 0x7f080132
 org.wit.assignment2:id/noState = 0x7f080132
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/noState = 0x7f080132
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/keyPositionType = 0x7f0301df
 org.wit.assignment2:drawable/$avd_hide_password__0 = 0x7f070000
 org.wit.assignment2:attr/materialAlertDialogTitleIconStyle = 0x7f030248
@@ -5183,6 +5709,7 @@ org.wit.assignment2:attr/listDividerAlertDialog = 0x7f030238
 org.wit.assignment2:drawable/abc_ic_menu_selectall_mtrl_alpha = 0x7f070025
 <<<<<<< HEAD
 org.wit.assignment2:color/mtrl_filled_icon_tint = 0x7f05009c
+<<<<<<< Updated upstream
 org.wit.assignment2:id/wrap_content = 0x7f0801d7
 =======
 <<<<<<< Updated upstream
@@ -5199,6 +5726,9 @@ org.wit.assignment2:id/wrap_content = 0x7f0801dc
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/wrap_content = 0x7f0801dc
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/listChoiceBackgroundIndicator = 0x7f030235
 org.wit.assignment2:attr/reactiveGuide_applyToConstraintSet = 0x7f0302e1
 org.wit.assignment2:integer/material_motion_duration_medium_1 = 0x7f09000b
@@ -5213,6 +5743,7 @@ org.wit.assignment2:attr/shapeAppearance = 0x7f0302fb
 org.wit.assignment2:attr/layout_wrapBehaviorInParent = 0x7f03022e
 <<<<<<< HEAD
 org.wit.assignment2:color/colorPrimaryDark = 0x7f050031
+<<<<<<< Updated upstream
 org.wit.assignment2:string/mtrl_picker_a11y_prev_month = 0x7f0f0047
 =======
 <<<<<<< Updated upstream
@@ -5228,6 +5759,9 @@ org.wit.assignment2:string/mtrl_picker_a11y_prev_month = 0x7f0f004a
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_a11y_prev_month = 0x7f0f004a
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/transitionPathRotate = 0x7f0303c1
 org.wit.assignment2:color/design_dark_default_color_primary_variant = 0x7f05003d
 org.wit.assignment2:attr/layout_constraintBaseline_toBaselineOf = 0x7f0301f3
@@ -5236,6 +5770,7 @@ org.wit.assignment2:attr/itemBackground = 0x7f0301c7
 org.wit.assignment2:layout/activity_parolymplus = 0x7f0b001c
 org.wit.assignment2:id/chronometer = 0x7f080075
 org.wit.assignment2:attr/layout_optimizationLevel = 0x7f03022b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/south = 0x7f08017b
 org.wit.assignment2:string/mtrl_picker_text_input_year_abbr = 0x7f0f0060
@@ -5258,6 +5793,10 @@ org.wit.assignment2:id/south = 0x7f08017f
 org.wit.assignment2:string/mtrl_picker_text_input_year_abbr = 0x7f0f0063
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/south = 0x7f08017f
+org.wit.assignment2:string/mtrl_picker_text_input_year_abbr = 0x7f0f0063
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/mtrl_exposed_dropdown_menu_popup_elevation = 0x7f06011e
 org.wit.assignment2:attr/layout_insetEdge = 0x7f030228
 org.wit.assignment2:attr/actionModeBackground = 0x7f030012
@@ -5268,6 +5807,7 @@ org.wit.assignment2:attr/region_heightMoreThan = 0x7f0302e5
 org.wit.assignment2:color/design_fab_stroke_top_inner_color = 0x7f050054
 org.wit.assignment2:dimen/mtrl_min_touch_target_size = 0x7f06013f
 org.wit.assignment2:attr/fabCradleRoundedCornerRadius = 0x7f030168
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/image = 0x7f0800d6
 =======
@@ -5285,6 +5825,9 @@ org.wit.assignment2:id/image = 0x7f0800d7
 org.wit.assignment2:id/image = 0x7f0800d7
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/image = 0x7f0800d7
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/layout_goneMarginStart = 0x7f030226
 org.wit.assignment2:attr/viewTransitionOnNegativeCross = 0x7f0303cf
 org.wit.assignment2:layout/mtrl_alert_select_dialog_multichoice = 0x7f0b0041
@@ -5340,6 +5883,7 @@ org.wit.assignment2:attr/placeholderText = 0x7f0302c4
 org.wit.assignment2:attr/nestedScrollViewStyle = 0x7f03029f
 org.wit.assignment2:attr/paddingTopSystemWindowInsets = 0x7f0302b3
 org.wit.assignment2:dimen/mtrl_slider_track_height = 0x7f060168
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_hour_text_input = 0x7f0800f7
 =======
@@ -5357,6 +5901,9 @@ org.wit.assignment2:id/material_hour_text_input = 0x7f0800fa
 org.wit.assignment2:id/material_hour_text_input = 0x7f0800fa
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/material_hour_text_input = 0x7f0800fa
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/layout_constraintGuide_percent = 0x7f030201
 org.wit.assignment2:layout/notification_template_part_chronometer = 0x7f0b005e
 org.wit.assignment2:attr/layout_constraintGuide_end = 0x7f030200
@@ -5376,6 +5923,7 @@ org.wit.assignment2:id/action_bar_spinner = 0x7f080037
 org.wit.assignment2:color/dim_foreground_disabled_material_dark = 0x7f050058
 org.wit.assignment2:attr/trackHeight = 0x7f0303b9
 org.wit.assignment2:attr/layout_constrainedHeight = 0x7f0301f0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/item1 = 0x7f0800dd
 =======
@@ -5393,6 +5941,9 @@ org.wit.assignment2:id/item1 = 0x7f0800de
 org.wit.assignment2:id/item1 = 0x7f0800de
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/item1 = 0x7f0800de
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/design_bottom_navigation_active_item_max_width = 0x7f060060
 org.wit.assignment2:bool/mtrl_btn_textappearance_all_caps = 0x7f040002
 org.wit.assignment2:attr/motionEffect_translationY = 0x7f03028c
@@ -5415,6 +5966,7 @@ org.wit.assignment2:style/Base.Theme.AppCompat.Dialog.MinWidth = 0x7f10004c
 org.wit.assignment2:attr/closeIconStartPadding = 0x7f0300c4
 org.wit.assignment2:attr/actionBarPopupTheme = 0x7f030004
 org.wit.assignment2:attr/itemTextColor = 0x7f0301de
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/item2 = 0x7f0800de
 =======
@@ -5432,6 +5984,9 @@ org.wit.assignment2:id/item2 = 0x7f0800df
 org.wit.assignment2:id/item2 = 0x7f0800df
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/item2 = 0x7f0800df
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/checkedTextViewStyle = 0x7f03009e
 org.wit.assignment2:attr/minHeight = 0x7f03026f
 org.wit.assignment2:style/TextAppearance.AppCompat.Widget.ActionMode.Title = 0x7f100155
@@ -5466,6 +6021,7 @@ org.wit.assignment2:attr/contentPaddingEnd = 0x7f0300f6
 org.wit.assignment2:attr/itemHorizontalTranslationEnabled = 0x7f0301ca
 org.wit.assignment2:attr/layout_constraintDimensionRatio = 0x7f0301fc
 org.wit.assignment2:anim/mtrl_bottom_sheet_slide_out = 0x7f01001e
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/item_view_role_description = 0x7f0f002d
 org.wit.assignment2:layout/test_design_radiobutton = 0x7f0b0065
@@ -5498,6 +6054,12 @@ org.wit.assignment2:attr/initialActivityCount = 0x7f0301c3
 org.wit.assignment2:id/showCustom = 0x7f080174
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/item_view_role_description = 0x7f0f002e
+org.wit.assignment2:layout/test_design_radiobutton = 0x7f0b0067
+org.wit.assignment2:attr/initialActivityCount = 0x7f0301c3
+org.wit.assignment2:id/showCustom = 0x7f080174
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/subtitleCentered = 0x7f030332
 org.wit.assignment2:anim/abc_tooltip_enter = 0x7f01000a
 org.wit.assignment2:attr/layout_marginBaseline = 0x7f03022a
@@ -5512,6 +6074,7 @@ org.wit.assignment2:string/clear_text_end_icon_content_description = 0x7f0f0025
 org.wit.assignment2:attr/cardUseCompatPadding = 0x7f030085
 org.wit.assignment2:dimen/material_textinput_default_width = 0x7f0600ba
 org.wit.assignment2:id/always = 0x7f08004b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/mtrl_picker_header_title_and_selection = 0x7f08011e
 =======
@@ -5529,6 +6092,9 @@ org.wit.assignment2:id/mtrl_picker_header_title_and_selection = 0x7f080121
 org.wit.assignment2:id/mtrl_picker_header_title_and_selection = 0x7f080121
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/mtrl_picker_header_title_and_selection = 0x7f080121
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/abc_textfield_default_mtrl_alpha = 0x7f070051
 org.wit.assignment2:anim/abc_popup_exit = 0x7f010004
 org.wit.assignment2:attr/helperTextTextAppearance = 0x7f03019e
@@ -5572,6 +6138,7 @@ org.wit.assignment2:attr/height = 0x7f03019b
 org.wit.assignment2:id/asConfigured = 0x7f080052
 org.wit.assignment2:attr/badgeTextColor = 0x7f03004d
 org.wit.assignment2:attr/spinnerDropDownItemStyle = 0x7f030314
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/test_checkbox_android_button_tint = 0x7f0801a1
 =======
@@ -5589,6 +6156,9 @@ org.wit.assignment2:id/test_checkbox_android_button_tint = 0x7f0801a5
 org.wit.assignment2:id/test_checkbox_android_button_tint = 0x7f0801a5
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/test_checkbox_android_button_tint = 0x7f0801a5
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/layoutManager = 0x7f0301ea
 org.wit.assignment2:attr/haloColor = 0x7f030198
 org.wit.assignment2:style/Base.Widget.AppCompat.AutoCompleteTextView = 0x7f1000a6
@@ -5597,6 +6167,7 @@ org.wit.assignment2:attr/actionModeCloseDrawable = 0x7f030015
 org.wit.assignment2:style/Base.Widget.Design.TabLayout = 0x7f1000d6
 org.wit.assignment2:layout/design_navigation_item_header = 0x7f0b0028
 org.wit.assignment2:attr/fontWeight = 0x7f030191
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/mtrl_picker_announce_current_selection = 0x7f0f0048
 =======
@@ -5614,6 +6185,9 @@ org.wit.assignment2:string/mtrl_picker_announce_current_selection = 0x7f0f004b
 org.wit.assignment2:string/mtrl_picker_announce_current_selection = 0x7f0f004b
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_announce_current_selection = 0x7f0f004b
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/fontProviderSystemFontFamily = 0x7f03018e
 org.wit.assignment2:style/Theme.Design.Light = 0x7f10019e
 org.wit.assignment2:style/TextAppearance.AppCompat.Widget.ActionBar.Menu = 0x7f10014e
@@ -5628,6 +6202,7 @@ org.wit.assignment2:attr/listPreferredItemPaddingStart = 0x7f030243
 org.wit.assignment2:style/Widget.AppCompat.Light.ActionBar.TabBar = 0x7f100221
 org.wit.assignment2:attr/maxCharacterCount = 0x7f030265
 org.wit.assignment2:style/Widget.Compat.NotificationActionContainer = 0x7f10024d
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/dimensions = 0x7f080098
 org.wit.assignment2:id/noScroll = 0x7f08012e
@@ -5643,6 +6218,14 @@ org.wit.assignment2:attr/singleChoiceItemLayout = 0x7f03030a
 org.wit.assignment2:style/Base.Widget.AppCompat.Button.Colored = 0x7f1000ab
 org.wit.assignment2:layout/design_navigation_item_subheader = 0x7f0b0028
 <<<<<<< HEAD
+=======
+org.wit.assignment2:id/dimensions = 0x7f080099
+org.wit.assignment2:id/noScroll = 0x7f080131
+org.wit.assignment2:dimen/mtrl_progress_circular_radius = 0x7f060155
+org.wit.assignment2:attr/singleChoiceItemLayout = 0x7f03030a
+org.wit.assignment2:style/Base.Widget.AppCompat.Button.Colored = 0x7f1000ab
+org.wit.assignment2:layout/design_navigation_item_subheader = 0x7f0b002a
+>>>>>>> Stashed changes
 org.wit.assignment2:color/highlighted_text_material_light = 0x7f050061
 =======
 org.wit.assignment2:color/highlighted_text_material_light = 0x7f05005e
@@ -5680,6 +6263,7 @@ org.wit.assignment2:style/ThemeOverlay.MaterialComponents.DayNight.BottomSheetDi
 org.wit.assignment2:attr/closeIconEndPadding = 0x7f0300c2
 org.wit.assignment2:attr/flow_padding = 0x7f030180
 org.wit.assignment2:styleable/AppCompatTheme = 0x7f110012
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/spread_inside = 0x7f080181
 org.wit.assignment2:attr/barrierDirection = 0x7f030050
@@ -5711,6 +6295,12 @@ org.wit.assignment2:attr/flow_maxElementsWrap = 0x7f03017f
 org.wit.assignment2:id/title = 0x7f0801ba
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/spread_inside = 0x7f080185
+org.wit.assignment2:attr/barrierDirection = 0x7f030050
+org.wit.assignment2:attr/flow_maxElementsWrap = 0x7f03017f
+org.wit.assignment2:id/title = 0x7f0801ba
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/flow_lastVerticalStyle = 0x7f03017e
 org.wit.assignment2:styleable/CoordinatorLayout = 0x7f11002c
 org.wit.assignment2:attr/endIconCheckable = 0x7f030148
@@ -5722,6 +6312,7 @@ org.wit.assignment2:attr/tabSelectedTextColor = 0x7f030354
 org.wit.assignment2:attr/flow_lastVerticalBias = 0x7f03017d
 org.wit.assignment2:style/Base.Theme.MaterialComponents.Dialog = 0x7f100058
 org.wit.assignment2:attr/flow_lastHorizontalStyle = 0x7f03017c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/north = 0x7f080132
 =======
@@ -5739,6 +6330,9 @@ org.wit.assignment2:id/north = 0x7f080135
 org.wit.assignment2:id/north = 0x7f080135
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/north = 0x7f080135
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/mock_labelBackgroundColor = 0x7f030276
 org.wit.assignment2:attr/flow_lastHorizontalBias = 0x7f03017b
 org.wit.assignment2:dimen/abc_alert_dialog_button_bar_height = 0x7f060010
@@ -5764,6 +6358,7 @@ org.wit.assignment2:attr/waveOffset = 0x7f0303d5
 org.wit.assignment2:color/mtrl_textinput_focused_box_stroke_color = 0x7f0500b5
 org.wit.assignment2:dimen/design_bottom_navigation_text_size = 0x7f06006b
 org.wit.assignment2:style/Base.Theme.AppCompat.Dialog = 0x7f100049
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/graph = 0x7f0800c5
 =======
@@ -5781,6 +6376,9 @@ org.wit.assignment2:id/graph = 0x7f0800c6
 org.wit.assignment2:id/graph = 0x7f0800c6
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/graph = 0x7f0800c6
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/checkedIconTint = 0x7f03009c
 org.wit.assignment2:dimen/material_text_view_test_line_height = 0x7f0600b8
 org.wit.assignment2:attr/lineSpacing = 0x7f030233
@@ -5790,6 +6388,7 @@ org.wit.assignment2:attr/motionDebug = 0x7f03027a
 org.wit.assignment2:attr/endIconMode = 0x7f03014b
 org.wit.assignment2:attr/extendMotionSpec = 0x7f030162
 org.wit.assignment2:id/antiClockwise = 0x7f08004e
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/skipped = 0x7f080175
 =======
@@ -5807,6 +6406,9 @@ org.wit.assignment2:id/skipped = 0x7f080179
 org.wit.assignment2:id/skipped = 0x7f080179
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/skipped = 0x7f080179
+>>>>>>> Stashed changes
 org.wit.assignment2:drawable/test_level_drawable = 0x7f07008f
 org.wit.assignment2:attr/layout_constraintCircleRadius = 0x7f0301fb
 org.wit.assignment2:style/TextAppearance.AppCompat.Subhead.Inverse = 0x7f10014a
@@ -5822,6 +6424,7 @@ org.wit.assignment2:attr/buttonCompat = 0x7f030077
 org.wit.assignment2:string/exposed_dropdown_menu_content_description = 0x7f0f0027
 org.wit.assignment2:style/Base.V14.Theme.MaterialComponents.Light = 0x7f100078
 org.wit.assignment2:style/Base.V28.Theme.AppCompat.Light = 0x7f100093
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/material_motion_easing_decelerated = 0x7f0f0035
 =======
@@ -5839,12 +6442,16 @@ org.wit.assignment2:string/material_motion_easing_decelerated = 0x7f0f0036
 org.wit.assignment2:string/material_motion_easing_decelerated = 0x7f0f0036
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/material_motion_easing_decelerated = 0x7f0f0036
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/counterEnabled = 0x7f03010a
 org.wit.assignment2:attr/expandedTitleMarginBottom = 0x7f03015d
 org.wit.assignment2:attr/layout_constraintLeft_toRightOf = 0x7f03020c
 org.wit.assignment2:style/TestStyleWithThemeLineHeightAttribute = 0x7f10012d
 org.wit.assignment2:attr/itemIconTint = 0x7f0301cd
 org.wit.assignment2:dimen/mtrl_extended_fab_icon_size = 0x7f060128
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/selection_type = 0x7f08016c
 =======
@@ -5862,6 +6469,9 @@ org.wit.assignment2:id/selection_type = 0x7f080170
 org.wit.assignment2:id/selection_type = 0x7f080170
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/selection_type = 0x7f080170
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Widget.MaterialComponents.BottomAppBar.PrimarySurface = 0x7f100268
 org.wit.assignment2:attr/chipIconVisible = 0x7f0300a7
 org.wit.assignment2:attr/dragScale = 0x7f030130
@@ -5881,6 +6491,7 @@ org.wit.assignment2:attr/endIconTintMode = 0x7f03014d
 org.wit.assignment2:style/Base.Widget.AppCompat.ActionMode = 0x7f1000a4
 org.wit.assignment2:color/material_grey_900 = 0x7f05006e
 org.wit.assignment2:attr/endIconTint = 0x7f03014c
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/text_input_start_icon = 0x7f0801ae
 =======
@@ -5898,6 +6509,9 @@ org.wit.assignment2:id/text_input_start_icon = 0x7f0801b2
 org.wit.assignment2:id/text_input_start_icon = 0x7f0801b2
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/text_input_start_icon = 0x7f0801b2
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/actionOverflowMenuStyle = 0x7f030022
 org.wit.assignment2:attr/actionBarTabBarStyle = 0x7f030008
 org.wit.assignment2:attr/spinnerStyle = 0x7f030315
@@ -5935,6 +6549,7 @@ org.wit.assignment2:attr/placeholderTextAppearance = 0x7f0302c5
 org.wit.assignment2:dimen/design_bottom_navigation_shadow_height = 0x7f06006a
 org.wit.assignment2:attr/snackbarButtonStyle = 0x7f03030f
 org.wit.assignment2:attr/closeIconEnabled = 0x7f0300c1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/textinput_prefix_text = 0x7f0801b3
 =======
@@ -5952,6 +6567,9 @@ org.wit.assignment2:id/textinput_prefix_text = 0x7f0801b7
 org.wit.assignment2:id/textinput_prefix_text = 0x7f0801b7
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/textinput_prefix_text = 0x7f0801b7
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_select_dialog_padding_start_material = 0x7f06003a
 org.wit.assignment2:dimen/mtrl_card_corner_radius = 0x7f060117
 org.wit.assignment2:attr/editTextBackground = 0x7f030140
@@ -6012,6 +6630,7 @@ org.wit.assignment2:styleable/GradientColorItem = 0x7f11003b
 org.wit.assignment2:anim/btn_checkbox_to_unchecked_icon_null_animation = 0x7f010011
 org.wit.assignment2:attr/trackTintMode = 0x7f0303bc
 org.wit.assignment2:style/Base.V21.Theme.MaterialComponents = 0x7f100085
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/labeled = 0x7f0800e4
 =======
@@ -6029,6 +6648,9 @@ org.wit.assignment2:id/labeled = 0x7f0800e7
 org.wit.assignment2:id/labeled = 0x7f0800e7
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/labeled = 0x7f0800e7
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/checkedButton = 0x7f030096
 org.wit.assignment2:attr/counterMaxLength = 0x7f03010b
 org.wit.assignment2:color/design_dark_default_color_error = 0x7f050035
@@ -6055,9 +6677,10 @@ org.wit.assignment2:attr/lStar = 0x7f0301e2
 org.wit.assignment2:attr/SharedValue = 0x7f030000
 <<<<<<< HEAD
 org.wit.assignment2:color/design_dark_default_color_primary_dark = 0x7f05003c
-org.wit.assignment2:layout/text_view_with_line_height_from_style = 0x7f0b006e
+org.wit.assignment2:layout/text_view_with_line_height_from_style = 0x7f0b0070
 org.wit.assignment2:attr/titleTextColor = 0x7f0303a8
 org.wit.assignment2:attr/closeIcon = 0x7f0300c0
+<<<<<<< Updated upstream
 org.wit.assignment2:id/staticLayout = 0x7f08018c
 =======
 <<<<<<< Updated upstream
@@ -6090,13 +6713,20 @@ org.wit.assignment2:attr/closeIcon = 0x7f0300c0
 org.wit.assignment2:id/staticLayout = 0x7f080190
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/staticLayout = 0x7f080190
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/spanCount = 0x7f030312
 org.wit.assignment2:attr/searchHintIcon = 0x7f0302f2
 org.wit.assignment2:attr/layout_goneMarginBaseline = 0x7f030221
 org.wit.assignment2:attr/listPreferredItemHeight = 0x7f03023d
 org.wit.assignment2:dimen/mtrl_bottomappbar_fab_cradle_rounded_corner_radius = 0x7f0600d0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/material_timepicker_clock_mode_description = 0x7f0f003c
+=======
+org.wit.assignment2:string/material_timepicker_clock_mode_description = 0x7f0f003d
+>>>>>>> Stashed changes
 org.wit.assignment2:color/mtrl_tabs_colored_ripple_color = 0x7f0500ac
 =======
 <<<<<<< Updated upstream
@@ -6126,6 +6756,7 @@ org.wit.assignment2:style/ThemeOverlay.AppCompat.Dialog = 0x7f1001d9
 org.wit.assignment2:style/Base.Widget.AppCompat.CompoundButton.CheckBox = 0x7f1000af
 org.wit.assignment2:attr/backgroundStacked = 0x7f030048
 org.wit.assignment2:drawable/abc_menu_hardkey_panel_mtrl_mult = 0x7f070037
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/material_hour_suffix = 0x7f0f0031
 =======
@@ -6143,6 +6774,9 @@ org.wit.assignment2:string/material_hour_suffix = 0x7f0f0032
 org.wit.assignment2:string/material_hour_suffix = 0x7f0f0032
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/material_hour_suffix = 0x7f0f0032
+>>>>>>> Stashed changes
 org.wit.assignment2:style/ThemeOverlay.MaterialComponents.Dark.ActionBar = 0x7f1001ea
 org.wit.assignment2:attr/imageRotate = 0x7f0301ba
 org.wit.assignment2:attr/layout_constraintCircleAngle = 0x7f0301fa
@@ -6162,6 +6796,7 @@ org.wit.assignment2:dimen/disabled_alpha_material_dark = 0x7f06008e
 org.wit.assignment2:attr/colorControlActivated = 0x7f0300d2
 <<<<<<< HEAD
 org.wit.assignment2:color/switch_thumb_disabled_material_dark = 0x7f0500cb
+<<<<<<< Updated upstream
 org.wit.assignment2:id/dropdown_menu = 0x7f0800a7
 =======
 <<<<<<< Updated upstream
@@ -6178,12 +6813,16 @@ org.wit.assignment2:id/dropdown_menu = 0x7f0800a8
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/dropdown_menu = 0x7f0800a8
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/enableEdgeToEdge = 0x7f030147
 org.wit.assignment2:attr/tabPadding = 0x7f03034e
 org.wit.assignment2:attr/hideOnContentScroll = 0x7f0301a2
 org.wit.assignment2:attr/dropdownListPreferredItemHeight = 0x7f03013e
 org.wit.assignment2:color/abc_background_cache_hint_selector_material_dark = 0x7f050000
 org.wit.assignment2:integer/material_motion_duration_long_2 = 0x7f09000a
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/none = 0x7f080130
 =======
@@ -6201,6 +6840,9 @@ org.wit.assignment2:id/none = 0x7f080133
 org.wit.assignment2:id/none = 0x7f080133
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/none = 0x7f080133
+>>>>>>> Stashed changes
 org.wit.assignment2:style/TextAppearance.MaterialComponents.Headline3 = 0x7f100179
 org.wit.assignment2:attr/helperTextEnabled = 0x7f03019d
 org.wit.assignment2:style/Widget.AppCompat.Light.ActionBar.Solid.Inverse = 0x7f100220
@@ -6228,6 +6870,7 @@ org.wit.assignment2:style/Base.Widget.AppCompat.ProgressBar.Horizontal = 0x7f100
 org.wit.assignment2:attr/clearsTag = 0x7f0300ba
 org.wit.assignment2:dimen/mtrl_bottomappbar_fab_cradle_margin = 0x7f0600cf
 org.wit.assignment2:attr/defaultState = 0x7f030123
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/uniform = 0x7f0801c7
 org.wit.assignment2:id/fixed = 0x7f0800bc
@@ -6250,6 +6893,10 @@ org.wit.assignment2:id/uniform = 0x7f0801cc
 org.wit.assignment2:id/fixed = 0x7f0800bd
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/uniform = 0x7f0801cc
+org.wit.assignment2:id/fixed = 0x7f0800bd
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/buttonTintMode = 0x7f03007e
 org.wit.assignment2:dimen/mtrl_extended_fab_icon_text_spacing = 0x7f060129
 org.wit.assignment2:dimen/abc_action_bar_stacked_max_height = 0x7f060009
@@ -6303,6 +6950,7 @@ org.wit.assignment2:attr/counterOverflowTextColor = 0x7f03010d
 org.wit.assignment2:attr/checkedIconSize = 0x7f03009b
 <<<<<<< HEAD
 org.wit.assignment2:color/primary_material_light = 0x7f0500bc
+<<<<<<< Updated upstream
 org.wit.assignment2:id/slide = 0x7f080176
 =======
 <<<<<<< Updated upstream
@@ -6319,12 +6967,16 @@ org.wit.assignment2:id/slide = 0x7f08017a
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/slide = 0x7f08017a
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/windowFixedHeightMajor = 0x7f0303dd
 org.wit.assignment2:styleable/MaterialCalendarItem = 0x7f110051
 org.wit.assignment2:id/deltaRelative = 0x7f080090
 org.wit.assignment2:attr/dayTodayStyle = 0x7f030120
 org.wit.assignment2:attr/buttonTint = 0x7f03007d
 org.wit.assignment2:attr/fabCradleMargin = 0x7f030167
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/month_navigation_fragment_toggle = 0x7f080109
 =======
@@ -6342,6 +6994,9 @@ org.wit.assignment2:id/month_navigation_fragment_toggle = 0x7f08010c
 org.wit.assignment2:id/month_navigation_fragment_toggle = 0x7f08010c
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/month_navigation_fragment_toggle = 0x7f08010c
+>>>>>>> Stashed changes
 org.wit.assignment2:style/ThemeOverlayColorAccentRed = 0x7f100203
 org.wit.assignment2:dimen/abc_button_inset_vertical_material = 0x7f060013
 org.wit.assignment2:attr/textAppearancePopupMenuHeader = 0x7f03036e
@@ -6349,6 +7004,7 @@ org.wit.assignment2:drawable/notification_tile_bg = 0x7f07008c
 org.wit.assignment2:style/Widget.MaterialComponents.BottomAppBar.Colored = 0x7f100267
 org.wit.assignment2:dimen/mtrl_btn_snackbar_margin_horizontal = 0x7f0600e4
 org.wit.assignment2:dimen/mtrl_progress_circular_size_small = 0x7f060159
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/mtrl_picker_navigate_to_year_description = 0x7f0f0053
 =======
@@ -6366,6 +7022,9 @@ org.wit.assignment2:string/mtrl_picker_navigate_to_year_description = 0x7f0f0056
 org.wit.assignment2:string/mtrl_picker_navigate_to_year_description = 0x7f0f0056
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_navigate_to_year_description = 0x7f0f0056
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/springBoundary = 0x7f030317
 org.wit.assignment2:attr/animateCircleAngleTo = 0x7f03002f
 org.wit.assignment2:attr/upDuration = 0x7f0303c7
@@ -6414,6 +7073,7 @@ org.wit.assignment2:attr/drawableSize = 0x7f030137
 org.wit.assignment2:attr/brightness = 0x7f030071
 org.wit.assignment2:layout/test_chip_zero_corner_radius = 0x7f0b0065
 org.wit.assignment2:attr/materialCalendarDay = 0x7f03024e
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/tag_window_insets_animation_callback = 0x7f0801a0
 =======
@@ -6431,12 +7091,21 @@ org.wit.assignment2:id/tag_window_insets_animation_callback = 0x7f0801a4
 org.wit.assignment2:id/tag_window_insets_animation_callback = 0x7f0801a4
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/tag_window_insets_animation_callback = 0x7f0801a4
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/colorSecondaryVariant = 0x7f0300e1
 org.wit.assignment2:style/Base.Theme.AppCompat.Light.DialogWhenLarge = 0x7f100054
 org.wit.assignment2:attr/autoSizeTextType = 0x7f03003e
 org.wit.assignment2:attr/motionEffect_alpha = 0x7f030286
 org.wit.assignment2:attr/boxCollapsedPaddingTop = 0x7f030068
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+org.wit.assignment2:style/Widget.MaterialComponents.BottomAppBar = 0x7f100266
+org.wit.assignment2:style/RtlUnderlay.Widget.AppCompat.ActionButton.Overflow = 0x7f100110
+org.wit.assignment2:attr/boxBackgroundMode = 0x7f030067
+>>>>>>> Stashed changes
 org.wit.assignment2:color/primary_dark_material_light = 0x7f0500ba
 =======
 <<<<<<< Updated upstream
@@ -6466,6 +7135,7 @@ org.wit.assignment2:layout/mtrl_picker_fullscreen = 0x7f0b0052
 org.wit.assignment2:attr/tickMark = 0x7f030397
 org.wit.assignment2:dimen/material_time_picker_minimum_screen_width = 0x7f0600be
 org.wit.assignment2:attr/actionModeCutDrawable = 0x7f030017
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/scrollView = 0x7f08015e
 =======
@@ -6483,6 +7153,9 @@ org.wit.assignment2:id/scrollView = 0x7f080162
 org.wit.assignment2:id/scrollView = 0x7f080162
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/scrollView = 0x7f080162
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/layout_constraintLeft_toLeftOf = 0x7f03020b
 org.wit.assignment2:color/design_dark_default_color_on_secondary = 0x7f050039
 org.wit.assignment2:styleable/CustomAttribute = 0x7f11002e
@@ -6498,6 +7171,7 @@ org.wit.assignment2:attr/blendSrc = 0x7f03005d
 org.wit.assignment2:style/TextAppearance.AppCompat.Large = 0x7f10013c
 org.wit.assignment2:attr/boxBackgroundColor = 0x7f030066
 org.wit.assignment2:string/abc_shareactionprovider_share_with_application = 0x7f0f0019
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/right_icon = 0x7f080152
 =======
@@ -6515,10 +7189,14 @@ org.wit.assignment2:id/right_icon = 0x7f080156
 org.wit.assignment2:id/right_icon = 0x7f080156
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/right_icon = 0x7f080156
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Base.V7.Theme.AppCompat = 0x7f100094
 org.wit.assignment2:attr/materialCalendarHeaderToggleButton = 0x7f030256
 org.wit.assignment2:attr/fastScrollHorizontalThumbDrawable = 0x7f03016d
 org.wit.assignment2:dimen/design_navigation_elevation = 0x7f060076
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/selected = 0x7f08016b
 =======
@@ -6536,6 +7214,9 @@ org.wit.assignment2:id/selected = 0x7f08016f
 org.wit.assignment2:id/selected = 0x7f08016f
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/selected = 0x7f08016f
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/fontProviderQuery = 0x7f03018d
 org.wit.assignment2:layout/mtrl_picker_header_dialog = 0x7f0b0053
 org.wit.assignment2:attr/imagePanY = 0x7f0301b9
@@ -6549,6 +7230,7 @@ org.wit.assignment2:style/Widget.AppCompat.Spinner.DropDown.ActionBar = 0x7f1002
 org.wit.assignment2:dimen/tooltip_corner_radius = 0x7f06019e
 org.wit.assignment2:xml/standalone_badge_gravity_bottom_start = 0x7f120002
 org.wit.assignment2:attr/textEndPadding = 0x7f03037b
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/search_voice_btn = 0x7f080169
 =======
@@ -6566,6 +7248,9 @@ org.wit.assignment2:id/search_voice_btn = 0x7f08016d
 org.wit.assignment2:id/search_voice_btn = 0x7f08016d
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/search_voice_btn = 0x7f08016d
+>>>>>>> Stashed changes
 org.wit.assignment2:style/Widget.MaterialComponents.TimePicker = 0x7f1002c5
 org.wit.assignment2:attr/carousel_backwardTransition = 0x7f030087
 org.wit.assignment2:attr/counterOverflowTextAppearance = 0x7f03010c
@@ -6641,8 +7326,12 @@ org.wit.assignment2:drawable/avd_show_password = 0x7f070057
 org.wit.assignment2:drawable/btn_checkbox_unchecked_mtrl = 0x7f07005a
 org.wit.assignment2:attr/buttonGravity = 0x7f030078
 org.wit.assignment2:style/Theme.MaterialComponents.BottomSheetDialog = 0x7f1001a3
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/material_timepicker_container = 0x7f0800fe
+=======
+org.wit.assignment2:id/material_timepicker_container = 0x7f080101
+>>>>>>> Stashed changes
 org.wit.assignment2:color/material_on_primary_emphasis_medium = 0x7f050074
 =======
 <<<<<<< Updated upstream
@@ -6673,6 +7362,7 @@ org.wit.assignment2:id/action_bar_subtitle = 0x7f080038
 org.wit.assignment2:drawable/abc_switch_track_mtrl_alpha = 0x7f070049
 org.wit.assignment2:attr/buttonStyleSmall = 0x7f03007c
 org.wit.assignment2:attr/layout_editor_absoluteX = 0x7f03021f
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/tag_unhandled_key_event_manager = 0x7f08019e
 =======
@@ -6690,10 +7380,14 @@ org.wit.assignment2:id/tag_unhandled_key_event_manager = 0x7f0801a2
 org.wit.assignment2:id/tag_unhandled_key_event_manager = 0x7f0801a2
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/tag_unhandled_key_event_manager = 0x7f0801a2
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/circleRadius = 0x7f0300b3
 org.wit.assignment2:attr/actionBarTheme = 0x7f03000b
 org.wit.assignment2:color/mtrl_btn_ripple_color = 0x7f050085
 org.wit.assignment2:attr/minWidth = 0x7f030273
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6723,11 +7417,19 @@ org.wit.assignment2:id/multiply = 0x7f080128
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:layout/notification_action = 0x7f0b005a
+org.wit.assignment2:color/mtrl_btn_stroke_color_selector = 0x7f050086
+org.wit.assignment2:style/Widget.MaterialComponents.MaterialCalendar.Day.Today = 0x7f100293
+org.wit.assignment2:id/SHIFT = 0x7f080007
+org.wit.assignment2:id/multiply = 0x7f080128
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/cornerFamilyTopLeft = 0x7f030102
 org.wit.assignment2:style/Theme.Design.Light.NoActionBar = 0x7f1001a0
 org.wit.assignment2:animator/mtrl_extended_fab_change_size_collapse_motion_spec = 0x7f020011
 org.wit.assignment2:attr/stackFromEnd = 0x7f03031d
 org.wit.assignment2:layout/abc_action_menu_item_layout = 0x7f0b0002
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:string/mtrl_picker_range_header_only_start_selected = 0x7f0f0056
 org.wit.assignment2:attr/track = 0x7f0303b4
@@ -6755,12 +7457,18 @@ org.wit.assignment2:attr/track = 0x7f0303b4
 org.wit.assignment2:id/ghost_view_holder = 0x7f0800c4
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:string/mtrl_picker_range_header_only_start_selected = 0x7f0f0059
+org.wit.assignment2:attr/track = 0x7f0303b4
+org.wit.assignment2:id/ghost_view_holder = 0x7f0800c4
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/counterTextAppearance = 0x7f03010e
 org.wit.assignment2:drawable/mtrl_ic_cancel = 0x7f07007b
 org.wit.assignment2:attr/numericModifiers = 0x7f0302a2
 org.wit.assignment2:dimen/mtrl_edittext_rectangle_top_offset = 0x7f06011d
 org.wit.assignment2:style/Theme.AppCompat.Light.NoActionBar = 0x7f100199
 org.wit.assignment2:style/Widget.MaterialComponents.MaterialCalendar.HeaderCancelButton = 0x7f100296
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/legacy = 0x7f0800e8
 org.wit.assignment2:dimen/abc_text_size_menu_material = 0x7f06004b
@@ -6794,6 +7502,13 @@ org.wit.assignment2:id/title_template = 0x7f0801bc
 =======
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/legacy = 0x7f0800eb
+org.wit.assignment2:dimen/abc_text_size_menu_material = 0x7f06004b
+org.wit.assignment2:styleable/NavigationBarView = 0x7f110065
+org.wit.assignment2:attr/state_collapsed = 0x7f030325
+org.wit.assignment2:id/title_template = 0x7f0801bc
+>>>>>>> Stashed changes
 org.wit.assignment2:attr/buttonPanelSideLayout = 0x7f03007a
 org.wit.assignment2:style/ThemeOverlay.MaterialComponents.TextInputEditText.FilledBox = 0x7f1001fb
 org.wit.assignment2:attr/behavior_halfExpandedRatio = 0x7f030057
@@ -6801,6 +7516,7 @@ org.wit.assignment2:attr/alphabeticModifiers = 0x7f03002d
 org.wit.assignment2:attr/customDimension = 0x7f030116
 org.wit.assignment2:color/secondary_text_default_material_light = 0x7f0500c8
 org.wit.assignment2:animator/fragment_fade_enter = 0x7f020005
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 org.wit.assignment2:id/mtrl_picker_header = 0x7f08011c
 =======
@@ -6818,6 +7534,9 @@ org.wit.assignment2:id/mtrl_picker_header = 0x7f08011f
 org.wit.assignment2:id/mtrl_picker_header = 0x7f08011f
 >>>>>>> Stashed changes
 >>>>>>> wip
+=======
+org.wit.assignment2:id/mtrl_picker_header = 0x7f08011f
+>>>>>>> Stashed changes
 org.wit.assignment2:dimen/abc_search_view_preferred_width = 0x7f060037
 org.wit.assignment2:attr/contentPaddingLeft = 0x7f0300f7
 org.wit.assignment2:attr/behavior_peekHeight = 0x7f03005a
