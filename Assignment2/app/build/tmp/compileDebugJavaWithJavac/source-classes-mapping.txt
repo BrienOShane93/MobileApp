@@ -8,4 +8,7 @@ org/wit/assignment2/databinding/ActivityParolymplusBinding.java
  org.wit.assignment2.databinding.ActivityParolymplusBinding
 org/wit/assignment2/databinding/CardExerciseBinding.java
  org.wit.assignment2.databinding.CardExerciseBinding
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

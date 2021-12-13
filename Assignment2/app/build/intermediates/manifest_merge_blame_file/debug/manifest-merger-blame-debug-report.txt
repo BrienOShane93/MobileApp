@@ -12,6 +12,7 @@
 10
 11    <application
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 11-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:5:5-21:19
 12        android:allowBackup="true"
 12-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:6:9-35
@@ -63,6 +64,8 @@
 38                android:value="androidx.startup" />
 38-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
 =======
+=======
+>>>>>>> Stashed changes
 11-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:5:5-22:19
 12        android:name="org.wit.assignment2.main.MainApp"
 12-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:6:9-37
@@ -113,6 +116,9 @@
 37-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
 38            android:exported="false" >
 38-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 39            <meta-data
 39-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52

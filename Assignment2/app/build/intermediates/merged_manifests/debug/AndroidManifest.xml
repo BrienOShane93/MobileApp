@@ -22,7 +22,11 @@
         android:theme="@style/Theme.Assignment2" >
         <activity
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             android:name="org.wit.assignment2.ParolymplusActivity"
+=======
+            android:name="org.wit.assignment2.activities.ParolymplusListActivity"
+>>>>>>> Stashed changes
 =======
             android:name="org.wit.assignment2.activities.ParolymplusListActivity"
 >>>>>>> Stashed changes

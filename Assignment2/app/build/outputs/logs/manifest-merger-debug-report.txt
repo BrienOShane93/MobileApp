@@ -1,11 +1,14 @@
 -- Merging decision tree log ---
 manifest
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-23:12
 =======
+=======
+>>>>>>> Stashed changes
 ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:2:1-24:12
@@ -103,6 +106,7 @@ MERGED from [com.jakewharton.timber:timber:4.7.0] /Users/BrienOShane93/.gradle/c
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:11:9-49
 activity#org.wit.assignment2.ParolymplusActivity
 ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-20:20
@@ -110,6 +114,17 @@ ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/m
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:14:13-36
 	android:name
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:13-48
+=======
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-49
+	android:name
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:6:9-37
+activity#org.wit.assignment2.activities.ParolymplusListActivity
+ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:exported
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:19-69
+>>>>>>> Stashed changes
 =======
 		ADDED from /Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-49
 	android:name
