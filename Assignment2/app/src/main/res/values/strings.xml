@@ -6,8 +6,11 @@
     <string name="menu_addExercise">Add</string>
     <string name="menu_cancelExercise">Cancel</string>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <string name="enter_exercise_title"> Please enter a Exercise Title </string>
     <string name="save_exercise"> Save Exercise </string>
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 </resources>

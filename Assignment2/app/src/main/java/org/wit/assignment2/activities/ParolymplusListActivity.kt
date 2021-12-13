@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import org.wit.assignment2.R
 import org.wit.assignment2.adapters.ExerciseAdapter
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import org.wit.assignment2.adapters.ExerciseListener
 import org.wit.assignment2.databinding.ActivityParolymplusListBinding
 import org.wit.assignment2.main.MainApp
@@ -16,10 +17,15 @@ import org.wit.assignment2.models.ExerciseModel
 
 class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
 =======
+=======
+>>>>>>> Stashed changes
 import org.wit.assignment2.databinding.ActivityParolymplusListBinding
 import org.wit.assignment2.main.MainApp
 
 class ParolymplusListActivity : AppCompatActivity() {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     lateinit var app: MainApp
     private lateinit var binding: ActivityParolymplusListBinding
@@ -36,7 +42,11 @@ class ParolymplusListActivity : AppCompatActivity() {
         val layoutManager = LinearLayoutManager(this)
         binding.recyclerView.layoutManager = layoutManager
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         binding.recyclerView.adapter = ExerciseAdapter(app.exercises.findAll(),this)
+=======
+        binding.recyclerView.adapter = ExerciseAdapter(app.exercises)
+>>>>>>> Stashed changes
 =======
         binding.recyclerView.adapter = ExerciseAdapter(app.exercises)
 >>>>>>> Stashed changes
@@ -57,12 +67,15 @@ class ParolymplusListActivity : AppCompatActivity() {
         return super.onOptionsItemSelected(item)
     }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
     override fun onExerciseClick(exercise: ExerciseModel) {
         val launcherIntent = Intent(this, ParolymplusActivity::class.java)
         launcherIntent.putExtra("exercise_edit", exercise)
         startActivityForResult(launcherIntent,0)
     }
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 }

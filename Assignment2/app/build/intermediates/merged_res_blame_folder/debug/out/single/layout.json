@@ -5,10 +5,13 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "merged": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_parolymplus_list.xml",
         "source": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/res/layout/activity_parolymplus_list.xml"
     },
     {
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "merged": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_parolymplus.xml",

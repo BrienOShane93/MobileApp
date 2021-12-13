@@ -6,10 +6,13 @@
     {
         "merged": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/build/intermediates/merged_res/debug/layout_activity_parolymplus_list.xml.flat",
         "source": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/res/layout/activity_parolymplus_list.xml"
+<<<<<<< Updated upstream
     },
     {
         "merged": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/build/intermediates/merged_res/debug/layout_activity_parolymplus_list.xml.flat",
         "source": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/res/layout/activity_parolymplus_list.xml"
+=======
+>>>>>>> Stashed changes
     },
     {
         "merged": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
@@ -17,8 +20,13 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "merged": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/build/intermediates/merged_res/debug/menu_menu_exercise.xml.flat",
         "source": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/res/menu/menu_exercise.xml"
+=======
+        "merged": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/build/intermediates/merged_res/debug/layout_activity_parolymplus.xml.flat",
+        "source": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/res/layout/activity_parolymplus.xml"
+>>>>>>> Stashed changes
 =======
         "merged": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/build/intermediates/merged_res/debug/layout_activity_parolymplus.xml.flat",
         "source": "/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/res/layout/activity_parolymplus.xml"

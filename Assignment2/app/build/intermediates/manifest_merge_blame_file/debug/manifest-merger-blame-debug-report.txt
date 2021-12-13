@@ -29,6 +29,7 @@
 20        android:supportsRtl="true"
 20-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:11:9-35
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 21        android:theme="@style/Theme.Assignment2" >
 21-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-49
 22        <activity
@@ -78,6 +79,8 @@
 46
 47</manifest>
 =======
+=======
+>>>>>>> Stashed changes
 21        android:testOnly="true"
 22        android:theme="@style/Theme.Assignment2" >
 22-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-49
@@ -127,4 +130,7 @@
 46    </application>
 47
 48</manifest>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

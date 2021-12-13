@@ -10,7 +10,10 @@ import org.wit.assignment2.databinding.ActivityParolymplusBinding
 import org.wit.assignment2.main.MainApp
 import org.wit.assignment2.models.ExerciseModel
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 import timber.log.Timber.i
 >>>>>>> Stashed changes
 
@@ -18,7 +21,11 @@ class ParolymplusActivity : AppCompatActivity() {
     private lateinit var binding: ActivityParolymplusBinding
     var exercise = ExerciseModel()
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     lateinit var app: MainApp
+=======
+    lateinit var app : MainApp
+>>>>>>> Stashed changes
 =======
     lateinit var app : MainApp
 >>>>>>> Stashed changes
@@ -28,6 +35,7 @@ class ParolymplusActivity : AppCompatActivity() {
         var edit = false
         binding = ActivityParolymplusBinding.inflate(layoutInflater)
         setContentView(binding.root)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         binding.toolbarAdd.title = title
         setSupportActionBar(binding.toolbarAdd)
@@ -46,6 +54,12 @@ class ParolymplusActivity : AppCompatActivity() {
         binding.toolbarAdd.title = title
         setSupportActionBar(binding.toolbarAdd)
 
+=======
+
+        binding.toolbarAdd.title = title
+        setSupportActionBar(binding.toolbarAdd)
+
+>>>>>>> Stashed changes
         app = application as MainApp
         i("Parolymplus Activity started...")
         binding.btnAdd.setOnClickListener() {
@@ -88,6 +102,20 @@ class ParolymplusActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.item_cancel -> { finish() }
+        }
+        return super.onOptionsItemSelected(item)
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu): Boolean {
+        menuInflater.inflate(R.menu.menu_exercise, menu)
+        return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.item_cancel -> {
+                finish()
+            }
         }
         return super.onOptionsItemSelected(item)
     }
