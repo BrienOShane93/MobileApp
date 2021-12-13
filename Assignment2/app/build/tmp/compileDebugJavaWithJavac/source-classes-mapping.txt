@@ -1,4 +1,22 @@
+org/wit/assignment2/databinding/ActivityParolymplusListBinding.java
+ org.wit.assignment2.databinding.ActivityParolymplusListBinding
 org/wit/assignment2/BuildConfig.java
  org.wit.assignment2.BuildConfig
+<<<<<<< HEAD
 org/wit/assignment2/databinding/ActivityParolymplusBinding.java
  org.wit.assignment2.databinding.ActivityParolymplusBinding
+=======
+<<<<<<< Updated upstream
+=======
+org/wit/assignment2/databinding/ActivityParolymplusBinding.java
+ org.wit.assignment2.databinding.ActivityParolymplusBinding
+org/wit/assignment2/databinding/CardExerciseBinding.java
+ org.wit.assignment2.databinding.CardExerciseBinding
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+>>>>>>> wip
