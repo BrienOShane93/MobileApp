@@ -18,19 +18,26 @@ import org.wit.assignment2.models.ExerciseModel
 import timber.log.Timber.i
 
 class ParolymplusActivity : AppCompatActivity() {
+
     private lateinit var binding: ActivityParolymplusBinding
-    private lateinit var imageIntentLauncher : ActivityResultLauncher<Intent>
     var exercise = ExerciseModel()
     lateinit var app: MainApp
+    private lateinit var imageIntentLauncher : ActivityResultLauncher<Intent>
+    val IMAGE_REQUEST = 1
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         var edit = false
+
         binding = ActivityParolymplusBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.toolbarAdd.title = title
         setSupportActionBar(binding.toolbarAdd)
+
         app = application as MainApp
+
+        i("Parolymplus Activity started...")
 
         if (intent.hasExtra("exercise_edit")) {
             edit = true
@@ -59,6 +66,7 @@ class ParolymplusActivity : AppCompatActivity() {
                     app.exercises.create(exercise.copy())
                 }
             }
+            i("add Button Pressed: $exercise")
             setResult(RESULT_OK)
             finish()
         }
@@ -66,6 +74,8 @@ class ParolymplusActivity : AppCompatActivity() {
         binding.chooseImage.setOnClickListener {
             showImagePicker(imageIntentLauncher)
         }
+
+        registerImagePickerCallback()
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
@@ -75,7 +85,9 @@ class ParolymplusActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            R.id.item_cancel -> { finish() }
+            R.id.item_cancel -> {
+                finish()
+            }
         }
         return super.onOptionsItemSelected(item)
     }

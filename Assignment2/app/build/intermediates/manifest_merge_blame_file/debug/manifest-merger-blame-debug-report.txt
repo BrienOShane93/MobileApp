@@ -28,59 +28,60 @@
 19-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:10:9-54
 20        android:supportsRtl="true"
 20-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:11:9-35
-21        android:theme="@style/Theme.Assignment2" >
-21-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-49
-22        <activity
-22-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:9-19:20
-23            android:name="org.wit.assignment2.activities.ParolymplusListActivity"
-23-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:19-69
-24            android:exported="true" >
-24-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:14:13-36
-25            <intent-filter>
-25-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:15:13-18:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:16:17-69
-26-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:16:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:17:17-77
-28-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:17:27-74
-29            </intent-filter>
-30        </activity>
-31        <activity android:name="org.wit.assignment2.activities.ParolymplusActivity" >
-31-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:20:9-21:20
-31-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:20:19-65
-32        </activity>
-33
-34        <provider
-34-->[com.squareup.picasso:picasso:2.71828] /Users/BrienOShane93/.gradle/caches/transforms-3/88611d3a65861cfbe767c15c01d65d8d/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
-35            android:name="com.squareup.picasso.PicassoProvider"
-35-->[com.squareup.picasso:picasso:2.71828] /Users/BrienOShane93/.gradle/caches/transforms-3/88611d3a65861cfbe767c15c01d65d8d/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
-36            android:authorities="org.wit.assignment2.com.squareup.picasso"
-36-->[com.squareup.picasso:picasso:2.71828] /Users/BrienOShane93/.gradle/caches/transforms-3/88611d3a65861cfbe767c15c01d65d8d/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
-37            android:exported="false" />
-37-->[com.squareup.picasso:picasso:2.71828] /Users/BrienOShane93/.gradle/caches/transforms-3/88611d3a65861cfbe767c15c01d65d8d/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
-38        <provider
-38-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-39            android:name="androidx.startup.InitializationProvider"
-39-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
-40            android:authorities="org.wit.assignment2.androidx-startup"
-40-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
-41            android:exported="false" >
-41-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
-42            <meta-data
-42-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-43-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
-44                android:value="androidx.startup" />
-44-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
-45            <meta-data
-45-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-46-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-47                android:value="androidx.startup" />
-47-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-48        </provider>
-49    </application>
-50
-51</manifest>
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Assignment2" >
+22-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:12:9-49
+23        <activity
+23-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:9-19:20
+24            android:name="org.wit.assignment2.activities.ParolymplusListActivity"
+24-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:13:19-69
+25            android:exported="true" >
+25-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:14:13-36
+26            <intent-filter>
+26-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:15:13-18:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:16:17-69
+27-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:16:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:17:17-77
+29-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:17:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="org.wit.assignment2.activities.ParolymplusActivity" >
+32-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:20:9-21:20
+32-->/Users/BrienOShane93/Documents/GitHub/MobileApp/Assignment2/app/src/main/AndroidManifest.xml:20:19-65
+33        </activity>
+34
+35        <provider
+35-->[com.squareup.picasso:picasso:2.71828] /Users/BrienOShane93/.gradle/caches/transforms-3/88611d3a65861cfbe767c15c01d65d8d/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+36            android:name="com.squareup.picasso.PicassoProvider"
+36-->[com.squareup.picasso:picasso:2.71828] /Users/BrienOShane93/.gradle/caches/transforms-3/88611d3a65861cfbe767c15c01d65d8d/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+37            android:authorities="org.wit.assignment2.com.squareup.picasso"
+37-->[com.squareup.picasso:picasso:2.71828] /Users/BrienOShane93/.gradle/caches/transforms-3/88611d3a65861cfbe767c15c01d65d8d/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+38            android:exported="false" />
+38-->[com.squareup.picasso:picasso:2.71828] /Users/BrienOShane93/.gradle/caches/transforms-3/88611d3a65861cfbe767c15c01d65d8d/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+39        <provider
+39-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+40            android:name="androidx.startup.InitializationProvider"
+40-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+41            android:authorities="org.wit.assignment2.androidx-startup"
+41-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+42            android:exported="false" >
+42-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+43            <meta-data
+43-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+44                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+44-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+45                android:value="androidx.startup" />
+45-->[androidx.emoji2:emoji2:1.0.0] /Users/BrienOShane93/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+46            <meta-data
+46-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+47                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+48                android:value="androidx.startup" />
+48-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/BrienOShane93/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+49        </provider>
+50    </application>
+51
+52</manifest>

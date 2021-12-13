@@ -16,6 +16,7 @@ import org.wit.assignment2.main.MainApp
 import org.wit.assignment2.models.ExerciseModel
 
 class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
+
     lateinit var app: MainApp
     private lateinit var binding: ActivityParolymplusListBinding
     private lateinit var refreshIntentLauncher : ActivityResultLauncher<Intent>
@@ -32,6 +33,8 @@ class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
         val layoutManager = LinearLayoutManager(this)
         binding.recyclerView.layoutManager = layoutManager
         binding.recyclerView.adapter = ExerciseAdapter(app.exercises.findAll(),this)
+
+        registerRefreshCallback()
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
