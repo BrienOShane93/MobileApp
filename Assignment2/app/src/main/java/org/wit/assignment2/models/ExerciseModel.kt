@@ -1,4 +1,9 @@
 package org.wit.assignment2.models
 
-data class ExerciseModel(var title: String = "",
-                         var description: String = "")
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
+
+@Parcelize
+data class ExerciseModel(var id: Long = 0,
+                         var title: String = "",
+                         var description: String = "") : Parcelable

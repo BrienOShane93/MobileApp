@@ -8,10 +8,12 @@ import android.view.MenuItem
 import androidx.recyclerview.widget.LinearLayoutManager
 import org.wit.assignment2.R
 import org.wit.assignment2.adapters.ExerciseAdapter
+import org.wit.assignment2.adapters.ExerciseListener
 import org.wit.assignment2.databinding.ActivityParolymplusListBinding
 import org.wit.assignment2.main.MainApp
+import org.wit.assignment2.models.ExerciseModel
 
-class ParolymplusListActivity : AppCompatActivity() {
+class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
     lateinit var app: MainApp
     private lateinit var binding: ActivityParolymplusListBinding
 
@@ -26,7 +28,7 @@ class ParolymplusListActivity : AppCompatActivity() {
 
         val layoutManager = LinearLayoutManager(this)
         binding.recyclerView.layoutManager = layoutManager
-        binding.recyclerView.adapter = ExerciseAdapter(app.exercises)
+        binding.recyclerView.adapter = ExerciseAdapter(app.exercises.findAll(),this)
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
@@ -42,5 +44,11 @@ class ParolymplusListActivity : AppCompatActivity() {
             }
         }
         return super.onOptionsItemSelected(item)
+    }
+
+    override fun onExerciseClick(exercise: ExerciseModel) {
+        val launcherIntent = Intent(this, ParolymplusActivity::class.java)
+        launcherIntent.putExtra("exercise_edit", exercise)
+        startActivityForResult(launcherIntent,0)
     }
 }
