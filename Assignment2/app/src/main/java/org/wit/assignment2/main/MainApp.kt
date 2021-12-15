@@ -1,18 +1,19 @@
 package org.wit.assignment2.main
 
 import android.app.Application
-import org.wit.assignment2.models.ExerciseMemStore
-import org.wit.assignment2.models.ExerciseModel
+import org.wit.assignment2.models.ExerciseJSONStore
+import org.wit.assignment2.models.ExerciseStore
 import timber.log.Timber
 import timber.log.Timber.i
 
 class MainApp : Application() {
 
-    val exercises = ExerciseMemStore()
+    lateinit var exercises: ExerciseStore
 
     override fun onCreate() {
         super.onCreate()
         Timber.plant(Timber.DebugTree())
-        i("Parolymplus started")
+        exercises = ExerciseJSONStore(applicationContext)
+        i("Exercise started")
     }
 }

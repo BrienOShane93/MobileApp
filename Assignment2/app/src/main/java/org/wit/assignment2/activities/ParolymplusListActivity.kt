@@ -32,7 +32,7 @@ class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
 
         val layoutManager = LinearLayoutManager(this)
         binding.recyclerView.layoutManager = layoutManager
-        binding.recyclerView.adapter = ExerciseAdapter(app.exercises.findAll(),this)
+        loadExercises()
 
         registerRefreshCallback()
     }
@@ -61,6 +61,15 @@ class ParolymplusListActivity : AppCompatActivity(), ExerciseListener {
     private fun registerRefreshCallback() {
         refreshIntentLauncher =
             registerForActivityResult(ActivityResultContracts.StartActivityForResult())
-            { binding.recyclerView.adapter?.notifyDataSetChanged() }
+            { loadExercises() }
+    }
+
+    private fun loadExercises() {
+        showExercises(app.exercises.findAll())
+    }
+
+    fun showExercises (exercises: List<ExerciseModel>) {
+        binding.recyclerView.adapter = ExerciseAdapter(exercises, this)
+        binding.recyclerView.adapter?.notifyDataSetChanged()
     }
 }

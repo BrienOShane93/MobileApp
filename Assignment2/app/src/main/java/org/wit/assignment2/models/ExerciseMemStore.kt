@@ -32,6 +32,10 @@ class ExerciseMemStore : ExerciseStore {
         }
     }
 
+    override fun delete(exercise: ExerciseModel) {
+        exercises.remove(exercise)
+    }
+
     private fun logAll() {
         exercises.forEach { i("$it") }
     }
